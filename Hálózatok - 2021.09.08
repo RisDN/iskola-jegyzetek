@@ -11,7 +11,21 @@ Hálózati eszközök
      
 [4 Tűzfalak - hardveres]
 
+
 Átviteli közegek
-1) |  
-2) | 
-3) | 
+1) | Rézkábelek
+     Pl.: Koaxális, UTP / STP 
+     
+2) | Optikai kábelek 
+     Pl.: Üvegszálas
+
+3) | Wireless(vezetéknélküli)
+     Pl.: WiFi, Bluetooht, 3G - 5G
+
+Melyik kábelt mikor?
+
+          Egyenes kötésű       Egyenes kötésű
+  Végponti ----------> Közvetítő ----------> Forgalomirányító
+           -------------------------------->
+                     Keresztközésű
+Ha azonos kategória akkor keresztközésű
