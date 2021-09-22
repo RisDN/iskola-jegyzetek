@@ -27,5 +27,13 @@ Melyik kábelt mikor?
           Egyenes kötésű       Egyenes kötésű
   Végponti ----------> Közvetítő ----------> Forgalomirányító
            -------------------------------->
-                     Keresztközésű
+                     Keresztkötésű
 Ha azonos kategória akkor keresztközésű
+
+
+Hálózai típusok - kiterjedés szerint
+   PAN - Personal area network (Személyi hálózat)
+         Végpont és periféria közötti kapcsolat pl.: telefon + bluetooth füles
+         Max két eszköz
+   
+   
