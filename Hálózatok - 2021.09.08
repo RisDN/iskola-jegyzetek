@@ -35,5 +35,31 @@ Hálózai típusok - kiterjedés szerint
    PAN - Personal area network (Személyi hálózat)
          Végpont és periféria közötti kapcsolat pl.: telefon + bluetooth füles
          Max két eszköz
+
+   SOHO - Small Office Home Office
+          Otthoni vagy kis vállalati hálózat
+          Kiterjedése 1 lakásnyi (pár szoba, nem egy épület)
+          Jellemző eszköze: SOHO-Router (pl otthoni net (kurva geci vodafone))
+          
+   LAN - Local area network
+         Helyi halózat
+         Iskola, iroda vagy más tipusú épület hálózata
+         Kiterjedése 1 épületnyi
+         Tartalmaz szervert, routert, switchet stb
    
-   
+   MAN - Metropolitan area network
+         Városi hálózat 
+         Több LAN összekötése, max egy városnyi területen
+         Internet szolgáltatók területi hálózata
+         
+   WAN - Wide area network
+         Nagy kiterjedésű hálózat
+         Egy ország törzshálózata
+         Egy-egy kontinens törzshálózata
+         Globális világhálózaz
+
+
+
+
+
+
