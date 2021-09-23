@@ -65,3 +65,23 @@ Hálózai típusok - kiterjedés szerint
 
 
 
+Topológiai ábrák
+
+Nem használunk:
+ - bus (sín)
+ - gyűrű
+ Koaxális kábelre épül
+
+bus:
+           Szerver
+-------[]----[]----[]----
+       PC          PC
+
+gyűrű:
+       PC. szerver. PC
+|------[]----[]----[]-----|
+|                         |
+|                         |
+|                         |
+|                         |
+|------[]----[]----[]-----|
