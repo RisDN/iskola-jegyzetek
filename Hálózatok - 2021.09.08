@@ -85,3 +85,40 @@ gyűrű:
 |                         |
 |                         |
 |------[]----[]----[]-----|
+
+
+Ma használt: (UTP, STP, Optikai)
+ - Csillag: 
+   - Kiterjesztett Csillag
+ - Fa
+ - Teljes
+
+Csillag:
+          
+          [Szerver]
+           |
+           |
+[PC]----[Switch]----[PC]
+           |
+           |
+           [Nyomtató]
+
+
+Kiterjesztett verzió:
+  Több csillag összekötve switchek által
+
+Fa:
+
+
+       [Szerver]
+           |
+           |
+     [2.emelet Switch]
+           |
+           |
+[Switch]--[Switch]----------[Switch]
+
+
+
+
+
