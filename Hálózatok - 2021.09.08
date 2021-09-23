@@ -94,22 +94,19 @@ Ma használt: (UTP, STP, Optikai)
  - Teljes
 
 Csillag:
-          
-          [Szerver]
+       [Szerver]
            |
            |
 [PC]----[Switch]----[PC]
            |
            |
-           [Nyomtató]
+       [Nyomtató]
 
 
 Kiterjesztett verzió:
   Több csillag összekötve switchek által
 
 Fa:
-
-
             [Szerver]
                 |
                 |
