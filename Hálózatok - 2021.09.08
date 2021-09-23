@@ -110,16 +110,20 @@ Kiterjesztett verzió:
 Fa:
 
 
-       [Szerver]
-           |
-           |
-     [2.emelet Switch]
-           |
-           |
-[Switch]--[Switch]----------[Switch]
+            [Szerver]
+                |
+                |
+          [2.emelet Switch]
+                |
+                |
+     [Switch]-----[Switch]-----[Switch]
 
 
 Teljes:
   Minden mindennel összekötve
+
+
+
+
 
 
