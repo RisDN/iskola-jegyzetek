@@ -1,0 +1,60 @@
+CLI konfigurációs parancsok
+
+Konfigurációs módok
+
+Megnevezés	  Jele         Továbblépési parancs
+User              >	       enable
+Privilege         #            configure terminal
+"globális"Config  (config)#    - 
+Config-almódok    (config-if)#
+                  (config-vlan)#
+                  ....
+
+Visszalépés - exit
+
+Interfészre való belépés - Globális config módban
+interface <interfész száma>
+interface fa0/1
+interface vlan 1
+
+Ip cím adás Interfész-config almódban
+ip address <ip cím> <maszk>
+ip address 172.16.0.0 255.255.255.128
+port bekapcsolás - no shutdown
+port kikapcsolás - shutdown
+
+több portra való belépés
+interface range <port>-<port>
+interface range fa0/5-fa0/10
+interface range fa0/5,fa0/7,fa0/23
+
+Futó konfiguráció kilistázása - Privilege módban
+Show running-config
+
+Futó konfiguráció mentése - Privilege módban
+copy running-config startup-config
+
+újraindítás - Privilege módban
+reload
+
+Jelszavazás
+
+Privilégizált módba továblépést gátló jelszó
+
+sw(config)#enable password <jelszó>
+sw(config)#enable password Almafa123
+
+
+Console kapcsolat lejelszavazása
+sw(config)#line console 0
+sw(config)#password <jelszó>
+sw(config)#login
+
+Távoli elérés lejelszavazása
+sw(config)#line vty 0 15
+sw(config)#password <jelszó>
+sw(config)#login
+
+
+
+
