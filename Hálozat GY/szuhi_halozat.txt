@@ -1,0 +1,61 @@
+CLI konfigurációs parancsok:
+Konfigurációs módok
+
+Megnevezés Jele Tovább lépési parancs
+User        >         enable 
+Privilage   #
+Config-(config)#
+Config-almódók(config-if)#,(config-vlan)#
+
+Interface <interface száma>
+-Interface fa0/1		
+-Interface vlan 1
+
+Ip adás interface-config almódban
+Ip address <ip cím> <maszk>
+Port bekapcsolása - no shutdown(no sh)
+Prot kikapcsolása - shutdown(sh)
+
+Futó konfiguráció kilistázása
+- privilage módban
+Show running-config
+
+Futó konfiguráció mentése
+- privilage módban 
+Copy running-config
+Startup-config
+
+Újraindítás
+- privilage módban
+Reload
+
+No ip domain-lookup
+
+Jelszavazás 
+- privilage módban továbblépést gátló jelszó 
+SW1(config)#enable password <jelszó>
+
+Console kapcsolat lejelszavazása 
+SW1(config)#password <jelszó>
+SW1(config)#login
+
+Távoli elérés lejelszavazása
+SW1(config)#line vty 0 15
+SW1(config)#password <jelszó>
+SW1(config)#login
+
+Privilegizált kód jelszavának titkosítása 
+SW1(config)#enable secret <jelszó>
+
+Console vonali és távoli elérést biztosító jelszó titkosítása 
+SW1(config)#service password <jelszó>
+
+SSH
+SW1(config)#ip domain-name <név>
+SW1(config)#crypto key generate rsa
+SW1(config)#line vty 0 15
+SW1(config-line)#transport input ssh
+SW1(config-line)#password <jelszó>
+SW1(config-line)#login
+SW1(config-line)#exit
+SW1(config)#username <felhasználónév> password <jelszó>
