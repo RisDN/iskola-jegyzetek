@@ -1,0 +1,19 @@
+html {
+    background-color: #DDFFDD;
+    color: #002200;
+}
+
+.felsorolas img {
+    display: inline-block;
+    float: right;
+}
+
+.felsorolas {
+    margin-top: 30px;
+    margin-left: 31%;
+}
+
+.istenfasz {
+    text-align: center;
+    margin-top: 30px;
+}

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
+body {
+    background-image: url('kepek/hatter.png');
+    padding: 15px;
+    font-family: 'Source Serif Pro', serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 222%;
+    margin: 0px 0px 10px;
+}
+
+h2,
+h1,
+h3 {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+p {
+    text-align: justify;
+}
+
+p:first-letter {
+    margin-left: 25px;
+}
+
+.f {
+    font-weight: bold;
+}
+
+.keret {
+    width: 35%;
+    height: 35%;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+    font-size: 75%;
+    background-color: #f1f1f1;
+    box-shadow: 10px 10px 5px #cfb7a2;
+}
+
+.keret img {
+    border-color: #eb7100;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.keret p {
+    font-size: 18px;
+}
+
+#erdekesseg {
+    width: 1050px;
+    float: right;
+    margin-right: 25%;
+    background-color: #ffffcc;
+    -ms-transform: rotate(5deg);
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+    text-align: center;
+    box-shadow: 10px 10px 5px #cfb7a2;
+}
+
+#erdekesseg p {
+    margin: 1px 5px 5px 5px;
+}
+
+#bokor {
+    width: 780px;
+    margin-left: 15%;
+}
+
+#termes {
+    float: left;
+    height: 400px;
+    margin-right: 25px;
+}
+
+li {
+    margin: 3px 0px;
+    font-style: italic;
+    list-style-image: url("kepek/bogyo.png");
+}
+
+.csoda {
+    display: flex;
+    margin-left: 15%;
+}
+
+.csodafelso p {
+    margin-right: 10%;
+}

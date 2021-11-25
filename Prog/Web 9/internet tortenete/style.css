@@ -1,0 +1,63 @@
+.elsoT {
+    background-color: #5C6B7B;
+}
+
+table {
+    background-color: #FFFFFF;
+}
+
+body {
+    color: #000000;
+    background-color: #E0E0E0
+}
+
+table.c11 {
+    width: 650px;
+    height: 650px
+}
+
+td.tiz {
+    text-align: center
+}
+
+table.foggalmamsincs {
+    width: 600px;
+    height: 30px;
+}
+
+td.nyolc {
+    color: #000000;
+    text-align: left
+}
+
+p.kep {
+    text-align: center
+}
+
+p.hat {
+    color: #000000
+}
+
+img.ot {
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px
+}
+
+p.negy {
+    color: #000000;
+    font-size: x-large;
+    font-weight: bold
+}
+
+tr.harom {
+    background-color: #CDDBEB
+}
+
+td.ketto {
+    height: 35px
+}
+
+img.egy {
+    border-width: 0px
+}

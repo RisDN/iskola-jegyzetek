@@ -1,0 +1,29 @@
+body {
+    background-color: AliceBlue;
+    color: blue;
+    text-align: center;
+}
+
+.kep {
+    width: 800;
+    height: 200;
+}
+
+tr,
+th {
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 30px;
+        text-align: left;
+        margin-left: 50%;
+        margin-right: 50%;
+        color: aqua;
+    }
+    .kep {
+        margin: 0 auto;
+        text-align: center;
+    }
+}

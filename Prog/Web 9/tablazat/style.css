@@ -1,0 +1,88 @@
+.tablazat {
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    width: 75%;
+    font-size: 19px;
+}
+
+.szoveg {
+    width: 20%;
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-left: 2%;
+    font-size: 18px;
+    height: 30%;
+}
+
+.tabla {
+    width: 96%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+td,
+th {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.sz {
+    background-color: #eaeaea;
+}
+
+.sz td {
+    border-bottom: solid black 1px;
+}
+
+.cs td {
+    border-bottom: solid black 1px;
+}
+
+.fekete {
+    background-color: #ababab;
+    border-bottom: solid black 1px;
+}
+
+.a {
+    margin-top: 7%;
+    margin-bottom: 3%;
+    background-color: #eaeaea;
+    border-radius: 7px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.b {
+    margin-top: 7%;
+    margin-bottom: 3%;
+    background-color: #eaeaea;
+    border-radius: 7px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.a p {
+    margin: 0;
+    padding: 0;
+}
+
+.b p {
+    margin: 0;
+    padding: 0;
+}
+
+.elegemvan {
+    margin: 0;
+    padding: 0;
+    margin-left: 4%;
+    margin-top: 5%;
+    margin-left: 3%;
+}

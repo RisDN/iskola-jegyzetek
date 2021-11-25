@@ -1,0 +1,40 @@
+@media screen and (max-width: 600px) {
+    nav a {
+        float: none;
+        width: 100%;
+    }
+}
+
+nav {
+    overflow: hidden;
+    background-color: darkcyan;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: wavy;
+}
+
+nav a:hover {
+    color: gray;
+}
+
+nav:hover {
+    background-color: lightslategrey;
+}
+
+.homekep {
+    height: 50px;
+    width: 50px;
+    float: right;
+}
+
+@media screen and (max-width: 600px) {
+    .homekep {
+        display: none;
+    }
+}

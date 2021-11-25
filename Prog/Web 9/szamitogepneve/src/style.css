@@ -1,0 +1,29 @@
+.csik {
+    border-bottom: solid #555555 6px;
+    border-radius: 1%;
+    width: 36%;
+    height: 50%;
+    margin-left: 30%;
+}
+
+body {
+    background-image: url('alap.jpg');
+    color: #333333;
+}
+
+.felsorolas {
+    margin-left: 35%;
+}
+
+img {
+    float: right;
+    display: inline-block;
+}
+
+.kep1 {
+    margin-top: -40px;
+}
+
+.kep2 {
+    margin-top: -40px;
+}

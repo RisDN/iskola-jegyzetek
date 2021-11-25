@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin-top: 15%;
+    margin-left: 35%;
+}
+
+table {
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 15;
+    border-width: 3px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 70%;
+    height: 400px;
+    width: 600px;
+}
+
+tr,
+th,
+td {
+    border-style: solid;
+    border-color: gray;
+    border-radius: 50;
+    border-width: 1px;
+    border-collapse: collapse;
+    height: 40px;
+    width: 60px;
+    margin-top: 10%;
+}
+
+.p {
+    color: rgb(231, 16, 16);
+}

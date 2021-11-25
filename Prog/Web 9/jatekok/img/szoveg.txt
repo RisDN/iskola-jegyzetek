@@ -1,0 +1,43 @@
+﻿index.html:
+----------
+Számítógépes játékok története
+A számítógépes játékok története a számítógépekével közel azonos időre vezethető vissza. Az első programozók csak a maguk szórakoztatására vagy a számítógép képességeinek demonstrálására készítették számítógépes játékprogramjaikat. Később jelent meg az üzlet lehetősége, ami önálló iparrá tette a számítógépes játékgyártást. A számítógépekben rejlő lehetőségek bemutatására készített játékprogramok mind a mai napig fontos színterei a fejlesztéseknek. Gondoljunk csak a sakkozógépre. A Deep Blue az IBM által kifejlesztett számítógép, amely sakkjátékban 1997-ben egy szabályszerű hatjátszmás páros mérkőzésen 3,5-2,5 arányban legyőzte Garri Kaszparovot, az emberi sakkozás akkori világbajnokát. A cél az volt, hogy bemutassák, a számítógép nem úgy gondolkozik, ahogy az ember, de a nyers számítási erő képes speciális esetekben az emberi gondolkodással vetekedni.
+
+Napjaink számítógépes játékainak egyik csoportosítása:
+Akciójáték
+Kalandjáték 
+Szerepjáték 
+Szimuláció
+Stratégiai játék
+Tábla- és kártyajáték
+Egyéb játékok
+
+spacewar.html:
+----------
+Spacewar!
+A Spacewar! az egyik legkorábbi ismert digitális számítógépes játék. A játék elkészítésének célja az volt, hogy demonstrálják a DEC PDP-1 számítógép számítási és megjelenítési képességeit. A fejlesztést Steve Russel 1961-ben kezdte el, és 200 órányi fejlesztés után 1962 februárjában készült el az első változattal.
+A játékban három objektum szerepel:
+Ék alakú űrhajó
+Tű alakú űrhajó
+Csillag
+Az űrhajók korlátozott számú rakétával és üzemanyaggal rendelkeznek. A játékban a két űrhajót két játékos irányítja. A feladat az ellenséges űrhajó megsemmisítése úgy, hogy közben elkerüljük a csillaggal vagy a másik űrhajóval az ütközést. A hajók az üzemanyag segítségével irányíthatók, de az űrhajók mozgását erősen befolyásolja a csillag gravitációs mezője is. Lehetőség van az ellenséges rakéták elől a hipertérbe menekülni, de ekkor a visszatérés egy véletlenszerű helyen történik, és ez egyre nagyobb valószínűséggel a hajó felrobbanásához vezet.
+
+pong.html:
+----------
+PONG
+A PONG volt az első nagy népszerűséget és széleskörű ismertséget szerzett videojáték. 1972-ben készítette el Allan Alcorn, az Atari cég mérnöke. Ez egy asztalitenisz játék, amit egyszerű kétdimenziós grafikával oldottak meg. A két játékos egy-egy függőlegesen mozgatható ütőt irányít. A cél a labda sikeres visszaütése. Amennyiben ezt valamelyik játékos elvéti, az ellenfele pontszáma eggyel nő.
+Az első játéktermi változatok egy fa dobozon belül tartalmaztak egy televízió készüléket, a játékot megvalósító elektronikát és természetesen a pénzgyűjtő egységet.
+
+gameboy.html:
+----------
+Game Boy
+A Game Boy az egyik első, sikeres, nagy példányszámban eladott játékkonzol. A japán Nintendo cég által tervezett és gyártott 8-bites kézi játékkonzol egyik nagy előnye a cserélhető játékkártya volt. Japánban és Észak-Amerikában 1989-ben, Európában pedig 1990-ben került forgalomba. Ez volt a rendkívül sikeres Game Boy játékkonzol-sorozat indító modellje, megalkotója Jokoi Gunpej, aki a Nintendo fejlesztési csoportjának vezetője volt. Annak ellenére, hogy a konzol élettartama alatt sorra jelentek meg a technikailag sokkal fejlettebb más játékkonzolok, a Game Boy óriási sikert aratott. A Game Boy és Game Boy Color modellekből együttvéve közel 120 millió darabot adtak el a világon. Az Egyesült Államokban való megjelenésekor az egész első szállítmány, 1 millió darab, hetek alatt elfogyott. A gép csatlakoztatható további Game Boy konzolokkal is összekötő kábel segítségével. Az összekötött gépeken eleinte két játékos játszhatott egymás mellett ugyanazzal a játékkal, ilyen volt például a Tetris; később megjelentek a több konzol összekötését lehetővé tevő játékok és kábelek is. Legfeljebb 4 gépet lehet ilyen módon összekapcsolni. Ezt a kapcsolatot több játék komolyabban is kihasználja, például a Pokémon játékokban a játékosok ezen keresztül cserélhetnek Pokémonokat, és kommunikálhatnak egymás között. 
+A konzol 3 régióban más időben került forgalomba, a kezdeti játékkínálat is különböző volt:
+Alleyway
+Baseball
+Radar Mission (Európában)
+Solar Striker (Európában)
+Super Mario Land
+Tennis (USA-ban)
+Tetris (a csomagban, US és EU induláskor)
+Yakuman (Japánban)
