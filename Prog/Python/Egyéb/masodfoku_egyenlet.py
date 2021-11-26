@@ -1,7 +1,7 @@
 import math
 a = int(input("Add meg az A-t: "))
-b = int(input("Add meg az B-t: "))
-c = int(input("Add meg az C-t: "))
+b = int(input("Add meg a B-t: "))
+c = int(input("Add meg a C-t: "))
 
 minusz_b = -1*b
 #print("MinuszB:", minusz_b)
