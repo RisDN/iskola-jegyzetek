@@ -16,7 +16,7 @@ gyokvonas_utan = math.sqrt(gyok_alatt)
 #print("Gyökvonás utan:", gyokvonas_utan)
 
 x1 = (minusz_b+gyokvonas_utan)/(2*a)
-#print("X1:", x1)
+print("X1:", x1)
 
 x2 = (minusz_b-gyokvonas_utan)/(2*a)
-#print("X2:", x2)
+print("X2:", x2)
