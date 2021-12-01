@@ -95,6 +95,19 @@
 # print(szoveg.capitalize())
 
 
+# 14 Kérjünk be egy szót és cseréljük le benne a magyar ékezetes betűket az angol ábécé megfelelő ékezet nélküli betűire.
+# szo = input("Szó: ")
+# szo = szo.replace("á", "a")
+# szo = szo.replace("é", "e")
+# szo = szo.replace("í", "i")
+# szo = szo.replace("ö", "o")
+# szo = szo.replace("ő", "o")
+# szo = szo.replace("ü", "u")
+# szo = szo.replace("ű", "u")
+# print(szo)
 
 
-
+#15 Olvassunk be egy szöveget, majd írjuk ki szavanként külön sorba! (Cseréljük le a szóközöket sortörésre!)
+# szo = input("Szó: ")
+# szo = szo.replace(" ", "\n")
+# print(szo)
