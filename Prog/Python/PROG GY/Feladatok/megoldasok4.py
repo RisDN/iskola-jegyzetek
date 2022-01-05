@@ -110,4 +110,8 @@
 #15 Olvassunk be egy szöveget, majd írjuk ki szavanként külön sorba! (Cseréljük le a szóközöket sortörésre!)
 # szo = input("Szó: ")
 # szo = szo.replace(" ", "\n")
+<<<<<<< Updated upstream:Prog/Python/PROG GY/Feladatok/megoldasok4.py
 # print(szo)
+=======
+# print(szo)
+>>>>>>> Stashed changes:Prog/Python/PROG GY/Feladatok/12.01.py
