@@ -44,3 +44,26 @@ for i in range(len(szo)):
 
 if van: print("Van benne olyan betű")
 else: print("Nincs benne olyan betű")
+
+    
+from random import randint
+vizsgazok = [
+    "Petyus",
+    "Gézuka",
+    "Darkee",
+    "Risdn",
+    "Szuhi"
+]
+jegyeik = []
+for i in range(len(vizsgazok)):
+    jegyeik.append(randint(0, 100))
+
+ponthatar = int(input("Add meg a ponthatárt: "))
+
+for i in range(len(vizsgazok)):
+    if jegyeik[i] >= ponthatar:
+        print(vizsgazok[i], jegyeik[i], "Sikeres!")
+    else:
+        print(vizsgazok[i], jegyeik[i], "Sikertelen!")
+    
+    
