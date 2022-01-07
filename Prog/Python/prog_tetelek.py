@@ -25,3 +25,22 @@ print(jegyek)
 
 # C.	Egy diák évvégi jegyeinek ismeretében döntse el a program, hogy kitűnő-e a diák (minden jegye 5 )!
 
+
+
+# A.	Egy szó és egy karakter ismeretében döntse el a program, hogy a megadott karakterrel kezdődik-e a szó?
+szo = input("Szó: ")
+betu = input("Betű:")
+
+if szo[0] == betu:
+    print("A megadottal kezdődik")
+else:
+    print("Nem")
+# B Egy szó és egy karakter ismeretében döntse el a program, hogy a megadott karakter szerepel-e a szóban?
+van = False
+for i in range(len(szo)):
+    if szo[i] == betu:
+        van = True
+        break
+
+if van: print("Van benne olyan betű")
+else: print("Nincs benne olyan betű")
