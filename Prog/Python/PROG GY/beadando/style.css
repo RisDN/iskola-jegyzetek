@@ -1,0 +1,81 @@
+/*
+#6867AC
+#A267AC
+#CE7BB0
+#FFBCD1 
+*/
+
+html {
+    background-color: #6867AC;
+    overflow: hidden;
+}
+
+.doboz {
+    box-shadow: 5px 5px 2.5px #aaaaaa;
+}
+
+.fejezet {
+    height: 100vh;
+}
+
+.fejezet-cim {
+    text-align: center;
+}
+
+.tetelek-nevei {
+    cursor: pointer;
+}
+
+.fejezet-doboz {
+    width: 700px;
+    margin: 0 auto;
+    height: 100vh;
+    padding: 15px;
+    margin-top: 2%;
+    background-color: rgba(255, 255, 255, .8);
+    box-shadow: 5px 5px 2.5px #aaaaaa;
+}
+
+.tetejre {
+    position: fixed;
+    bottom: 10px;
+    left: 0.5%;
+    color: #FFBCD1;
+    width: auto;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.kod {
+    width: 350px;
+}
+
+.kodcontainer {
+    text-align: center;
+}
+
+.kodcontainer pre {
+    display: inline-block;
+    text-align: left;
+}
+
+.fejezet-kovetkezo {
+    text-align: center;
+    padding: 25px;
+    width: max-content;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+.fejezet-kovetkezo i {
+    cursor: pointer;
+    transition: 0.2s;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.fejezet-kovetkezo i:hover {
+    transition: 0.4s;
+    font-size: 27px;
+}
