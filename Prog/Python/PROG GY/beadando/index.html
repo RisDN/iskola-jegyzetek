@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="src/style.css">
     <link rel="stylesheet" href="src/prism.css">
     <script defer src="src/prism.js"></script>
+    <script defer src="src/script.js"></script>
     <!-- UIkit JS -->
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit-icons.min.js"></script>
@@ -21,7 +22,7 @@
 <body>
 
     <div id="tetejere"></div>
-    <div onclick="document.getElementById('tetejere').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="tetejre"><i class="fas fa-home"></i></div>
+    <div onclick="gorgetes('tetejere')" class="tetejre"><i class="fas fa-home"></i></div>
     <div class="fejezet" id="1">
         <div class="uk-position-small uk-position-center uk-overlay uk-overlay-default doboz" tabindex="0">
             <div class="uk-card uk-card-default uk-card-body uk-animation-scale-down uk-padding-bottom">
@@ -33,24 +34,24 @@
 
                 </div>
                 <div class="uk-flex uk-flex-center uk-position-small">
-                    <div onclick="document.getElementById('2').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="uk-animation-toggle" tabindex="0">
+                    <div onclick="gorgetes(2)" class="uk-animation-toggle" tabindex="0">
                         <div class="uk-card uk-card-default uk-card-body tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
                             <h4>Összegzés <i class="fas fa-sort-amount-up"></i></h4>
                         </div>
                     </div>
-                    <div onclick="document.getElementById('3').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="uk-animation-toggle" tabindex="0">
+                    <div onclick="gorgetes(3)" class="uk-animation-toggle" tabindex="0">
                         <div class="uk-card uk-card-default uk-card-body uk-margin-left tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
                             <h4>Megszámolás <i class="fas fa-calculator "></i></h4>
                         </div>
                     </div>
-                    <div onclick="document.getElementById('4').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="uk-animation-toggle " tabindex="0 ">
+                    <div onclick="gorgetes(4)" class="uk-animation-toggle" tabindex="0 ">
                         <div class="uk-card uk-card-default uk-card-body uk-margin-left tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
                             <h4>Eldöntés <i class="fas fa-question-circle"></i></h4>
                         </div>
                     </div>
-                    <div onclick="document.getElementById('5').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="uk-animation-toggle" tabindex="0">
+                    <div onclick="gorgetes(5)" class="uk-animation-toggle" tabindex="0">
                         <div class="uk-card uk-card-default uk-card-body uk-margin-left tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
-                            <h4>Kiválasztás <i class="fas fa-box-open "></i></h4>
+                            <h4>Kiválasztás <i class="fas fa-box-open"></i></h4>
                         </div>
                     </div>
                 </div>
@@ -78,8 +79,8 @@ for num in lista: # Ciklus ami végig fut minden egyes tagon
     osszeg = osszeg + num # Azt a tagot ahol tart, hozzá adja az összeghez
 print("Összeg: ", osszeg) # Kiírjuk a végeredményt</code></pre>
             <div class="fejezet-kovetkezo">
-                <i onclick="document.getElementById('tetejere').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-up"></i>
-                <i onclick="document.getElementById('3').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-down"></i>
+                <i onclick="gorgetes('tetejere')" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes(3)" class="fas fa-arrow-down"></i>
             </div>
         </div>
     </div>
@@ -110,8 +111,8 @@ while i &#60; len(lista): # Ciklus amíg az I kissebb mint a listánk hossza
 print("Összesen", db, "hetes van a listában.") # Végeredmény kiírása (2)</code></pre>
 
             <div class="fejezet-kovetkezo">
-                <i onclick="document.getElementById('2').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-up"></i>
-                <i onclick="document.getElementById('4').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-down"></i>
+                <i onclick="gorgetes(2)" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes(4)" class="fas fa-arrow-down"></i>
             </div>
         </div>
     </div>
@@ -139,15 +140,15 @@ while i&#60;N and not T(lista[i]): # Lehet lista[i] != 4 vagy bármi
 van = i &#60;= len(lista) # Amennyiben a ciklus változó kisseb vagy egyenlő
 #mint a lista hossza, értékünk igaz lesz</code></pre>
             <div class="fejezet-kovetkezo">
-                <i onclick="document.getElementById('3').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-up"></i>
-                <i onclick="document.getElementById('5').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-down"></i>
+                <i onclick="gorgetes(3)" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes(5)" class="fas fa-arrow-down"></i>
             </div>
         </div>
     </div>
 
     <div class="fejezet" id="5">
         <div class="fejezet-doboz">
-            <h2 class="fejezet-cim" style="padding-top: 10%;">Kiválasztás <i class="fas fa-calculator "></i></i>
+            <h2 class="fejezet-cim" style="padding-top: 10%;">Kiválasztás <i class="fas fa-box-open"></i></i>
             </h2>
             <h4>Adott egy <code>N</code> hosszúságú elemű lista. Szeretnénk megtudni, hogy az általunk keresett szám hanyadik indexen áll. ezt úgy tehetjük meg, hogy végig futunk a számokon és ha találunk számunkra megfelelőt megnézzük hanyadiknál jár, ez
                 lesz az indexünk.</h4>
@@ -166,8 +167,8 @@ while not T(lista[i]): # lehet lista[i] != 4 vagy bármi
     i += 1 # Hozzá ad egyet, ha nem egyezik
 index = i, ertek = lista[i] # Ahanyadik ponton lesz, ahol kilép a ciklusból</code></pre>
             <div class="fejezet-kovetkezo">
-                <i onclick="document.getElementById('4').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-arrow-up"></i>
-                <i onclick="document.getElementById('tetejere').scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});" class="fas fa-home"></i>
+                <i onclick="gorgetes(4)" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes('tetejere')" class="fas fa-home"></i>
             </div>
         </div>
     </div>
