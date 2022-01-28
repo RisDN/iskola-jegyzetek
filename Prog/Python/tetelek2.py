@@ -62,6 +62,20 @@ else: print(f"A Róka csapat gyűjtött többet a {maxR+1}. hónapban")
 
 
 # Írassuk ki a hónapokat a havi összesen gyűjtött mennyiség szerint növekvő sorrendben!
+def honap_szamito(szam):
+    if szam == 1: return "Január"
+    elif szam == 2: return "Február"
+    elif szam == 3: return "Március"
+    elif szam == 4: return "Április"
+    elif szam == 5: return "Május"
+    elif szam == 6: return "Június"
+    elif szam == 7: return "Július"
+    elif szam == 8: return "Augusztus"
+    elif szam == 9: return "Szeptember"
+    elif szam == 10: return "Október"
+    elif szam == 11: return "November"
+    elif szam == 12: return "December"
+
 osszesitve = []
 for m, r in zip(M, R):
     i += 1
