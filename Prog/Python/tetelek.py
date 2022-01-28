@@ -33,9 +33,13 @@ while i < len(lehetosegek) and lehetosegek[i] != len(jegyek)/5:
 if i < len(lehetosegek): print("Van")
 else: print("Nincs")
 
-# Minden osztályzat előfordul legalább 5-ször?
+# Minden osztályzat előfordul legalább 25-ször?
+i = 0
+while i < len(lehetosegek) and lehetosegek[i] >= 25:
+    i += 1
 
-
+if i < len(lehetosegek): print("Nem mindegyik legalább 25")
+else: print("Mindegyik legalább 25")
 
 
 
