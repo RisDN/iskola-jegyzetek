@@ -6,7 +6,6 @@ osszeg = 0
 
 for i in range(150):
     jegy = randint(1, 5)
-    osszeg += jegy
     lehetosegek[jegy-1] += 1
     jegyek.append(jegy)
 
@@ -42,4 +41,10 @@ if i < len(lehetosegek): print("Nem mindegyik legalább 25")
 else: print("Mindegyik legalább 25")
 
 
+# Mennyi az évfolyamátlag?
+osszeg = 0
+for i in jegyek:
+    osszeg += i
+print(osszeg)
+print("Az évfolyam átlag:", float(osszeg/len(jegyek)))
 
