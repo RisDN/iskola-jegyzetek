@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programozási tételek</title>
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/css/uikit.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="stylesheet" href="src/prism.css">
+    <script defer src="src/prism.js"></script>
+    <script defer src="src/script.js"></script>
+    <!-- UIkit JS -->
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit-icons.min.js"></script>
+
+</head>
+
+<body>
+
+    <div id="tetejere"></div>
+    <div onclick="gorgetes('tetejere')" class="tetejre"><i class="fas fa-home"></i></div>
+    <div class="fejezet" id="1">
+        <div class="uk-position-small uk-position-center uk-overlay uk-overlay-default doboz" tabindex="0">
+            <div class="uk-card uk-card-default uk-card-body uk-animation-scale-down uk-padding-bottom">
+
+                <div class="uk-flex uk-flex-center">
+                    <div class="uk-card uk-card-default uk-card-body">
+                        <h2>Programozási tételek</h2>
+                    </div>
+
+                </div>
+                <div class="uk-flex uk-flex-center uk-position-small">
+                    <div onclick="gorgetes(2)" class="uk-animation-toggle" tabindex="0">
+                        <div class="uk-card uk-card-default uk-card-body tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
+                            <h4>Összegzés <i class="fas fa-sort-amount-up"></i></h4>
+                        </div>
+                    </div>
+                    <div onclick="gorgetes(3)" class="uk-animation-toggle" tabindex="0">
+                        <div class="uk-card uk-card-default uk-card-body uk-margin-left tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
+                            <h4>Megszámolás <i class="fas fa-calculator "></i></h4>
+                        </div>
+                    </div>
+                    <div onclick="gorgetes(4)" class="uk-animation-toggle" tabindex="0 ">
+                        <div class="uk-card uk-card-default uk-card-body uk-margin-left tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
+                            <h4>Eldöntés <i class="fas fa-question-circle"></i></h4>
+                        </div>
+                    </div>
+                    <div onclick="gorgetes(5)" class="uk-animation-toggle" tabindex="0">
+                        <div class="uk-card uk-card-default uk-card-body uk-margin-left tetelek-nevei uk-card uk-card-default uk-card-body uk-animation-slow uk-animation-fade" title="Kattints a megtekintésért">
+                            <h4>Kiválasztás <i class="fas fa-box-open"></i></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fejezet" id="2">
+        <div class="fejezet-doboz">
+            <h2 class="fejezet-cim" style="padding-top: 10%;">Összegzés <i class="fas fa-sort-amount-up"></i></h2>
+            <h4>Adott egy <code>N</code> hosszúságú elemű lista. Szeretnénk, hogy ennek elemeinek az <code>összegét</code> vissza adja a program. Ezt könnyen megtehetjük úgy, hogy végig futunk minden egyes elemen, majd egy váltózóhoz mindíg hozzá adjuk azt
+                az értéket, aminél tart.</h4>
+            <h3>Pszeudókód: </h3>
+            <pre><code class="language-py">Eljárás 
+Lista
+Összeg
+Ciklus végig a listán
+Aktuális lista elem hozzáadása az összeghez
+Ciklus vége
+Összeg kiírása
+</code></pre>
+            <h3>Példa: </h3>
+            <pre class="kodcontainer"><code class="language-py">lista = [3, 8, 2, 4, 5, 1, 6] # Tömbünk
+osszeg = 0 # Változó amihez mindíg hozzá adjuk az értékeket
+for num in lista: # Ciklus ami végig fut minden egyes tagon
+    osszeg = osszeg + num # Azt a tagot ahol tart, hozzá adja az összeghez
+print("Összeg: ", osszeg) # Kiírjuk a végeredményt</code></pre>
+            <div class="fejezet-kovetkezo">
+                <i onclick="gorgetes('tetejere')" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes(3)" class="fas fa-arrow-down"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="fejezet" id="3">
+        <div class="fejezet-doboz">
+            <h2 class="fejezet-cim" style="padding-top: 3%;">Megszámolás <i class="fas fa-calculator "></i></i>
+            </h2>
+            <h4>Adott egy <code>N</code> hosszúságú elemű lista. Szeretnénk, megvizsgálni hogy az elemei közt <code>hány darab 7-es van</code>. Végig futunk egy ciklus segítségével minden egyes elemen, és <code>megvizsgáljuk</code> azt, hogy 7-es e. Ha igen,
+                egy változóhoz hozzá ad 1-et, ezzel jelezve a 7-esek darabszámát.</h4>
+            <h3>Pszeudókód: </h3>
+            <pre><code class="language-py">Változó
+    i:Egész
+    Db:=0
+    Ciklus i=1-től N-ig
+        Ha T(X[i]) akkor Db:=Db+1
+    Ciklus vége
+Eljárás vége.
+</code></pre>
+            <h3>Példa: </h3>
+            <pre class="kodcontainer"><code class="language-py">lista = [7, 5, 4, 3, 2, 9, 7] # Listánk
+i = 0 # Ciklus váltózó 0-ról indul
+db = 0 # Darabszám 0-ról indul
+while i &#60; len(lista): # Ciklus amíg az I kissebb mint a listánk hossza
+    if lista[i] == 7: # Amennyiben a lista I-edik tagja 7
+        db += 1 # Hozzáad egyet a darabszámhoz
+    i += 1 # Ciklus váltózó növelése, hogy haladjon
+print("Összesen", db, "hetes van a listában.") # Végeredmény kiírása (2)</code></pre>
+
+            <div class="fejezet-kovetkezo">
+                <i onclick="gorgetes(2)" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes(4)" class="fas fa-arrow-down"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="fejezet" id="4">
+        <div class="fejezet-doboz">
+            <h2 class="fejezet-cim" style="padding-top: 7%;">Eldöntés <i class="fas fa-calculator "></i></i>
+            </h2>
+            <h4>Adott egy <code>N</code> hosszúságú elemű lista. Szeretnénk megtudni, hogy van e benne egy adott szám. Végig futunk minden egyes elemen, ha talál nekünk megfelelőt, akkor tovább halad, ha nem akkor kilép. </h4>
+            <h3>Pszeudókód: </h3>
+            <pre><code class="language-py">Változó
+        i:Egész
+        i:=1
+    Ciklus amíg i≤N és nem T(X[i])
+        i:=i+1
+    Ciklus vége
+    Van:=i≤N
+Eljárás vége.
+</code></pre>
+            <h3>Példa: </h3>
+            <pre class="kodcontainer"><code class="language-py">lista = [1, 4, 3, 2, 1, 3, 4, 5] # Listám
+i = 0 # Ciklus váltózó 0-ról indul
+while i&#60;N and not T(lista[i]): # Lehet lista[i] != 4 vagy bármi
+    i += 1 # Ciklus változóhoz hozzá ad egyet, hogy halodjon
+van = i &#60;= len(lista) # Amennyiben a ciklus változó kisseb vagy egyenlő
+#mint a lista hossza, értékünk igaz lesz</code></pre>
+            <div class="fejezet-kovetkezo">
+                <i onclick="gorgetes(3)" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes(5)" class="fas fa-arrow-down"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="fejezet" id="5">
+        <div class="fejezet-doboz">
+            <h2 class="fejezet-cim" style="padding-top: 10%;">Kiválasztás <i class="fas fa-box-open"></i></i>
+            </h2>
+            <h4>Adott egy <code>N</code> hosszúságú elemű lista. Szeretnénk megtudni, hogy az általunk keresett szám hanyadik indexen áll. ezt úgy tehetjük meg, hogy végig futunk a számokon és ha találunk számunkra megfelelőt megnézzük hanyadiknál jár, ez
+                lesz az indexünk.</h4>
+            <h3>Pszeudókód: </h3>
+            <pre><code class="language-py">i:=1
+Ciklus amíg nem T(X[i])
+    i:=i+1
+Ciklus vége
+    Ind:=i; Ért:=X[i]
+Eljárás vége.
+</code></pre>
+            <h3>Példa: </h3>
+            <pre class="kodcontainer"><code class="language-py">lista = [1, 3 , 4, 3, 9, 6] # Lista
+i = 0 # Ciklus változó 0-ról indul
+while not T(lista[i]): # lehet lista[i] != 4 vagy bármi
+    i += 1 # Hozzá ad egyet, ha nem egyezik
+index = i, ertek = lista[i] # Ahanyadik ponton lesz, ahol kilép a ciklusból</code></pre>
+            <div class="fejezet-kovetkezo">
+                <i onclick="gorgetes(4)" class="fas fa-arrow-up"></i>
+                <i onclick="gorgetes('tetejere')" class="fas fa-home"></i>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
