@@ -1,0 +1,26 @@
+Ács Apor;1035;Budapest III. kerület;Tar;utca;25;6000
+Barnat Bogdan Adrian;1038;Budapest III. kerület;Visi Imre;utca;2;5000
+Bellér Patrik;2162;Őrbottyán;Kartács;utca;6;4000
+Berze Dorina Fanni;1135;Budapest XIII. kerület;Bolgárkertész;utca;69;3000
+Birkás Barna;3600;Ózd;István;út;98;2000
+Csepák Zoltán;1039;Budapest III. kerület;Tallér;utca;5;1000
+Csizik Márk;1045;Budapest IV. kerület;Mildenberger;utca;3;6000
+Fodor Zoltán;1134;Budapest XIII. kerület;Dob;utca;45;5000
+Gligor Zoltán Krisztián;1153;Budapest XV. kerület;Nyár;utca;58;4000
+Győző Gergely;1141;Budapest XIV. kerület;Liget;utca;7;3000
+Király Tamás;2162;Őrbottyán;Ady Endre;utca;2;2000
+Kovács Norbert Gábor;1098;Budapest IX. kerület;Berda József;utca;65;500
+Megyeri Kristóf;1045;Budapest IV. kerület;Szőlő;utca;68;6000
+Molnár Richárd;2461;Tárnok;Koszorú;utca;96;5000
+Németh Zoltán;1173;Budapest XVII. kerület;Bécsi;út;52;4000
+Nyéki Patrik;1134;Budapest XIII. kerület;Kálvin;utca;2;3000
+Oravecz Tamás;1088;Budapest VIII. kerület;Gyöngyösi;utca;3;2000
+Orosz Zoltán;2145;Kerepes;Megyeri;út;3;1000
+Őze László Bence;2461;Tárnok;Harcsa;utca;36;6000
+Radvánszki Zsolt;2083;Solymár;Dózsa Gy.;utca;365;5000
+Ráncsik Áron;1119;Budapest XI. kerület;Heves;utca;12;4000
+Sujt Gábor László;1048;Budapest IV. kerület;Wesselényi;utca;1;3000
+Szőnyi Attila;4734;Szamosújlak;Ady Endre;utca;4;2000
+Takács Kornél Zoltán;1137;Budapest XIII. kerület;Padlizsán;utca;7;4000
+Tkácsik Tibor;1043;Budapest IV. kerület;Magyarság;sétány;56;6000
+Ványi Ákos;2532;Tokodaltáró;Ifjúmunkás;út;23;8000
