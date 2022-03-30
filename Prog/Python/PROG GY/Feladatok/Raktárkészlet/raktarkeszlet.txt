@@ -1,0 +1,8 @@
+kalapács,10,1200
+100-as szeg,2000,10
+falfesték,20,2500
+réz csavar,15,2000
+faléc,120,150
+óralánc,2000,0
+ecset,250,20
+kilincs,400,50
