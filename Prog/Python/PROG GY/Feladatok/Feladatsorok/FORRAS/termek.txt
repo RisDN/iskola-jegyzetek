@@ -1,0 +1,11 @@
+﻿0;Neumann terem;150;1
+0;Bill Gates terem;200;1
+1;Szeminárium 1;20;1
+1;Szeminárium 2;16;0
+1;Szeminárium 3;16;1
+1;Szeminárium 4;16;1
+2;Gépterem I;10;10
+2;Gépterem II;12;12
+2;Gépterem III;12;16
+2;Gépterem IV;12;16
+2;Gépterem V;10;12
