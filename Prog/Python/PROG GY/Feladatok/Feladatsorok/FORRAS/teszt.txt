@@ -1,0 +1,60 @@
+﻿1. szorobán
+A. régi nemesi rang
+B. japán számolást segítő eszköz
+C. középkori fegyver
+2. algoritmus
+A. a feladat megoldásához szükséges lépések felsorolása
+B. programozási nyelv
+C. ütem
+3. differencia
+A. fogaskerék
+B. különbség
+C. ülésezés
+4. analitikus
+A. írástudó
+B. északi nép
+C. elemző
+5. digitális
+A. diszkrét értékeken alapuló
+B. újszerű
+C. hangköz
+6. univerzális
+A. egyetemes, általános
+B. újszerű
+C. hangköz
+7. memória
+A. áramköri elem
+B. a halál állapota
+C. emlékezet
+8. automata
+A. billentyű
+B. önműködő
+C. emlékezet
+9. szinkron
+A. félvezető anyag
+B. időzített
+C. egy időben történő
+10. paralellizmus
+A. tudományág
+B. párhuzamosság, hasonlóság
+C. fizetség
+11. integrálódik
+A. megtisztul
+B. egységesül
+C. képes felfogni
+12. aszinkron
+A. nem egyidejű
+B. hasonlít
+C. kemény anyag
+13. orientálás
+A. utazás
+B. keleties
+C. irányítás
+14. asszociatív
+A. összekötő, egyesítő
+B. egybehangzó
+C. rendszerező
+15. analóg
+A. korszerűtlen
+B. megfelelő
+C. szükségszerű

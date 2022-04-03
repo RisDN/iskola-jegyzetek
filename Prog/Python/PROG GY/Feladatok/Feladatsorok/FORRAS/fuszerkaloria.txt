@@ -1,0 +1,39 @@
+ánizs	337	17.6	15.9	50.0
+babérlevél	313	7.6	8.4	75.0
+bazsalikom	233	23.0	4.1	47.8
+borsfű	272	6.7	5.9	68.7
+borsmenta	70	3.8	0.9	14.9
+cayenne bors	318	12.0	17.3	56.6
+curry	325	12.7	13.8	58.2
+csili	282	13.5	14.3	49.7
+édeskömény	345	15.8	14.9	52.3
+fahéj	247	4.0	1.2	80.6
+fehér bors	296	10.4	2.1	68.6
+fekete bors	251	10.4	3.3	64.0
+fodormenta	44	3.3	0.7	8.4
+fokhagyma	363	15.8	0.3	70.4
+görögszéna	323	23.0	6.4	58.4
+gyömbér	316	7.4	3.3	60.0
+kakukkfű	276	9.1	7.4	63.9
+kapor	320	19.9	4.4	42.2
+kapribogyó	23	2.4	0.9	4.9
+koriander	298	12.4	17.8	55.0
+kömény	333	19.8	14.6	49.9
+kurkuma	354	7.8	9.9	64.9
+majoranna	271	12.7	7.0	60.6
+mustármag	508	26.1	36.2	28.1
+oregánó	265	9.0	4.3	68.9
+petrezselyem	292	26.6	5.5	50.6
+piros paprika	282	14.1	12.9	54.0
+római kömény	375	17.8	22.3	44.2
+rozmaring	331	4.9	15.2	64.1
+sáfrány	310	11.4	5.9	65.4
+só	0	0.0	0.0	0.0
+szegfűbors	263	6.1	8.7	72.1
+szegfűszeg	323	6.0	20.1	61.2
+szerecsendió	525	5.8	36.3	49.3
+tárkony	295	22.8	7.2	50.2
+turbolya	237	23.2	3.9	49.1
+vaníliakivonat	288	0.1	0.1	12.7
+vöröshagymapor	341	10.4	1.0	79.1
+zsálya	315	10.6	12.8	60.7

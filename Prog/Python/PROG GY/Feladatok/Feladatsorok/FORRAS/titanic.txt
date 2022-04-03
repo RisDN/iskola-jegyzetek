@@ -1,0 +1,11 @@
+gyerekek-masodosztaly;24;0
+nok-elsoosztaly;140;4
+nok-hajon dolgozok;20;3
+nok-masodosztaly;80;13
+gyerekek-elsoosztaly;5;1
+nok-harmadosztaly;76;89
+gyerekek-harmadosztaly;27;52
+ferfiak-elsoosztaly;57;118
+ferfiak-legenyseg;192;693
+ferfiak-harmadosztaly;75;387
+ferfiak-masodosztaly;14;154

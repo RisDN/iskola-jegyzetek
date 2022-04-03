@@ -1,0 +1,13 @@
+﻿Kiss Béla;Tengőd;1957.02.21;1131 Budapest, Váci út 133.;425-25-52;Gépkezelő;1999.03.05;1
+Rózsa Kálmán;Karcag;1966.11.13;1041 Budapest, Szent István tér 11.;329-53-26;Gépkezelő;2001.07.01;1
+Balga Imre;Vác;1973.08.08;1066 Budapest, Ló u. 54.;223-18-99;Gépkezelő;2000.01.02;1
+Palotás Géza;Budapest;1960.07.15;1054 Budapest, Kossuth u. 4.;293-87-18;Gépészmérnök;2005.11.15;1
+Virág Perta;Budapest;1980.12.03;1027 Budapest, Szász Károly u. 2.;255-11-33;Titkárnő;2004.04.20;0
+Ferenc Lajos;Miskolc;1976.04.23;1132 Budapest, Béke út 48.;352-14-76;Szakács;2001.09.01;1
+Varga László;Budapest;1961.06.11;1125 Budapest, Tálya u. 20.;453-11-17;Ügyvezető;1999.01.01;1
+Varga Lászlóné;Fót;1963.10.08;1125 Budapest, Tálya u. 20.;453-11-17;Adminisztrátor;1999.01.01;0
+Varga Katalin;Budapest;1958.01.11;1026 Budapest, Mártírok útja 12.;367-42-85;Adminisztrátor;1999.01.01;0
+Takács Péter;Budapest;1980.03.12;1046 Budapest, Lóverseny tér 3.;329-45-22;Üzletkötő;2002.06.25;1
+Kókai Balázs;Ajka;1969.09.18;2120 Dunakeszi, Fő út 19.;;Üzemvezető;2002.04.01;1
+Sárvári Ede;Budapest;1983.11.14;1214 Budapest, Csepeli dűlő 233.;376-49-79;Raktáros;2003.02.01;1
+Asztalos Péter;Budapest;1974.05.05;1041 Budapest, Deák F. u. 93.;333-33-33;Informatikus;1999.12.01;1

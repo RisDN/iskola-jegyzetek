@@ -1,0 +1,14 @@
+﻿Barsi Dénes Általános Iskola;160;4,005340553;2,453987982;2,40920981
+Batthyány Ilona Általános Iskola;52;4,771029915;2,052946895;1,487088469
+Batthyány Lajos Általános Iskola;85;4,485265023;2,467197368;4,897805035
+Beethoven Általános Iskola;148;3,93785394;2,393342185;2,090148942
+Centenáriumi Általános Iskola és Szakiskola;297;2,370988654;2,405032204;1,935944395
+Czabán Általános Iskola és Óvoda;72;1,145812873;2,916533667;2,36213246
+Czimra Gyula Általános Iskola;157;4,863358762;3,61526036;3,117998637
+Csanádi Árpád Általános Iskola;510;2,526760132;4,982754968;3,485686259
+Halmi Telepi Általános Iskola;122;3,027520275;2,217219119;4,831867689
+Harmat Általános Iskola;180;4,537106287;3,140786001;3,760616363
+Hársfadombi Általános Iskola;269;3,366520778;3,011024296;4,471926916
+II. Rákóczi Ferenc Általános Iskola;136;4,212003165;2,765008515;2,115078657
+Jókai Mór Általános Iskola;620;1,097767981;3,16471273;4,944734591
+József Attila Általános Iskola;64;2,738145176;3,295458046;4,485033071
