@@ -13,3 +13,4 @@ cd - Könyvtár változtatása
 echo - Új fájl létrehozása
 type - Fájl tartalma kiírása
 reboot - Operációs rendszer újraindítása
+history - Parancs előzmények
