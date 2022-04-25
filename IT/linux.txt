@@ -1,0 +1,16 @@
+sudo - Rendszergazdaként futtatni egy parancsot
+nano - Szövegszerkesztő
+mc - Fájlkezelő
+apt - Package manager a linuxhoz
+tree - Könyvtár
+cp - Fájl másolása
+ls - Aktív mappában lévő fájlok
+clear - Képernyő törlése
+rm - Mappa / fájl törlése
+mkdir - Mappa létrehozás
+rmdir - Mappa törlés
+cd - Könyvtár változtatása
+echo - Új fájl létrehozása
+type - Fájl tartalma kiírása
+reboot - Operációs rendszer újraindítása
+history - Parancs előzmények

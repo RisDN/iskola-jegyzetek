@@ -1,0 +1,26 @@
+.info {
+    background-color: rgb(250, 250, 210);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(105, 105, 105);
+}
+
+.lablec a {
+    color: black;
+    font-weight: bold;
+}
+
+.lablec a:hover {
+    color: red;
+    font-style: italic;
+}
+
+p {
+    text-align: justify;
+}
+
+.lablec {
+    margin: 0 auto;
+    width: 87%;
+}
