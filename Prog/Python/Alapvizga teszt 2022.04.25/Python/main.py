@@ -2,6 +2,7 @@ import math
 print('1. feladat:')
 x = int(input('Kérem a hatványalapot: '))
 n = int(input('Kérem a sorozat hosszát: '))
+print(f'{x} első {n} hatványa')
 for i in range(1, n+1):
     print(int(math.pow(x, i)), end=" ")
 
