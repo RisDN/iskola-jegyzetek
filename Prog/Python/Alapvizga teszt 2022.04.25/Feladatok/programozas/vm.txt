@@ -1,0 +1,9 @@
+A1;narancslé (200 ml);180;8
+A2;túrórudi (30 g);120;3
+B1;chips, hagymás (75 g);350;9
+B2;chips, sós (75 g);350;11
+C1;almalé (330 ml);150;6
+C2;cola (500 ml);280;2
+C3;csoki, kakaós (40 g);110;0
+D1;csoki, mogyorós, (40 g);110;7
+D2;ropi, sózott (35 g);80;10
