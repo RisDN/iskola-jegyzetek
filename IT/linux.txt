@@ -17,3 +17,5 @@ history - Parancs előzmények
 lswh - Rendszerinformációk
 ls -al /home - Listázás egy directoryra
 cat /etc/passwd - Felhasználók listája
+cat /etc/group - Csoportok listája
+adduser tanulo - Új felhasználó
