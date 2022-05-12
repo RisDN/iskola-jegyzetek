@@ -14,3 +14,4 @@ echo - Új fájl létrehozása
 type - Fájl tartalma kiírása
 reboot - Operációs rendszer újraindítása
 history - Parancs előzmények
+lswh - Rendszerinformációk
