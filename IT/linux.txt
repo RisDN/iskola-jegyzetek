@@ -15,3 +15,5 @@ type - Fájl tartalma kiírása
 reboot - Operációs rendszer újraindítása
 history - Parancs előzmények
 lswh - Rendszerinformációk
+ls -al /home - Listázás egy directoryra
+cat /etc/passwd - Felhasználók listája
