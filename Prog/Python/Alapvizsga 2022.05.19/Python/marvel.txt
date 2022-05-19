@@ -1,0 +1,27 @@
+A Vasember;1;2008-05-02;140;585
+A hihetetlen Hulk;1;2008-06-13;150;263
+Vasember 2;1;2010-05-07;200;624
+Thor;1;2011-05-06;150;449
+Amerika Kapitány: Az első bosszúálló;1;2011-07-22;140;371
+Bosszúállók;1;2012-05-04;220;1519
+Vasember 3;2;2013-05-03;200;1215
+Thor: Sötét világ;2;2013-11-08;170;645
+Amerika Kapitány: A tél katonája;2;2014-04-04;170;714
+A galaxis őrzői;2;2014-08-01;170;773
+Bosszúállók: Ultron kora;2;2015-05-01;250;1405
+A Hangya;2;2015-07-17;130;519
+Amerika Kapitány: Polgárháború;3;2016-05-06;250;1153
+Doctor Strange;3;2016-11-04;165;678
+A galaxis őrzői vol 2;3;2017-05-05;200;864
+Pókember: Hazatérés;3;2017-07-07;175;880
+Thor: Ragnarök;3;2017-11-03;180;854
+Fekete Párduc;3;2018-02-16;205;1347
+Bosszúállók: Végtelen háború;3;2018-04-27;350;2048
+A Hangya és a Darázs;3;2018-07-06;162;623
+Marvel Kapitány;3;2019-03-08;152;1128
+Bosszúállók: Végjáték;3;2019-04-26;350;2798
+Pókember: Idegenben;3;2019-07-02;160;1132
+Fekete Özvegy;4;2021-07-09;200;380
+Shang-Chi és a tíz gyűrű legendája;4;2021-09-03;150;432
+Örökkévalók;4;2021-11-05;200;401
+Pókember: Nincs hazaút;4;2021-12-17;200;1161

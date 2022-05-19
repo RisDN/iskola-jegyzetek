@@ -1,0 +1,116 @@
+header {
+    background-size: cover;
+    background-position: center;
+    min-height: 350px;
+}
+
+h1 {
+    text-align: right;
+    margin-top: 250px;
+    color: #324262;
+}
+
+.nav-link,
+h3,
+a {
+    color: #324262;
+}
+
+.nav-link:hover,
+a:hover {
+    color: #4f648d;
+}
+
+h3 {
+    font-variant: small-caps;
+}
+
+section {
+    padding: 20px;
+    margin: 40px 0px;
+    background-color: lightsteelblue;
+}
+
+.card {
+    border: 1px solid #4f648d;
+    box-shadow: 1px 1px 1px #324262;
+}
+
+#tablazat {
+    width: 50%;
+}
+
+#elsosor {
+    text-transform: uppercase;
+    color: #324262;
+}
+
+td {
+    text-align: center;
+}
+
+section:last-child {
+    margin-bottom: 10px;
+}
+
+
+/*
+Általam irtak:
+*/
+
+body {
+    text-align: justify;
+}
+
+.stborder {
+    border: #324262 solid 1px;
+}
+
+header {
+    padding: 30px;
+    max-height: 500px;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+section:first-child {
+    /* "első gyerek"-en nagyon nevettem :D */
+    margin-top: 0;
+}
+
+.btn {
+    color: white;
+    background-color: #4f648d;
+}
+
+#elsosor {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    text-transform: inherit;
+    font-style: italic;
+}
+
+@media screen and (max-width: 768px) {
+    .btn,
+    #tablazat {
+        width: 100%;
+    }
+}
+
+header {
+    background-image: url('../kepek/header.jpg');
+}
+
+main {
+    margin: 0 auto;
+}
