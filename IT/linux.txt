@@ -20,3 +20,4 @@ cat /etc/passwd - Felhasználók listája
 cat /etc/group - Csoportok listája
 adduser tanulo - Új felhasználó
 sudo passwd -l tanulo - Fiók zárolása
+sudo dpkg-reconfigure tzdata - Régió változtatás
