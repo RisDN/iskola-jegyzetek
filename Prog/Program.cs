@@ -1,102 +1,133 @@
 ﻿class Program {
-    
 
-    private static List<Stadium> stadiums = new List<Stadium>();
+
     public static void Main(string[] args) {
-       
-       // 2.
-        string[] lines = File.ReadAllLines("vb2018.txt");
-        foreach (string line in lines) {
-            stadiums.Add(new Stadium(line));
+
+        StreamReader rd = new StreamReader(@"chi.txt");
+        while (!rd.EndOfStream) {
+            new Chi(rd.ReadLine());
         }
+        rd.Close();
 
-        // 3.
-        Console.WriteLine("3. feladat: Stadionok száma: " + getAmounts());
+        List<Chi> list = Chi.getChis();
 
-        // 4.
-        Console.WriteLine("4. feladat: A legkevesebb férőhely: ");
-        Stadium smallest = getSmallest();
-        Console.WriteLine("     Város: " + smallest.getCity());
-        Console.WriteLine("     Stadion neve: " + smallest.getName1());
-        Console.WriteLine("     Férőhely: " + smallest.getSize());
+		Console.WriteLine("2. feladat: ");
+        Console.WriteLine($"Összesen {Chi.getChisCount()} db csincsilla van.");
 
 
-        // 5.
-        Console.WriteLine("Átlagos férőhelyszám: " + getAvarageSize());
-
-        // 6.
-        Console.WriteLine("Két néven is ismert stadionok száma: " + getDobleNameCount());
-
-        // 7.
-    
-        string city = "";
-        Console.Write("\nKérem a város nevét: ");
-        goto asd;
-        asd:
-            city = Console.ReadLine();
-            if(city.Length < 3) {
-                goto asd;
-            }
-        
-        // 8
-        Console.WriteLine(isVbPlace(city) ? "8. feladat: A megadott város VB helyszín" : "8. feladat: A megadott város nem VB helyszín");
-        
-    }
-
-    public static Boolean isVbPlace(string city) {
-        foreach (Stadium item in stadiums) {   
-            if(item.getCity().ToLower().Equals(city.ToLower())) {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    public static Stadium? getStadiumByCity(string city) {
-
-        foreach (Stadium item in stadiums) {   
-            if(item.getCity().ToLower().Equals(city.ToLower())) {
-                return item;
-            }
-        }
-        return null;
-
-    }
-
-    public static int getDobleNameCount() {
+        Console.WriteLine("\n3. feladat");
         int count = 0;
-        foreach (Stadium item in stadiums) {   
-            if(item.getName2().Equals("n.a.")) {
+        foreach (Chi chi in list) {
+            if(!chi.getLikesPet().Equals(Pet.Y)) {
                 continue;
-            }
+			}
             count++;
         }
-        return count;
-    }
+        double likes = (double) count / Chi.getChisCount() * 100;
+		Console.WriteLine($"{count} A csincsillák {likes:0.00}%-a szereti, ha simogatják.");
 
-    public static int getAmounts() {
-        return stadiums.Count();
-    }
+        Console.WriteLine("\n4. feladat");
 
-    public static double getAvarageSize() {
-        int sum = 0;
-        foreach (Stadium item in stadiums) {   
-            sum += item.getSize();
+        Chi searched = null;
+        foreach (Chi chi in list) {
+            if (chi.getYearsOld() >= 8 && chi.getWeight() < 360) {
+                searched = chi;
+			}
         }
-        return sum / getAmounts();
-    }
 
-    public static Stadium getSmallest() {
-        int min = int.MaxValue;
-        int index = 0;
-        for(int i = 0; i < stadiums.Count(); i++) {
-            if(min > stadiums[i].getSize()) {
-                min = stadiums[i].getSize();
-                index = i;
+        if (searched != null) {
+            Console.WriteLine($"{searched.getName()} {searched.getYearsOld()} éves és {searched.getWeight()} gramm.");
+        }
+        else {
+            Console.WriteLine("Nincs ilyen csincsilla.");
+        }
+
+		Console.WriteLine("5. feladat");
+
+        List<Chi> sorted = list.OrderBy(o => o.getWeight()).ToList();
+        sorted.Reverse();
+        for (int i = 0; i < 5; i++) {
+            Console.WriteLine($"{i+1}. {sorted[i].getName()}\t  {sorted[i].getWeight()} g");
+        }
+
+        Dictionary<string, int> borns = new Dictionary<string, int>();
+        foreach(Chi chi in list) {
+            string year = Convert.ToString(chi.getBorn().Year);
+            if (borns.ContainsKey(year)) {
+                borns[year]++;
+                continue;
             }
-        }
+            borns[year] = 1;
+		}
 
-        return stadiums[index];
+        StreamWriter writer = new StreamWriter(@"evek.txt");
+        foreach(var born in borns) {
+            writer.WriteLine($"{born.Key}: {born.Value}");
+        }
+        writer.Close();
+
+
     }
 
+
+}
+
+class Chi {
+
+    private static List<Chi> list = new List<Chi>(); 
+
+    private string name;
+    private DateTime born;
+    private int weight;
+    private Pet likesPet;
+
+    public Chi(string line) {
+
+        string[] splitted = line.Split(";");
+        name = splitted[0];
+        born = DateTime.Parse(splitted[1]);
+        weight = int.Parse(splitted[2]);
+        likesPet = getPetState(splitted[3]);
+
+        list.Add(this);
+    }
+
+    public string getName() {
+        return this.name;
+    }
+
+    public DateTime getBorn() {
+        return this.born;
+    }
+
+    public int getWeight() {
+        return this.weight;
+    }
+
+    public Pet getLikesPet() {
+        return this.likesPet;
+    }
+
+    public int getYearsOld() {
+        return DateTime.Now.Year - getBorn().Year;
+    }
+
+
+    public static Pet getPetState(String type) {
+        return type.Equals("I") ? Pet.Y : Pet.N;
+    }
+
+    public static List<Chi> getChis() {
+        return list;
+    }
+
+    public static int getChisCount() {
+        return getChis().Count;
+	}
+
+}
+
+public enum Pet {
+    Y,
+    N
 }
