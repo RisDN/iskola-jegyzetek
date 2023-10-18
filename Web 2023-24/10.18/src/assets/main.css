@@ -1,0 +1,18 @@
+@import './base.css';
+
+table {
+  margin: 0 auto;
+  margin-top: 25%;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+tr {
+  text-align: center;
+}
+
+th {
+  font-weight: 700;
+}
