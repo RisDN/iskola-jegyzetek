@@ -1,0 +1,34 @@
+
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: var(--mainColor);
+    padding: 25px;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+}
+
+footer .rounded {
+    border-radius: 50%;
+    position: absolute;
+    right: 25px;
+    top: -60%;
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--sectionColor);
+}
+
+footer .rounded i {
+    font-size: 40px;
+}
+
+footer .footerContent {
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+}

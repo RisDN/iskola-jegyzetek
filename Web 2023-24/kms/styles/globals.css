@@ -1,0 +1,13 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --mainColor: #8E7AB5;
+    --secondColor: #B784B7;
+    --bgColor: #EEA5A6;
+    --sectionColor: #E493B3;
+}
+
