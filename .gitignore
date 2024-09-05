@@ -9,3 +9,6 @@ Random sulis/C\# Feladatsor/1/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.
 Random sulis/C\# Feladatsor/1/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.assets.cache
 Random sulis/C\# Feladatsor/1/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.csproj.AssemblyReference.cache
 Random sulis/C\# Feladatsor/1/WinFormsApp1/obj/Debug/netcoreapp3.1/WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+*.cache
+*.exe
+*.vsidx

@@ -1,0 +1,11 @@
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\bin\Debug\sebesseg_form.exe.config
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\bin\Debug\sebesseg_form.exe
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\bin\Debug\sebesseg_form.pdb
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.csproj.AssemblyReference.cache
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.Properties.Resources.resources
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.csproj.GenerateResource.cache
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.csproj.CoreCompileInputs.cache
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.exe
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.pdb
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.main.resources
+C:\Users\rostas.andras\source\repos\sebesseg_form\sebesseg_form\obj\Debug\sebesseg_form.quiter.resources
