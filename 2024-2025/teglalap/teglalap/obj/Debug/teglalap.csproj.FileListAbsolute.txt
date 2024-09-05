@@ -1,0 +1,10 @@
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\bin\Debug\teglalap.exe.config
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\bin\Debug\teglalap.exe
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\bin\Debug\teglalap.pdb
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.csproj.AssemblyReference.cache
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.Form1.resources
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.Properties.Resources.resources
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.csproj.GenerateResource.cache
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.csproj.CoreCompileInputs.cache
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.exe
+C:\Users\rostas.andras\Documents\GitHub\iskola-jegyzetek\2024-2025\teglalap\teglalap\obj\Debug\teglalap.pdb
