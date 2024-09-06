@@ -1,0 +1,10 @@
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\bin\Debug\hatvany_form.exe.config
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\bin\Debug\hatvany_form.exe
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\bin\Debug\hatvany_form.pdb
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.csproj.AssemblyReference.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.Form1.resources
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.Properties.Resources.resources
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.csproj.GenerateResource.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.csproj.CoreCompileInputs.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.exe
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\hatvany_form\hatvany_form\obj\Debug\hatvany_form.pdb
