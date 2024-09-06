@@ -1,0 +1,12 @@
+﻿A jégfelület: A bandy-t futballpálya nagyságú területen játszák.
+Csapatok: Minden csapatnak 11 játékosa van egyszerre a pályán.
+Csere: A játékosok bármikor cserélhetők a játékidő alatt.
+Játékidő: Kétszer 45 perc játékidőben játszák.
+Beütés: Ha a labda kiment az oldalvonalon, ugyanott kerül vissza a játékba, az által a csapat által, amelyik nem ütötte ki.
+Sarokütés: Mikor a labda elhagyja a játékteret a záróvonalon, sarokütés következik, ha a védők értek utoljára a labdához. A védőjátékosoknak fel kell sorakozni a gólvonal mögött, addig a pillanatig, amíg a támadó játékos be nem üti a labdát a sarokpontról, eközben a támadójátékosoknak kívül kell tartózkodniuk a büntető területen.
+Szabad ütés: A szabályszegést (gáncsolás, feltartás, les) büntetik vele, a büntető területen kívül. Ezekért büntető pont jár.
+Kapus kidobás: Mikor a támadó a labdát a védővonal mögé juttatja, a kapus kiveszi a labdát a hálóból és a büntetőterületen kívül, bármelyik saját játékosának dobhatja.
+Bírók: Két játékvezető, a fő vagy bajnoki meccseken, három.
+Kapusok: A bandy kapusok nem használnak ütőt, de a büntető területen belül a kapus használhatja a korcsolyáját vagy bármely testrészét, hogy megállítsa a labdát. Használhatja a kezét, hogy elkapja labdát és dobhassa a csapattársainak.
+Játék a labdával: A játékosok ütővel érhetnek a labdához, nem használhatják a fejüket, kezüket, karjukat, és nem emelhetik az ütőt a válluk fölé.
+Játék az ellenféllel: A játékosok fizikai kihívással élhetnek az ellenféllel szemben, akinél a labda van, de nem üthetnek, gáncsolhatnak, nem tolhatják, nem foghatják és akadályozhatják az ellenfelet. A játékosok nem üthetnek az ütővel, és nem emelhetik, vagy nem üthetik az ellenfél ütőjét.

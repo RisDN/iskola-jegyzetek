@@ -1,0 +1,26 @@
+Helyezés;Eredmény;Sportoló;Országkód;Helyszín;Dátum
+1;86,74;Yuriy Sedykh;URS;Stuttgart;1986.08.30
+2;86,04;Szergej Litvinov;URS;Drezda;1986.07.03
+3;84,90;Vadim Devyatovskiy;BLR;Minszk;2005.07.21
+4;84,86;Koji Murofushi;JPN;Prága;2003.06.29
+5;84,62;Igor Astapkovich;BLR;Sevilla;1992.06.06
+6;84,51;Ivan Tsikhan;BLR;Grodno;2008.07.09
+7;84,48;Igor Nikulin;URS;Lausanne;1990.07.12
+8;84,40;Jíri Tamm;URS;Besztercebánya;1984.09.09
+9;84,19;Adrián Annus;HUN;Szombathely;2003.08.10
+10;83,93;Pawel Fajdek;POL;Szczecin;2015.08.09
+11;83,68;Tibor Gécsek;HUN;Zalaegerszeg;1998.09.19
+12;83,46;Andrej Abduvalijev;URS;Szocsi;1990.05.26
+13;83,43;Alekszej Zagornyi;RUS;Adler;2002.02.10
+14;83,40;Ralf Haber;RPG;Athén;1988.05.16
+15;83,38;Szymon Ziolkowski;POL;Edmonton;2001.08.05
+16;83,30;Olli-Pekka Karjalainen;FIN;Lahti;2004.07.14
+17;83,04;Heinz Weis;DEU;Frankfurt;1997.06.29
+18;83,00;Balázs Kiss;HUN;Saint-Denis;1998.06.04
+19;82,78;Karsten Kobs;DEU;Dortmund;1999.06.26
+20;82,71;Rudy Winkler;USA;Eugene;2021.06.20
+21;82,69;Krisztián Pars;HUN;Zürich;2014.08.16
+22;82,64;Günther Rodehau;NDK;Drezda;1985.08.03
+23;82,62;Szergej Kirmaszov;RUS;Zalaegerszeg;1998.05.30
+23;82,62;Andriy Skvaruk;UKR;Kijev;2002.04.27
+25;82,58;Primoz Kozmus;SVN;Celje;2009.09.02

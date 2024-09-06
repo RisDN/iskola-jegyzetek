@@ -1,0 +1,42 @@
+Orgona kaktusz;Cephalocereus senilis;Könnyű;150;1000
+Ezüstkaktusz;Pachycereus marginatus;Mérsékelt;100;2000
+Vitorlavirágú kaktusz;Epiphyllum anguliger;Nehéz;200;1500
+Oroszlánfarkú kaktusz;Mammillaria elongata;Könnyű;100;2000
+Golyós kaktusz;Echinocactus grusonii;Mérsékelt;100;1500
+Gömbkaktusz;Parodia magnifica;Könnyű;100;1500
+Császári kaktusz;Cereus peruvianus;Mérsékelt;150;2000
+Kőtörő kaktusz;Astrophytum asterias;Könnyű;100;1000
+Gyertyakaktusz;Gymnocalycium mihanovichii;Nehéz;200;1500
+Páfránykaktusz;Epiphyllum oxypetalum;Mérsékelt;150;1000
+Labdarózsa kaktusz;Gymnocalycium baldianum;Könnyű;100;2000
+Láncos kaktusz;Rhipsalis cereuscula;Mérsékelt;200;1500
+Húsevő kaktusz;Ferocactus latispinus;Könnyű;150;2000
+Kúpkaktusz;Rebutia muscula;Könnyű;100;1500
+Sárkánykaktusz;Selenicereus grandiflorus;Mérsékelt;150;1000
+Rózsa kaktusz;Pereskia grandifolia;Nehéz;200;1500
+Pisztráng kaktusz;Hatiora salicornioides;Könnyű;150;1000
+Leánykökörcsin kaktusz;Echinopsis chamaecereus;Könnyű;100;2000
+Ezerlábú kaktusz;Myrtillocactus geometrizans;Mérsékelt;150;1500
+Ördögnyelvű kaktusz;Stenocactus multicostatus;Könnyű;100;2000
+Napraforgó kaktusz;Helianthocereus speciosus;Mérsékelt;100;1500
+Varjúháj kaktusz;Euphorbia obesa;Könnyű;150;1000
+Méhkas kaktusz;Melocactus matanzanus;Nehéz;100;2000
+Ostoros kaktusz;Opuntia rufida;Könnyű;100;1500
+Csillagkaktusz;Astrophytum capricorne;Mérsékelt;150;2000
+Gombkaktusz;Ferocactus hamatacanthus;Mérsékelt;150;1000
+Babérlevél kaktusz;Schlumbergera truncata;Könnyű;200;1500
+Világtábla kaktusz;Opuntia monacantha;Nehéz;150;2000
+Nyúl farkú kaktusz;Hatiora gaertneri;Könnyű;150;1000
+Pálmalevél kaktusz;Ariocarpus retusus;Könnyű;100;1500
+Pipacs kaktusz;Mammillaria spinosissima;Mérsékelt;150;1000
+Domború kaktusz;Echinocereus pectinatus;Mérsékelt;100;2000
+Koronás kaktusz;Cleistocactus strausii;Nehéz;150;1500
+Tűkaktusz;Mammillaria hahniana;Könnyű;100;2000
+Csüngő kaktusz;Hoya carnosa;Mérsékelt;150;1000
+Bükkfa kaktusz;Pereskiopsis spathulata;Könnyű;100;1500
+Lóhere kaktusz;Mammillaria bombycina;Könnyű;100;2000
+Halházi kaktusz;Cactoideae pereskiopsis;Mérsékelt;150;1500
+Szegfű kaktusz;Echinopsis oxygona;Könnyű;150;1000
+Ragadós kaktusz;Notocactus scopa;Mérsékelt;200;1500
+Sarlós kaktusz;Sclerocactus parviflorus;Nehéz;100;2000
+Mandula kaktusz;Parodia erubescens;Könnyű;100;1500

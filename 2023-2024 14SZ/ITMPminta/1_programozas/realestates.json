@@ -1,0 +1,1422 @@
+[
+  {
+    "id": 1,
+    "rooms": 5,
+    "latLong": "47.5410485803319,19.1516419487702",
+    "floors": 1,
+    "area": 165,
+    "description": "null",
+    "freeOfCharge": false,
+    "imageUrl": "https://drive.google.com/file/d/1qs5XyJNnnT_meJn_qVJLwASvY1By2bVj",
+    "seller": {
+      "id": 56,
+      "name": "Fazekas Zoltán",
+      "phone": "+36 1 9929-8217"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-17T00:00:00"
+  },
+  {
+    "id": 2,
+    "rooms": 5,
+    "latLong": "47.4010485803319,19.1536419487702",
+    "floors": 3,
+    "area": 145,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rxOCx-iRm2I92A1KranthDq86tdM4MQi",
+    "seller": {
+      "id": 16,
+      "name": "Marok Nyikolaj",
+      "phone": "+36 1 8139-4405"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-13T00:00:00"
+  },
+  {
+    "id": 3,
+    "rooms": 5,
+    "latLong": "47.5760485803319,19.1616419487702",
+    "floors": 4,
+    "area": 150,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sYbvNK4_SKKq2zOIDW53lm8HCXqF7woO",
+    "seller": {
+      "id": 61,
+      "name": "Bur Kolos",
+      "phone": "+36 1 3652-1187"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-19T00:00:00"
+  },
+  {
+    "id": 4,
+    "rooms": 5,
+    "latLong": "47.5600485803319,19.0686419487702",
+    "floors": 1,
+    "area": 135,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1she2wd47cp-DPolEjDksz4tkNwT0hova",
+    "seller": {
+      "id": 238,
+      "name": "Kolle Gina",
+      "phone": "+36 1 9907-6155"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-10-31T00:00:00"
+  },
+  {
+    "id": 5,
+    "rooms": 5,
+    "latLong": "47.4350485803319,19.1076419487702",
+    "floors": 1,
+    "area": 135,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1r9JPKeAX6BQ7fF-0fHrNqsTrr8D9JPEw",
+    "seller": {
+      "id": 40,
+      "name": "Róka Gábor",
+      "phone": "+36 1 2729-9902"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-12-29T00:00:00"
+  },
+  {
+    "id": 6,
+    "rooms": 5,
+    "latLong": "47.4210485803319,18.9906419487702",
+    "floors": 1,
+    "area": 150,
+    "description": "null",
+    "freeOfCharge": false,
+    "imageUrl": "https://drive.google.com/file/d/1sVIIeO80kpKhkPS3o4bk7k64_x3qMfkJ",
+    "seller": {
+      "id": 213,
+      "name": "Godz Ila",
+      "phone": "+36 1 1976-3679"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-05T00:00:00"
+  },
+  {
+    "id": 7,
+    "rooms": 5,
+    "latLong": "47.5390485803319,19.0136419487702",
+    "floors": 0,
+    "area": 230,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qujuTrxsUNZ7z0Y9fobfUhgHGCwyggo8",
+    "seller": {
+      "id": 281,
+      "name": "Dancs Dániel",
+      "phone": "+36 1 2541-3669"
+    },
+    "category": {
+      "id": 3,
+      "name": "építési telek"
+    },
+    "createAt": "2022-02-20T00:00:00"
+  },
+  {
+    "id": 8,
+    "rooms": 5,
+    "latLong": "47.5340485803319,19.0216419487702",
+    "floors": 0,
+    "area": 185,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1suSusCdzSM4qKinfhEYdAV0cUw64oefz",
+    "seller": {
+      "id": 124,
+      "name": "Amor Ella",
+      "phone": "+36 1 6978-7676"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-12-07T00:00:00"
+  },
+  {
+    "id": 9,
+    "rooms": 5,
+    "latLong": "47.5430485803319,19.1646419487702",
+    "floors": 2,
+    "area": 165,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rj4uO_Ewmhir-7A0IHQBOVuK9-Ef3Dyk",
+    "seller": {
+      "id": 168,
+      "name": "Resz Elek",
+      "phone": "+36 1 1399-2527"
+    },
+    "category": {
+      "id": 2,
+      "name": "lakás"
+    },
+    "createAt": "2022-02-09T00:00:00"
+  },
+  {
+    "id": 10,
+    "rooms": 5,
+    "latLong": "47.4100485803319,18.9876419487702",
+    "floors": 1,
+    "area": 205,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sufiVE60JmFdEsRQbE3pUeAM2pCM6aX5",
+    "seller": {
+      "id": 346,
+      "name": "Vagd Alma",
+      "phone": "+36 1 7446-5220"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-10-13T00:00:00"
+  },
+  {
+    "id": 11,
+    "rooms": 2,
+    "latLong": "47.4200485803319,19.0646419487702",
+    "floors": 2,
+    "area": 65,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rNXGW2H7LG2RFcEOfIpyTP9_lFVV1NZ2",
+    "seller": {
+      "id": 123,
+      "name": "Ápry Lisa",
+      "phone": "+36 1 8413-6094"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-01T00:00:00"
+  },
+  {
+    "id": 12,
+    "rooms": 5,
+    "latLong": "47.5010485803319,19.0936419487702",
+    "floors": 0,
+    "area": 195,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sVT8P2AqtfmroUv5Y0oRGPMKeUiCO3UO",
+    "seller": {
+      "id": 222,
+      "name": "Tóth Zsuzsa",
+      "phone": "+36 1 3720-8653"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-10-19T00:00:00"
+  },
+  {
+    "id": 13,
+    "rooms": 5,
+    "latLong": "47.4770485803319,18.9996419487702",
+    "floors": 2,
+    "area": 180,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qh0nIM1Gn0zrO6Wkmf7iYxcYKKKPZszZ",
+    "seller": {
+      "id": 374,
+      "name": "Bac Ilus",
+      "phone": "+36 1 1301-2730"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-10-11T00:00:00"
+  },
+  {
+    "id": 14,
+    "rooms": 5,
+    "latLong": "47.4860485803319,19.0306419487702",
+    "floors": 4,
+    "area": 135,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rxOCx-iRm2I92A1KranthDq86tdM4MQi",
+    "seller": {
+      "id": 271,
+      "name": "Huczman Gergely",
+      "phone": "+36 1 2819-2249"
+    },
+    "category": {
+      "id": 5,
+      "name": "mezőgazdasági terület"
+    },
+    "createAt": "2022-01-29T00:00:00"
+  },
+  {
+    "id": 15,
+    "rooms": 2,
+    "latLong": "47.5220485803319,19.1416419487702",
+    "floors": 4,
+    "area": 60,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rj4uO_Ewmhir-7A0IHQBOVuK9-Ef3Dyk",
+    "seller": {
+      "id": 373,
+      "name": "Borönd Ödön",
+      "phone": "+36 1 2709-2407"
+    },
+    "category": {
+      "id": 3,
+      "name": "építési telek"
+    },
+    "createAt": "2021-10-28T00:00:00"
+  },
+  {
+    "id": 16,
+    "rooms": 4,
+    "latLong": "47.5410485803319,19.0886419487702",
+    "floors": 4,
+    "area": 145,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qdU5ynDGGx6Exc9s8oE6dfCJ1LMOx6EM",
+    "seller": {
+      "id": 312,
+      "name": "Bacskai Mihály",
+      "phone": "+36 1 4996-5351"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-05T00:00:00"
+  },
+  {
+    "id": 17,
+    "rooms": 5,
+    "latLong": "47.3950485803319,19.1196419487702",
+    "floors": 3,
+    "area": 180,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sDgl74Aj76rzTPwLuLL3OGVwcjZy9XX-",
+    "seller": {
+      "id": 10,
+      "name": "Rekurz Iván",
+      "phone": "+36 1 3973-7021"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-19T00:00:00"
+  },
+  {
+    "id": 18,
+    "rooms": 3,
+    "latLong": "47.3980485803319,19.0206419487702",
+    "floors": 2,
+    "area": 90,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1q_gGeRN1CifVp1wQ_QWksnn5BAKbVOSn",
+    "seller": {
+      "id": 24,
+      "name": "Fer Enci",
+      "phone": "+36 1 6920-6507"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-03T00:00:00"
+  },
+  {
+    "id": 19,
+    "rooms": 5,
+    "latLong": "47.5710485803319,19.1526419487702",
+    "floors": 4,
+    "area": 140,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1seI-0QF6m_LHj6dwm4gJ390EdfHZIPBM",
+    "seller": {
+      "id": 46,
+      "name": "Némethy Zsófia",
+      "phone": "+36 1 3494-2935"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-02T00:00:00"
+  },
+  {
+    "id": 20,
+    "rooms": 1,
+    "latLong": "47.5360485803319,19.1466419487702",
+    "floors": 2,
+    "area": 40,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1slR5WaRshT0uAx2jyvXOj-JshuFACGSi",
+    "seller": {
+      "id": 85,
+      "name": "Kecskés Dániel Tamás",
+      "phone": "+36 1 1388-4882"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-25T00:00:00"
+  },
+  {
+    "id": 21,
+    "rooms": 4,
+    "latLong": "47.5670485803319,19.1376419487702",
+    "floors": 3,
+    "area": 80,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rYClD3Gx9y3YUkdh0rPEcRhYzku7C8Da",
+    "seller": {
+      "id": 308,
+      "name": "Egyenes Ági",
+      "phone": "+36 1 1780-7112"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-12-12T00:00:00"
+  },
+  {
+    "id": 22,
+    "rooms": 5,
+    "latLong": "47.5050485803319,19.1416419487702",
+    "floors": 1,
+    "area": 150,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sorJiEJkSPZE7bdr8ObTEEZqMtyg1kpe",
+    "seller": {
+      "id": 48,
+      "name": "Nagy Ádám",
+      "phone": "+36 1 4504-5595"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-18T00:00:00"
+  },
+  {
+    "id": 23,
+    "rooms": 2,
+    "latLong": "47.4110485803319,19.0116419487702",
+    "floors": 2,
+    "area": 55,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rSdEEX2eBfO157pbSlA3O6Fq1Q0CfH7Q",
+    "seller": {
+      "id": 6,
+      "name": "Szikla Szilárd",
+      "phone": "+36 1 8618-6027"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-05T00:00:00"
+  },
+  {
+    "id": 24,
+    "rooms": 5,
+    "latLong": "47.5380485803319,19.1786419487702",
+    "floors": 1,
+    "area": 165,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1q_gGeRN1CifVp1wQ_QWksnn5BAKbVOSn",
+    "seller": {
+      "id": 82,
+      "name": "Leskó András",
+      "phone": "+36 1 5240-3808"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-13T00:00:00"
+  },
+  {
+    "id": 25,
+    "rooms": 5,
+    "latLong": "47.4720485803319,19.1716419487702",
+    "floors": 1,
+    "area": 240,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rFdK0gc1KV12RBj2av3sh4TpIDrLdtDx",
+    "seller": {
+      "id": 157,
+      "name": "Bán Tamás",
+      "phone": "+36 1 9446-6211"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-17T00:00:00"
+  },
+  {
+    "id": 26,
+    "rooms": 4,
+    "latLong": "47.4880485803319,18.9906419487702",
+    "floors": 1,
+    "area": 120,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qc74gm94OAzCf8SlGit-B157YL8sKEH0",
+    "seller": {
+      "id": 144,
+      "name": "Lev Elek",
+      "phone": "+36 1 2451-9808"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-12-12T00:00:00"
+  },
+  {
+    "id": 27,
+    "rooms": 2,
+    "latLong": "47.5200485803319,19.1616419487702",
+    "floors": 3,
+    "area": 45,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sufiVE60JmFdEsRQbE3pUeAM2pCM6aX5",
+    "seller": {
+      "id": 275,
+      "name": "Furi Kázmér",
+      "phone": "+36 1 9919-6448"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-06T00:00:00"
+  },
+  {
+    "id": 28,
+    "rooms": 5,
+    "latLong": "47.5440485803319,19.0456419487702",
+    "floors": 3,
+    "area": 110,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rgvC9WGdtVcp-sJH-DJbp7HV_33c-X7U",
+    "seller": {
+      "id": 282,
+      "name": "Bali Alexandra Mercédesz",
+      "phone": "+36 1 1575-7660"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-09-29T00:00:00"
+  },
+  {
+    "id": 29,
+    "rooms": 5,
+    "latLong": "47.4310485803319,19.0226419487702",
+    "floors": 4,
+    "area": 120,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rjna1tKJSuawRjq_8oMDl_BMe-VZ1RGp",
+    "seller": {
+      "id": 254,
+      "name": "Trab Antal",
+      "phone": "+36 1 8970-1364"
+    },
+    "category": {
+      "id": 6,
+      "name": "ipari ingatlan"
+    },
+    "createAt": "2021-11-24T00:00:00"
+  },
+  {
+    "id": 30,
+    "rooms": 3,
+    "latLong": "47.4340485803319,19.1796419487702",
+    "floors": 0,
+    "area": 100,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sBPbyW84_qCKwHoVf313Bl-LENLnr3J-",
+    "seller": {
+      "id": 321,
+      "name": "Pataki Vince",
+      "phone": "+36 1 7294-6572"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-10T00:00:00"
+  },
+  {
+    "id": 31,
+    "rooms": 3,
+    "latLong": "47.4890485803319,19.0326419487702",
+    "floors": 1,
+    "area": 85,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1slR5WaRshT0uAx2jyvXOj-JshuFACGSi",
+    "seller": {
+      "id": 345,
+      "name": "Aloe Vera",
+      "phone": "+36 1 5072-4171"
+    },
+    "category": {
+      "id": 2,
+      "name": "lakás"
+    },
+    "createAt": "2021-11-11T00:00:00"
+  },
+  {
+    "id": 32,
+    "rooms": 3,
+    "latLong": "47.5170485803319,19.1596419487702",
+    "floors": 3,
+    "area": 85,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qv3b7t3yLkV9HF5TzbyY_-MKaft83bAB",
+    "seller": {
+      "id": 317,
+      "name": "Török Szilárd",
+      "phone": "+36 1 3603-9947"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-11-27T00:00:00"
+  },
+  {
+    "id": 33,
+    "rooms": 5,
+    "latLong": "47.4700485803319,19.0176419487702",
+    "floors": 0,
+    "area": 210,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qv3b7t3yLkV9HF5TzbyY_-MKaft83bAB",
+    "seller": {
+      "id": 111,
+      "name": "Kovács Adrienn",
+      "phone": "+36 1 7174-6885"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-13T00:00:00"
+  },
+  {
+    "id": 34,
+    "rooms": 4,
+    "latLong": "47.4410485803319,19.1626419487702",
+    "floors": 1,
+    "area": 90,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sVT8P2AqtfmroUv5Y0oRGPMKeUiCO3UO",
+    "seller": {
+      "id": 266,
+      "name": "Nemoda Tamás",
+      "phone": "+36 1 6726-8470"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-23T00:00:00"
+  },
+  {
+    "id": 35,
+    "rooms": 5,
+    "latLong": "47.5390485803319,18.9916419487702",
+    "floors": 1,
+    "area": 150,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rxOCx-iRm2I92A1KranthDq86tdM4MQi",
+    "seller": {
+      "id": 103,
+      "name": "Szolnoki Anna",
+      "phone": "+36 1 4163-7869"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2022-02-25T00:00:00"
+  },
+  {
+    "id": 36,
+    "rooms": 5,
+    "latLong": "47.5810485803319,19.1796419487702",
+    "floors": 4,
+    "area": 175,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qc74gm94OAzCf8SlGit-B157YL8sKEH0",
+    "seller": {
+      "id": 156,
+      "name": "Béres Tamás",
+      "phone": "+36 1 1818-4840"
+    },
+    "category": {
+      "id": 2,
+      "name": "lakás"
+    },
+    "createAt": "2021-10-14T00:00:00"
+  },
+  {
+    "id": 37,
+    "rooms": 5,
+    "latLong": "47.5750485803319,19.1116419487702",
+    "floors": 0,
+    "area": 180,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rEbvjvUN8QwZ0hAzVvewt8gS1DdIsSWY",
+    "seller": {
+      "id": 178,
+      "name": "Mursa Krisztián",
+      "phone": "+36 1 4450-7684"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-11-01T00:00:00"
+  },
+  {
+    "id": 38,
+    "rooms": 5,
+    "latLong": "47.5110485803319,19.1536419487702",
+    "floors": 1,
+    "area": 155,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rLu0j76uj4_2wLjun2BPuOoegExBTsyL",
+    "seller": {
+      "id": 175,
+      "name": "Nyomo Réka",
+      "phone": "+36 1 7718-7901"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-04T00:00:00"
+  },
+  {
+    "id": 39,
+    "rooms": 4,
+    "latLong": "47.3910485803319,18.9876419487702",
+    "floors": 0,
+    "area": 125,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rnDfcOTchNAcjLxLU3x_f7uFliFibtVG",
+    "seller": {
+      "id": 244,
+      "name": "Ér Emma",
+      "phone": "+36 1 1414-4563"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-27T00:00:00"
+  },
+  {
+    "id": 40,
+    "rooms": 3,
+    "latLong": "47.4660485803319,19.1336419487702",
+    "floors": 0,
+    "area": 80,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qgRV5wlPh0XiUcx9H5kvKHQ2pTEspk1m",
+    "seller": {
+      "id": 22,
+      "name": "Garabuczi Laura",
+      "phone": "+36 1 1672-9525"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-13T00:00:00"
+  },
+  {
+    "id": 41,
+    "rooms": 1,
+    "latLong": "47.4650485803319,19.0146419487702",
+    "floors": 1,
+    "area": 45,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sVIIeO80kpKhkPS3o4bk7k64_x3qMfkJ",
+    "seller": {
+      "id": 226,
+      "name": "Szabó Sandra",
+      "phone": "+36 1 1698-5971"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-12T00:00:00"
+  },
+  {
+    "id": 42,
+    "rooms": 3,
+    "latLong": "47.5600485803319,19.1096419487702",
+    "floors": 2,
+    "area": 95,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sCQxE2fZVvogzkiqI0Sk8ylVLNOhoza0",
+    "seller": {
+      "id": 299,
+      "name": "Lakatos Emese",
+      "phone": "+36 1 7708-3203"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-12T00:00:00"
+  },
+  {
+    "id": 43,
+    "rooms": 5,
+    "latLong": "47.5330485803319,19.0036419487702",
+    "floors": 0,
+    "area": 225,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qujuTrxsUNZ7z0Y9fobfUhgHGCwyggo8",
+    "seller": {
+      "id": 313,
+      "name": "Ádám Ákos Lajos",
+      "phone": "+36 1 9163-7120"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-11-14T00:00:00"
+  },
+  {
+    "id": 44,
+    "rooms": 5,
+    "latLong": "47.4640485803319,19.1346419487702",
+    "floors": 3,
+    "area": 165,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sDgl74Aj76rzTPwLuLL3OGVwcjZy9XX-",
+    "seller": {
+      "id": 320,
+      "name": "Potornai Judit Adrienn",
+      "phone": "+36 1 2827-9828"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-11-16T00:00:00"
+  },
+  {
+    "id": 45,
+    "rooms": 5,
+    "latLong": "47.5440485803319,19.0476419487702",
+    "floors": 1,
+    "area": 145,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rNXGW2H7LG2RFcEOfIpyTP9_lFVV1NZ2",
+    "seller": {
+      "id": 9,
+      "name": "Rontó Pál",
+      "phone": "+36 1 5941-3954"
+    },
+    "category": {
+      "id": 3,
+      "name": "építési telek"
+    },
+    "createAt": "2022-01-17T00:00:00"
+  },
+  {
+    "id": 46,
+    "rooms": 5,
+    "latLong": "47.5800485803319,19.1496419487702",
+    "floors": 1,
+    "area": 185,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rSdEEX2eBfO157pbSlA3O6Fq1Q0CfH7Q",
+    "seller": {
+      "id": 96,
+      "name": "Bekre Pál",
+      "phone": "+36 1 5895-6043"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-10T00:00:00"
+  },
+  {
+    "id": 47,
+    "rooms": 5,
+    "latLong": "47.3970485803319,19.1376419487702",
+    "floors": 4,
+    "area": 165,
+    "description": "null",
+    "freeOfCharge": false,
+    "imageUrl": "https://drive.google.com/file/d/1sB_tjZ8W_oqxygBg2AwHFNnCCKZOr_V5",
+    "seller": {
+      "id": 178,
+      "name": "Mursa Krisztián",
+      "phone": "+36 1 4450-7684"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-31T00:00:00"
+  },
+  {
+    "id": 48,
+    "rooms": 3,
+    "latLong": "47.5240485803319,19.1266419487702",
+    "floors": 1,
+    "area": 75,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sUkVjCwzMkqKEDrVivtbFTJ0AE6eW-7Z",
+    "seller": {
+      "id": 43,
+      "name": "Radnóthy Péter Attila",
+      "phone": "+36 1 3679-6064"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-24T00:00:00"
+  },
+  {
+    "id": 49,
+    "rooms": 5,
+    "latLong": "47.5440485803319,19.1476419487702",
+    "floors": 4,
+    "area": 220,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qro_stZpSbux9oLeFT6xh8qF5m0cPmSS",
+    "seller": {
+      "id": 14,
+      "name": "Nagy Adrienn",
+      "phone": "+36 1 9912-8987"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2022-01-04T00:00:00"
+  },
+  {
+    "id": 50,
+    "rooms": 5,
+    "latLong": "47.4740485803319,19.0256419487702",
+    "floors": 2,
+    "area": 140,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rfIBFPxBf_TgWERMh-OqVmpFnDxpo6rn",
+    "seller": {
+      "id": 54,
+      "name": "Hegedus Adrienn",
+      "phone": "+36 1 6078-6520"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2022-01-10T00:00:00"
+  },
+  {
+    "id": 51,
+    "rooms": 1,
+    "latLong": "47.4600485803319,19.0896419487702",
+    "floors": 2,
+    "area": 45,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sDgl74Aj76rzTPwLuLL3OGVwcjZy9XX-",
+    "seller": {
+      "id": 370,
+      "name": "Demeter Anna",
+      "phone": "+36 1 2672-9935"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-14T00:00:00"
+  },
+  {
+    "id": 52,
+    "rooms": 5,
+    "latLong": "47.5540485803319,19.1146419487702",
+    "floors": 1,
+    "area": 225,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rj4uO_Ewmhir-7A0IHQBOVuK9-Ef3Dyk",
+    "seller": {
+      "id": 373,
+      "name": "Borönd Ödön",
+      "phone": "+36 1 2709-2407"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-26T00:00:00"
+  },
+  {
+    "id": 53,
+    "rooms": 5,
+    "latLong": "47.4830485803319,19.1246419487702",
+    "floors": 4,
+    "area": 175,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sBPbyW84_qCKwHoVf313Bl-LENLnr3J-",
+    "seller": {
+      "id": 236,
+      "name": "Mod Emma",
+      "phone": "+36 1 1239-2839"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2021-10-01T00:00:00"
+  },
+  {
+    "id": 54,
+    "rooms": 2,
+    "latLong": "47.5020485803319,19.1836419487702",
+    "floors": 1,
+    "area": 65,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rqCETMo582rAUZd2DheACBDpjuICGNkO",
+    "seller": {
+      "id": 250,
+      "name": "Bernát Csilla",
+      "phone": "+36 1 8180-8416"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-17T00:00:00"
+  },
+  {
+    "id": 55,
+    "rooms": 2,
+    "latLong": "47.4290485803319,19.1746419487702",
+    "floors": 0,
+    "area": 75,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1snpSjKUDvZUs9XI89qVb4hhMGcaY_v_z",
+    "seller": {
+      "id": 300,
+      "name": "Kana Péter",
+      "phone": "+36 1 4350-5709"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-26T00:00:00"
+  },
+  {
+    "id": 56,
+    "rooms": 2,
+    "latLong": "47.5390485803319,19.1086419487702",
+    "floors": 2,
+    "area": 75,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qh0nIM1Gn0zrO6Wkmf7iYxcYKKKPZszZ",
+    "seller": {
+      "id": 249,
+      "name": "Bíró Olívia",
+      "phone": "+36 1 9189-6594"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-01-26T00:00:00"
+  },
+  {
+    "id": 57,
+    "rooms": 3,
+    "latLong": "47.4570485803319,19.0696419487702",
+    "floors": 1,
+    "area": 65,
+    "description": "null",
+    "freeOfCharge": false,
+    "imageUrl": "https://drive.google.com/file/d/1s_YB3Iz9rrM3dWAHePHV3OlseaU_rlKX",
+    "seller": {
+      "id": 372,
+      "name": "Budipa Piroska",
+      "phone": "+36 1 4439-9700"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-14T00:00:00"
+  },
+  {
+    "id": 58,
+    "rooms": 1,
+    "latLong": "47.4840485803319,18.9946419487702",
+    "floors": 0,
+    "area": 45,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1swKq40hxXuUHgoliyFACANGoHmtBvVIt",
+    "seller": {
+      "id": 3,
+      "name": "Veg Eta",
+      "phone": "+36 1 8434-6191"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-03T00:00:00"
+  },
+  {
+    "id": 59,
+    "rooms": 5,
+    "latLong": "47.4850485803319,19.0206419487702",
+    "floors": 1,
+    "area": 185,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1swKq40hxXuUHgoliyFACANGoHmtBvVIt",
+    "seller": {
+      "id": 222,
+      "name": "Tóth Zsuzsa",
+      "phone": "+36 1 3720-8653"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-09T00:00:00"
+  },
+  {
+    "id": 60,
+    "rooms": 5,
+    "latLong": "47.3930485803319,19.0836419487702",
+    "floors": 3,
+    "area": 140,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rgvC9WGdtVcp-sJH-DJbp7HV_33c-X7U",
+    "seller": {
+      "id": 60,
+      "name": "Dalos Ákos Mihály",
+      "phone": "+36 1 9950-1575"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-12T00:00:00"
+  },
+  {
+    "id": 61,
+    "rooms": 3,
+    "latLong": "47.4010485803319,19.0996419487702",
+    "floors": 0,
+    "area": 100,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sP08aDIxy2VOkzyLIQeOopGANtSY1ywM",
+    "seller": {
+      "id": 203,
+      "name": "Papp Beáta",
+      "phone": "+36 1 1382-1376"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-12T00:00:00"
+  },
+  {
+    "id": 62,
+    "rooms": 4,
+    "latLong": "47.5370485803319,19.1796419487702",
+    "floors": 2,
+    "area": 110,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1qxYVWfF2lYDK070FBGvr44BXPZQmtz3d",
+    "seller": {
+      "id": 221,
+      "name": "Vágó Péter Ákos",
+      "phone": "+36 1 4643-1788"
+    },
+    "category": {
+      "id": 2,
+      "name": "lakás"
+    },
+    "createAt": "2021-12-16T00:00:00"
+  },
+  {
+    "id": 63,
+    "rooms": 5,
+    "latLong": "47.5760485803319,19.0276419487702",
+    "floors": 0,
+    "area": 160,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sBPbyW84_qCKwHoVf313Bl-LENLnr3J-",
+    "seller": {
+      "id": 50,
+      "name": "Maár Tamás",
+      "phone": "+36 1 7606-9208"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-12-14T00:00:00"
+  },
+  {
+    "id": 64,
+    "rooms": 5,
+    "latLong": "47.4350485803319,19.1736419487702",
+    "floors": 2,
+    "area": 110,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1q_gGeRN1CifVp1wQ_QWksnn5BAKbVOSn",
+    "seller": {
+      "id": 231,
+      "name": "Pataki Bálint",
+      "phone": "+36 1 9998-4893"
+    },
+    "category": {
+      "id": 4,
+      "name": "garázs"
+    },
+    "createAt": "2022-02-11T00:00:00"
+  },
+  {
+    "id": 65,
+    "rooms": 5,
+    "latLong": "47.4260485803319,19.0846419487702",
+    "floors": 2,
+    "area": 180,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rqxx7t4OdVFJ5th8b23TWKW62NZzSc9f",
+    "seller": {
+      "id": 183,
+      "name": "Korpusz Ilma",
+      "phone": "+36 1 6751-6005"
+    },
+    "category": {
+      "id": 3,
+      "name": "építési telek"
+    },
+    "createAt": "2021-12-23T00:00:00"
+  },
+  {
+    "id": 66,
+    "rooms": 5,
+    "latLong": "47.5270485803319,19.1286419487702",
+    "floors": 3,
+    "area": 145,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rEbvjvUN8QwZ0hAzVvewt8gS1DdIsSWY",
+    "seller": {
+      "id": 143,
+      "name": "Lizák Gerhard",
+      "phone": "+36 1 3227-3795"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-25T00:00:00"
+  },
+  {
+    "id": 67,
+    "rooms": 5,
+    "latLong": "47.4820485803319,19.1526419487702",
+    "floors": 0,
+    "area": 145,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rqxx7t4OdVFJ5th8b23TWKW62NZzSc9f",
+    "seller": {
+      "id": 92,
+      "name": "Gáti Orsolya",
+      "phone": "+36 1 3378-6077"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2022-02-25T00:00:00"
+  },
+  {
+    "id": 68,
+    "rooms": 5,
+    "latLong": "47.5430485803319,19.1536419487702",
+    "floors": 2,
+    "area": 190,
+    "description": "null",
+    "freeOfCharge": false,
+    "imageUrl": "https://drive.google.com/file/d/1rG7cVUhJxLq6GKgP9KFKLabGH2obu5b5",
+    "seller": {
+      "id": 173,
+      "name": "Pár Zoltán",
+      "phone": "+36 1 3798-6794"
+    },
+    "category": {
+      "id": 2,
+      "name": "lakás"
+    },
+    "createAt": "2021-10-07T00:00:00"
+  },
+  {
+    "id": 69,
+    "rooms": 5,
+    "latLong": "47.5760485803319,19.0926419487702",
+    "floors": 4,
+    "area": 160,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1sUkVjCwzMkqKEDrVivtbFTJ0AE6eW-7Z",
+    "seller": {
+      "id": 102,
+      "name": "Szucs Nikolett",
+      "phone": "+36 1 5433-2908"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-11-20T00:00:00"
+  },
+  {
+    "id": 70,
+    "rooms": 4,
+    "latLong": "47.4860485803319,19.1556419487702",
+    "floors": 3,
+    "area": 105,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rbBxI6RDTO6JWAO_c1gu8r8NE1aVoHCs",
+    "seller": {
+      "id": 204,
+      "name": "Ösztön Ödön",
+      "phone": "+36 1 3078-1467"
+    },
+    "category": {
+      "id": 1,
+      "name": "ház"
+    },
+    "createAt": "2021-10-30T00:00:00"
+  },
+  {
+    "id": 71,
+    "rooms": 2,
+    "latLong": "47.4050485803319,19.0356419487702",
+    "floors": 1,
+    "area": 60,
+    "description": "null",
+    "freeOfCharge": true,
+    "imageUrl": "https://drive.google.com/file/d/1rEbvjvUN8QwZ0hAzVvewt8gS1DdIsSWY",
+    "seller": {
+      "id": 23,
+      "name": "Fogd Bea",
+      "phone": "+36 1 4725-2442"
+    },
+    "category": {
+      "id": 2,
+      "name": "lakás"
+    },
+    "createAt": "2022-01-05T00:00:00"
+  }
+]

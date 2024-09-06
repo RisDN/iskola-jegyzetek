@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+    <div class="container">
+        <div class="form">
+            <div class="form-header">
+                <span>Regisztrációs űrlap</span>
+            </div>
+            <div class="row">
+                <span>Felhasználó név</span>
+                <input id="username" type="text" placeholder="pl.: Admin123">
+                <span class="error" id="error-username">Error</span>
+            </div>
+            <div class="row">
+                <span>E-mail cím</span>
+                <input id="email" type="text" placeholder="admin@email.hu">
+                <span class="error" id="error-email">Error</span>
+            </div>
+            <div class="row">
+                <span>Születési dátum</span>
+                <input id="birth" type="date">
+            </div>
+            <div class="row">
+                <span>Jelszó</span>
+                <input id="password" type="password" placeholder="Jelszó">
+            </div>
+            <div class="row">
+                <span>Jelszó mégegyszer</span>
+                <input id="passwordagain" type="password" placeholder="Jelszó mégegyszer">
+                <span class="error" id="error-password">Error</span>
+            </div>
+            <div class="button">
+                <span>Elküldés</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+1. Készíts tárolt eljárást, mely a bejövő százalék alapján kiszámolja, hogy mennyi lenne az ingatlanok utáni jutalék.
+
+2. Készíts tárolt eljárást, mely a bejövő százalék és ingatlan azonosító alapján kiszámolja, hogy mennyi lenne az ingatlan utáni jutalék.
+
+1. Készíts tárolt eljárást (bejövő paraméter az azonosító), mely a kerület alapján eldönti, hogy budai vagy pesti ingatlanról van
+   szó (budai kerületek: 1,2,3,11,12,22 a többi pesti)! Írasd ki az azonosítót, a kerületet, budai vagy pesti!
+
+2. Bejövő paraméter a dolgozó neve; Írassuk ki, hogy a cégnél dolgozik-e és elérte-e a nyugdíjkorhatárt (1957-01-01) Név, Dolgozó-e, Nyugdíjazandó
+
+3. Tárolt eljárás új ingatlan rögzítése; bejövő adatok: azonosító, ügynök neve, partner neve, kerület, négyzetméter, típus
+
+4. Tárolt függvény, amely kiszámolja a várható jutalék összegét, bejövő adatok: ingatlan azonosítója és a jutalék százalék;
+   kiírja a jutalékát (minar*%/100)
+
+5. Tárolt eljárás, amely kiszámolja a várható jutalék összegét, bejövő adatok: ingatlan azonosítója és a jutalék százalék;
+   kiírja a jutalékát (minar*%/100) és az ügynök nevét
+
+6. Készíts tárolt eljárást mely az el nem adott ingatlanok árát a következőek szerint emeli meg:
+	ha: 50 MFt alatt van akkor 25%-kal
+	ha: 50-100 MFt között van, akkor 18,5%-kal
+	ha: 100 MFt felett van, akkor 12%-kal
+7. Készíts egy függvényt kamatszamitas néven! Bejövő paraméter legyen a hitelösszege és a a törlesztési évek száma. 
+   A függvény számítsa ki a kamatos kamattal növelt végtörlesztést!
+   1ev_erteke=hitelosszeg*(1+kamat/100);
+   2ev_erteke=1ev_erteke*(1+kamat/100); .....
+
+8. Személy adatbázisban a tárolt eljárás a következő feladatot valósítsa meg:
+   Bejövő paraméterként egy új telephely kódja és neve érkezik, ezt a telephelyet add a telephely_torzs táblához.
+   Minden olyan dolgozót aki a cégnél jelenleg is dolgozik és 300000 Ft felett van a jövedelme törölje ki a szemely_th táblából
+   és adja hozzá az új telephely kóddal.
+9. Új hónap van az ingatlanirodában. Ebben a hónapban (2023.01.31-én) minden ingatlant sikerült értékesíteni (amelyek eddig nem voltak eladva).
+   Tárolt eljárásban a következőket kell megvalósítani: törölje ki a jutalák tábla sorait, majd a nem eladott ingatlanokra kiszámolja a jutalékot (2%)
+   és menti a jutalek táblában, az ingatlan táblába pedig beírja az eladás dátumát.
+10. Előző feladatot írd át úgy, hogy bejövő paraméterként legyenek: eladás dátuma és a kamat értéke!

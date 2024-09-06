@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div id="points"></div>
+    <div id="quiz">
+        <div id="holder">
+            <div id="question">Minek a rövidítése a MOL?</div>
+            <div id="answersHolder">
+                <div id="answer">Magyar Államvasutak</div>
+                <div id="answer">Magyar Tudományos Akadémia</div>
+                <div id="answer">Budapesti Közlekedési Központ</div>
+                <div id="answer">Országos Mentő Szolgálat</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="results" style="display: none;">
+        <table>
+            <tr>
+                <th>Kérdés</th>
+                <th>Helyes válasz</th>
+                <th>Válaszod</th>
+            </tr>
+        </table>
+    </div>
+
+    <style>
+        #holder {
+            text-align: center;
+            background-color: darkkhaki;
+        }
+        
+        #answersHolder {
+            margin: 25px;
+            display: flex;
+            cursor: pointer;
+        }
+        
+        #answer {
+            margin: 5px;
+            width: 150px;
+        }
+        
+        .correct {
+            background-color: greenyellow;
+        }
+        
+        .incorrect {
+            background-color: red;
+        }
+        
+        #points {
+            text-align: center;
+            padding: 5px;
+        }
+    </style>
+
+    <script src="questions.js"></script>
+    <script src="quiz.js"></script>
+</body>
+
+</html>

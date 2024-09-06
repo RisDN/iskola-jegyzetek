@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bestgames_GUI", "bestgames_GUI\bestgames_GUI.csproj", "{C9EA5A50-4C43-41E0-8045-FFCD8832A554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EA5A50-4C43-41E0-8045-FFCD8832A554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EA5A50-4C43-41E0-8045-FFCD8832A554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EA5A50-4C43-41E0-8045-FFCD8832A554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EA5A50-4C43-41E0-8045-FFCD8832A554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B61271E-0797-4967-85D3-04A96F4F6D83}
+	EndGlobalSection
+EndGlobal

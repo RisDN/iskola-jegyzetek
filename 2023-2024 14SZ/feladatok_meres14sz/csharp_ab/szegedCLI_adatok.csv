@@ -1,0 +1,187 @@
+﻿1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Algyő;vonat
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Anna-kút;vonat
+10;Víztorony tér - Klinikák;Anna-kút;troli
+2;Szeged vasútállomás - Európa liget;Anna-kút;villamos
+3;Tarján - Vadaspark;Anna-kút;villamos
+3F;Tarján - Fonógyári út;Anna-kút;villamos
+4;Tarján - Kecskés;Anna-kút;villamos
+8;Makkosház - Klinikák;Anna-kút;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Aradi vértanúk tere;vonat
+10;Víztorony tér - Klinikák;Aradi vértanúk tere;troli
+2;Szeged vasútállomás - Európa liget;Aradi vértanúk tere;villamos
+8;Makkosház - Klinikák;Aradi vértanúk tere;troli
+19;Makkosház - Víztorony tér;Attila utca (Mars tér);troli
+9;Bakay Nándor utca - Lugas utca;Attila utca (Mars tér);troli
+9;Bakay Nándor utca - Lugas utca;Bakay Nándor utca;troli
+2;Szeged vasútállomás - Európa liget;Bálint Sándor utca;villamos
+5;Körtöltés utca - Gyermekkórház;Bálint Sándor utca;troli
+19;Makkosház - Víztorony tér;Bartók tér;troli
+5;Körtöltés utca - Gyermekkórház;Bartók tér;troli
+6;Vértói út - Gyermekkórház;Bartók tér;troli
+9;Bakay Nándor utca - Lugas utca;Bartók tér;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Bécsi körút;vonat
+2;Szeged vasútállomás - Európa liget;Bécsi körút;villamos
+3F;Tarján - Fonógyári út;Belvárosi temető;villamos
+3F;Tarján - Fonógyári út;Belvárosi temető II. kapu;villamos
+10;Víztorony tér - Klinikák;Bercsényi utca;troli
+19;Makkosház - Víztorony tér;Berlini körút;troli
+5;Körtöltés utca - Gyermekkórház;Berlini körút;troli
+6;Vértói út - Gyermekkórház;Berlini körút;troli
+3;Tarján - Vadaspark;Brüsszeli körút;villamos
+3F;Tarján - Fonógyári út;Brüsszeli körút;villamos
+4;Tarján - Kecskés;Brüsszeli körút;villamos
+3;Tarján - Vadaspark;Budapesti körút;villamos
+3F;Tarján - Fonógyári út;Budapesti körút;villamos
+4;Tarján - Kecskés;Budapesti körút;villamos
+19;Makkosház - Víztorony tér;Csaba utca;troli
+9;Bakay Nándor utca - Lugas utca;Csaba utca;troli
+5;Körtöltés utca - Gyermekkórház;Csanádi utca;troli
+6;Vértói út - Gyermekkórház;Csanádi utca;troli
+10;Víztorony tér - Klinikák;Csillag tér;troli
+19;Makkosház - Víztorony tér;Csillag tér;troli
+9;Bakay Nándor utca - Lugas utca;Csillag tér;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Damjanich utca;vonat
+2;Szeged vasútállomás - Európa liget;Damjanich utca;villamos
+3;Tarján - Vadaspark;Deák Ferenc Gimnázium;villamos
+3F;Tarján - Fonógyári út;Deák Ferenc Gimnázium;villamos
+4;Tarján - Kecskés;Deák Ferenc Gimnázium;villamos
+19;Makkosház - Víztorony tér;Dózsa utca;troli
+9;Bakay Nándor utca - Lugas utca;Dózsa utca;troli
+10;Víztorony tér - Klinikák;Dugonics tér;troli
+3;Tarján - Vadaspark;Dugonics tér;villamos
+3F;Tarján - Fonógyári út;Dugonics tér;villamos
+4;Tarján - Kecskés;Dugonics tér;villamos
+8;Makkosház - Klinikák;Dugonics tér;troli
+19;Makkosház - Víztorony tér;Erdő utca;troli
+9;Bakay Nándor utca - Lugas utca;Erdő utca;troli
+19;Makkosház - Víztorony tér;Etelka sor;troli
+9;Bakay Nándor utca - Lugas utca;Etelka sor;troli
+2;Szeged vasútállomás - Európa liget;Európa liget;villamos
+10;Víztorony tér - Klinikák;Fecske utca;troli
+3F;Tarján - Fonógyári út;Fonógyári út;villamos
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Galamb utca;vonat
+2;Szeged vasútállomás - Európa liget;Galamb utca;villamos
+19;Makkosház - Víztorony tér;Gát utca;troli
+8;Makkosház - Klinikák;Gát utca;troli
+19;Makkosház - Víztorony tér;Glattfelder Gyula tér;troli
+3;Tarján - Vadaspark;Glattfelder Gyula tér;villamos
+3F;Tarján - Fonógyári út;Glattfelder Gyula tér;villamos
+4;Tarján - Kecskés;Glattfelder Gyula tér;villamos
+9;Bakay Nándor utca - Lugas utca;Glattfelder Gyula tér;troli
+5;Körtöltés utca - Gyermekkórház;Gyermekkórház;troli
+6;Vértói út - Gyermekkórház;Gyermekkórház;troli
+19;Makkosház - Víztorony tér;Háló utca;troli
+9;Bakay Nándor utca - Lugas utca;Háló utca;troli
+19;Makkosház - Víztorony tér;Hétvezér utca;troli
+5;Körtöltés utca - Gyermekkórház;Hétvezér utca;troli
+6;Vértói út - Gyermekkórház;Hétvezér utca;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Hódmezővásárhely vasútállomás;vonat
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Hódmezővásárhelyi Népkert vasútállomás;vonat
+10;Víztorony tér - Klinikák;Honvéd tér;troli
+8;Makkosház - Klinikák;Honvéd tér;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Hősök tere;vonat
+9;Bakay Nándor utca - Lugas utca;Huszár utca;troli
+3;Tarján - Vadaspark;II. Kórház;villamos
+3F;Tarján - Fonógyári út;II. Kórház;villamos
+3;Tarján - Vadaspark;Kálvária tér;villamos
+3F;Tarján - Fonógyári út;Kálvária tér;villamos
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Kálvin János tér;vonat
+10;Víztorony tér - Klinikák;Károlyi utca;troli
+3;Tarján - Vadaspark;Károlyi utca;villamos
+3F;Tarján - Fonógyári út;Károlyi utca;villamos
+4;Tarján - Kecskés;Károlyi utca;villamos
+8;Makkosház - Klinikák;Károlyi utca;troli
+3;Tarján - Vadaspark;Kecskeméti utca;villamos
+3F;Tarján - Fonógyári út;Kecskeméti utca;villamos
+4;Tarján - Kecskés;Kecskeméti utca;villamos
+4;Tarján - Kecskés;Kecskés;villamos
+3F;Tarján - Fonógyári út;Kereskedő köz;villamos
+10;Víztorony tér - Klinikák;Klinikák;troli
+8;Makkosház - Klinikák;Klinikák;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Kossuth tér;vonat
+5;Körtöltés utca - Gyermekkórház;Körtöltés utca;troli
+3;Tarján - Vadaspark;Londoni körút;villamos
+3F;Tarján - Fonógyári út;Londoni körút;villamos
+9;Bakay Nándor utca - Lugas utca;Londoni körút (Bakay Nándor utca);troli
+9;Bakay Nándor utca - Lugas utca;Lugas utca;troli
+19;Makkosház - Víztorony tér;Makkosház;troli
+8;Makkosház - Klinikák;Makkosház;troli
+19;Makkosház - Víztorony tér;Makkosházi körút;troli
+5;Körtöltés utca - Gyermekkórház;Makkosházi körút;troli
+6;Vértói út - Gyermekkórház;Makkosházi körút;troli
+8;Makkosház - Klinikák;Makkosházi körút;troli
+19;Makkosház - Víztorony tér;Mars tér (autóbusz-állomás);troli
+5;Körtöltés utca - Gyermekkórház;Mars tér (autóbusz-állomás);troli
+6;Vértói út - Gyermekkórház;Mars tér (autóbusz-állomás);troli
+9;Bakay Nándor utca - Lugas utca;Mura utca;troli
+19;Makkosház - Víztorony tér;Múzeum;troli
+9;Bakay Nándor utca - Lugas utca;Múzeum;troli
+19;Makkosház - Víztorony tér;Ortutay utca;troli
+8;Makkosház - Klinikák;Ortutay utca;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Pulz utca;vonat
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Rókus vasútállomás;vonat
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Rókusi templom;vonat
+2;Szeged vasútállomás - Európa liget;Rókusi templom;villamos
+2;Szeged vasútállomás - Európa liget;Rókusi víztorony;villamos
+5;Körtöltés utca - Gyermekkórház;Rókusi víztorony;troli
+10;Víztorony tér - Klinikák;Római körút;troli
+19;Makkosház - Víztorony tér;Rózsa utca;troli
+3;Tarján - Vadaspark;Rózsa utca;villamos
+3F;Tarján - Fonógyári út;Rózsa utca;villamos
+4;Tarján - Kecskés;Rózsa utca;villamos
+5;Körtöltés utca - Gyermekkórház;Rózsa utca;troli
+6;Vértói út - Gyermekkórház;Rózsa utca;troli
+8;Makkosház - Klinikák;Rózsa utca;troli
+10;Víztorony tér - Klinikák;Sándor utca;troli
+19;Makkosház - Víztorony tér;Sárosi utca;troli
+5;Körtöltés utca - Gyermekkórház;Sárosi utca;troli
+6;Vértói út - Gyermekkórház;Sárosi utca;troli
+8;Makkosház - Klinikák;Sárosi utca;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Somogyi utca;vonat
+2;Szeged vasútállomás - Európa liget;Somogyi utca;villamos
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Strandfürdő;vonat
+4;Tarján - Kecskés;Szabadkai út;villamos
+4;Tarján - Kecskés;Szalámigyár;villamos
+2;Szeged vasútállomás - Európa liget;Szatymazi utca;villamos
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Széchenyi tér;vonat
+19;Makkosház - Víztorony tér;Széchenyi tér;troli
+2;Szeged vasútállomás - Európa liget;Széchenyi tér;villamos
+5;Körtöltés utca - Gyermekkórház;Széchenyi tér;troli
+6;Vértói út - Gyermekkórház;Széchenyi tér;troli
+9;Bakay Nándor utca - Lugas utca;Széchenyi tér;troli
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Szeged vasútállomás;vonat
+2;Szeged vasútállomás - Európa liget;Szeged vasútállomás;villamos
+3;Tarján - Vadaspark;Szent György tér;villamos
+3F;Tarján - Fonógyári út;Szent György tér;villamos
+4;Tarján - Kecskés;Szent György tér;villamos
+10;Víztorony tér - Klinikák;Szent István tér;troli
+8;Makkosház - Klinikák;Szent István tér;troli
+4;Tarján - Kecskés;Szivárvány kitérő;villamos
+19;Makkosház - Víztorony tér;Tabán utca (Felső Tisza-part);troli
+9;Bakay Nándor utca - Lugas utca;Tabán utca (Felső Tisza-part);troli
+3;Tarján - Vadaspark;Tarján;villamos
+3F;Tarján - Fonógyári út;Tarján;villamos
+4;Tarján - Kecskés;Tarján;villamos
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Tavasz utca;vonat
+2;Szeged vasútállomás - Európa liget;Tavasz utca;villamos
+5;Körtöltés utca - Gyermekkórház;Torontál tér (P+R);troli
+6;Vértói út - Gyermekkórház;Torontál tér (P+R);troli
+19;Makkosház - Víztorony tér;Tündér utca;troli
+5;Körtöltés utca - Gyermekkórház;Tündér utca;troli
+6;Vértói út - Gyermekkórház;Tündér utca;troli
+8;Makkosház - Klinikák;Tündér utca;troli
+3;Tarján - Vadaspark;Vadaspark;villamos
+3F;Tarján - Fonógyári út;Vadaspark;villamos
+4;Tarján - Kecskés;Vám tér;villamos
+1;Szeged vasútállomás - Hódmezővásárhely vasútállomás;Vásárhelyi Pál utca;vonat
+2;Szeged vasútállomás - Európa liget;Vásárhelyi Pál utca;villamos
+9;Bakay Nándor utca - Lugas utca;Vásárhelyi Pál utca (Bakay Nándor utca);troli
+3;Tarján - Vadaspark;Veresács utca;villamos
+3F;Tarján - Fonógyári út;Veresács utca;villamos
+2;Szeged vasútállomás - Európa liget;Vértó;villamos
+5;Körtöltés utca - Gyermekkórház;Vértó;troli
+6;Vértói út - Gyermekkórház;Vértó;troli
+6;Vértói út - Gyermekkórház;Vértói út;troli
+4;Tarján - Kecskés;Vitéz utca;villamos
+10;Víztorony tér - Klinikák;Víztorony tér;troli
+19;Makkosház - Víztorony tér;Víztorony tér;troli

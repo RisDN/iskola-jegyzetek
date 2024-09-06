@@ -1,0 +1,11 @@
+nev,belepdatum,pozicio,fizetes,thnev
+Cserép Virág,2019-01-06,szellemi,320000,Budapest
+Kiss Miklós,2019-10-11,vezeto,510000,Budapest
+Magyar István,2018-11-14,szellemi,380000,Budapest
+Nagy Béla,2017-12-01,fizikai,210000,Eger
+Nagy Emőd,2019-12-01,fizikai,270000,Eger
+Gipsz Jakab,2017-08-11,fizikai,220000,Eger
+Kis Tünde,2017-12-03,fizikai,220000,Eger
+Mező Mária,2018-08-21,vezeto,450000,Debrecen
+Vezér Tas,2017-08-12,fizikai,250000,Debrecen
+Nagy Máté,2018-12-03,szellemi,325000,Debrecen

@@ -1,0 +1,14 @@
+1. Készíts tárolt eljárást mely az el nem adott ingatlanok árát a következőek szerint emeli meg:
+	ha: 50 MFt alatt van akkor 25%-kal
+	ha: 50-100 MFt között van, akkor 18,5%-kal
+	ha: 100 MFt felett van, akkor 12%-kal
+2. Készíts egy függvényt kamatszamitas néven! Bejövő paraméter legyen a hitelösszege és a a törlesztési évek száma, kamat. 
+   A függvény számítsa ki a kamatos kamattal növelt végtörlesztést!
+   1ev_erteke=hitelosszeg*(1+kamat/100);
+   2ev_erteke=1ev_erteke*(1+kamat/100); .....
+3. Paraméterként érkezik a hónap, év, jutalék %-a
+   Töröld a jutalék táblát, és az adott hónap+év jutalékait mentsd be a megadott százalékkal a jutalék táblába
+4. Személy adatbázisban a tárolt eljárás a következő feladatot valósítsa meg:
+   Bejövő paraméterként egy új telephely kódja és neve érkezik, ezt a telephelyet add a telephely_torzs táblához.
+   Minden olyan dolgozót aki a cégnél jelenleg is dolgozik és 300000 Ft felett van a jövedelme törölje ki a szemely_th táblából
+   és adja hozzá az új telephely kóddal.

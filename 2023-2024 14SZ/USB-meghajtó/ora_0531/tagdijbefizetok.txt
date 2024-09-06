@@ -1,0 +1,11 @@
+Csipkerózsika;anya;2
+Hókuszpók;apa;1
+Tapsi Hapsi;apa;4
+Hófehérke;anya;7
+Szőke Herceg;apa;3
+Daisy;anya;2
+Törpilla;anya;3
+Tarzan;apa;1
+Aladdin;apa;2
+Simba;apa;1
+Balu;apa;1

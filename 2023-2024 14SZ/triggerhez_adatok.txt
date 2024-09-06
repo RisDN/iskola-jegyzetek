@@ -1,0 +1,28 @@
+
+CREATE TABLE vegadat(
+id integer PRIMARY KEY,
+osszeg INTEGER);
+
+CREATE TABLE soradat(
+vegid integer,
+dbosszeg INTEGER,
+db integer);
+
+CREATE TABLE naplo(
+id INTEGER PRIMARY KEY AUTO_INCREMENT,
+vegid INTEGER,
+rosszeg INTEGER,
+ujosszeg INTEGER,
+idopont TIMESTAMP NOT NULL,
+szemely VARCHAR(40) NOT null);
+
+INSERT INTO vegadat (id,osszeg)
+VALUES 
+(1,0),
+(2,1000),
+(3,0);
+
+INSERT INTO soradat (vegid,dbosszeg,db)
+VALUES 
+(2,500,2);
+
