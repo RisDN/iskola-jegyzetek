@@ -22,15 +22,12 @@ namespace gondoltamegyszamot
             InitializeComponent();
         }
 
-        private void newGame_Click(object sender, EventArgs e) {
-            newGame();
-        }
-
-
-
         private void newGame() {
-            
+            this.guess_btn.Show();
             this.numberOfGuesses = 0;
+
+            this.number_of_guesses.Text = this.numberOfGuesses.ToString();
+
             this.numberToGuess = rnd.Next(1, 50);
 
             this.to_guess.Text = numberToGuess.ToString();
@@ -46,10 +43,23 @@ namespace gondoltamegyszamot
         }
 
         private void guess() {
+
+            if(this.guess_input.Text == "")
+            {
+                MessageBox.Show("Kérlek adj meg egy számot!", "Hiba!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            int guess;
+            try {
+                guess = int.Parse(this.guess_input.Text);
+            } catch (Exception e) {
+                MessageBox.Show("Kérlek adj meg egy számot!", "Hiba!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             this.numberOfGuesses++;
             this.number_of_guesses.Text = this.numberOfGuesses.ToString();
 
-            int guess = int.Parse(this.guess_input.Text);
 
             if(guess < this.numberToGuess) {
                 this.feedbackOutput.Text = "Nagyobb számra gondoltam!";
@@ -57,7 +67,7 @@ namespace gondoltamegyszamot
             }
 
             if(guess > this.numberToGuess) {
-                this.feedbackOutput.Text = "Kissebb számra gondoltam!";
+                this.feedbackOutput.Text = "Kisebb számra gondoltam!";
                 return;
             }
 
@@ -69,15 +79,32 @@ namespace gondoltamegyszamot
             this.guess_input.ReadOnly = true;
             this.surrenderBtn.Hide();
             this.newGameBtn.Show();
-
         }
+
+        private void surrender() {
+            this.feedbackOutput.Text = $"Feladtad! Vesztettél!";
+            this.surrenderBtn.Hide();
+            this.newGameBtn.Show();
+            this.guess_input.ReadOnly = true;
+            this.guess_btn.Hide();
+        }
+
 
         private void Form1_Load(object sender, EventArgs e) {
             this.surrenderBtn.Hide();
+            this.guess_btn.Hide();
+        }
+
+        private void newGame_Click(object sender, EventArgs e) {
+            newGame();
         }
 
         private void guess_btn_Click(object sender, EventArgs e) {
             guess();
+        }
+
+        private void surrenderBtn_Click(object sender, EventArgs e) {
+            surrender();
         }
     }
 }

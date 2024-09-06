@@ -98,6 +98,7 @@
             this.surrenderBtn.TabIndex = 6;
             this.surrenderBtn.Text = "Feladom";
             this.surrenderBtn.UseVisualStyleBackColor = true;
+            this.surrenderBtn.Click += new System.EventHandler(this.surrenderBtn_Click);
             // 
             // feedbackOutput
             // 
