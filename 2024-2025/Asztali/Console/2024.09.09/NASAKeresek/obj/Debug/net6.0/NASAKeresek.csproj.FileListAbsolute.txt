@@ -1,0 +1,14 @@
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\bin\Debug\net6.0\NASAKeresek.exe
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\bin\Debug\net6.0\NASAKeresek.deps.json
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\bin\Debug\net6.0\NASAKeresek.runtimeconfig.json
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\bin\Debug\net6.0\NASAKeresek.dll
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\bin\Debug\net6.0\NASAKeresek.pdb
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.AssemblyInfoInputs.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.AssemblyInfo.cs
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.csproj.CoreCompileInputs.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.dll
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\refint\NASAKeresek.dll
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.pdb
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\NASAKeresek.genruntimeconfig.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Console\2024.09.09\NASAKeresek\obj\Debug\net6.0\ref\NASAKeresek.dll
