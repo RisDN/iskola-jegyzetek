@@ -54,7 +54,6 @@ namespace veletlenszamok
                 sum += i;
             }
             double avarge = sum / ints.Length;
-            // átlag 2 tizedesre kerekítve
 
             avarage_output.Text = $"Átlag: {Math.Round(avarge, 2)}";
         }
