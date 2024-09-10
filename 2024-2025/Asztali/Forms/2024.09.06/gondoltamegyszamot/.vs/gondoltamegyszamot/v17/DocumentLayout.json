@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\2024.09.06\\gondoltamegyszamot\\",
+  "WorkspaceRootPath": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\Forms\\2024.09.06\\gondoltamegyszamot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|c:\\users\\rostas.andras\\desktop\\iskola-jegyzetek\\2024-2025\\asztali\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|solutionrelative:gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|c:\\users\\rostas.andras\\desktop\\iskola-jegyzetek\\2024-2025\\asztali\\forms\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|solutionrelative:gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|c:\\users\\rostas.andras\\desktop\\iskola-jegyzetek\\2024-2025\\asztali\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|solutionrelative:gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\Forms\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFD50E3-3577-4881-8466-E4BD4A994158}|gondoltamegyszamot\\gondoltamegyszamot.csproj|solutionrelative:gondoltamegyszamot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\Forms\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs",
               "RelativeDocumentMoniker": "gondoltamegyszamot\\Form1.cs",
-              "ToolTip": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs",
+              "ToolTip": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\Forms\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs",
               "RelativeToolTip": "gondoltamegyszamot\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwFcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T08:54:51.279Z",
               "IsPinned": true,
@@ -36,11 +36,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\Forms\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs",
               "RelativeDocumentMoniker": "gondoltamegyszamot\\Form1.cs",
-              "ToolTip": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\rostas.andras\\Desktop\\iskola-jegyzetek\\2024-2025\\Asztali\\Forms\\2024.09.06\\gondoltamegyszamot\\gondoltamegyszamot\\Form1.cs [Design]",
               "RelativeToolTip": "gondoltamegyszamot\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T08:29:52.465Z",

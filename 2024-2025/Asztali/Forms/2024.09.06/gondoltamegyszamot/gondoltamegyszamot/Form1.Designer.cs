@@ -102,6 +102,7 @@
             // 
             // feedbackOutput
             // 
+            this.feedbackOutput.Enabled = false;
             this.feedbackOutput.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.feedbackOutput.Location = new System.Drawing.Point(54, 171);
             this.feedbackOutput.Name = "feedbackOutput";

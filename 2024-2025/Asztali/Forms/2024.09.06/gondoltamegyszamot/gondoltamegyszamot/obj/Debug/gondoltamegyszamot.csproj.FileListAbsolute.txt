@@ -8,3 +8,13 @@ C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\gon
 C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.csproj.CoreCompileInputs.cache
 C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.exe
 C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.pdb
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\bin\Debug\gondoltamegyszamot.exe.config
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\bin\Debug\gondoltamegyszamot.exe
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\bin\Debug\gondoltamegyszamot.pdb
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.csproj.AssemblyReference.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.Form1.resources
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.Properties.Resources.resources
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.csproj.GenerateResource.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.csproj.CoreCompileInputs.cache
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.exe
+C:\Users\rostas.andras\Desktop\iskola-jegyzetek\2024-2025\Asztali\Forms\2024.09.06\gondoltamegyszamot\gondoltamegyszamot\obj\Debug\gondoltamegyszamot.pdb

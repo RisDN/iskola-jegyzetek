@@ -23,6 +23,8 @@ namespace gondoltamegyszamot
         }
 
         private void newGame() {
+            this.guess_input.Enabled = true;
+
             this.guess_btn.Show();
             this.numberOfGuesses = 0;
 
@@ -79,6 +81,8 @@ namespace gondoltamegyszamot
             this.guess_input.ReadOnly = true;
             this.surrenderBtn.Hide();
             this.newGameBtn.Show();
+            this.guess_input.Enabled = false;
+
         }
 
         private void surrender() {
@@ -87,12 +91,17 @@ namespace gondoltamegyszamot
             this.newGameBtn.Show();
             this.guess_input.ReadOnly = true;
             this.guess_btn.Hide();
+            this.guess_input.Enabled = false;
+
         }
 
 
         private void Form1_Load(object sender, EventArgs e) {
             this.surrenderBtn.Hide();
             this.guess_btn.Hide();
+            this.guess_input.Enabled = false;
+
+
         }
 
         private void newGame_Click(object sender, EventArgs e) {
