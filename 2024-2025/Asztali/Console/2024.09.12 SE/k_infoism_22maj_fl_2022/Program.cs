@@ -1,5 +1,6 @@
 ﻿namespace k_infoism_22maj_fl_2022
 {
+    // https://dload-oktatas.educatio.hu/erettsegi/feladatok_2022tavasz_kozep/k_infoism_22maj_fl.pdf
     internal class Program
     {
         static void Main(string[] args)
