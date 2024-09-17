@@ -1,0 +1,10 @@
+:root{
+    --bs-primary-rgb: 255, 255, 0;
+    --bs-link-color: #8601AF;
+    --bs-link-hover-color: #343409;
+}
+
+.navbar-dark{
+    --bs-navbar-color: rgba(255, 255, 0);
+    --bs-navbar-hover-color: rgb(248, 248, 129);
+}
