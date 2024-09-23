@@ -1,0 +1,662 @@
+Rajtszám;Kategória;Név;Egyesület;Idõ
+M107;m3f;Ács Zoltán;;1:21:25
+M15;fn;Adámi Krisztina;ÁkosBike Team Aszód;1:14:46
+R38;m2f;Adamkó Gergely;;1:58:10
+K214;ff;Ádók Róbert;;3:58:51
+R320;m1f;Almádi László;;2:13:13
+R376;m2f;Andreyev Kostyantyn;;1:45:23
+R180;m2f;Andrusch István;PCCC;1:42:14
+M115;ff;Angyal Zsolt;;1:10:24
+R256;m3f;Attila Pintér;;2:29:17
+K110;m2f;Bagi Csaba;;3:31:29
+K190;m1f;Bahul József;Ózdi Kerékpáros Egyesület;2:50:00
+K218;m2f;Bakocs Péter;;3:57:37
+R206;m2n;Bakonyi Györgyi;Vegan Energy Food Team;2:22:25
+H13;m1f;Bakos Gergõ;Salgótarjáni HKE;4:50:02
+R236;m2f;Bakos János;;1:59:30
+R248;m1f;Baksa Tamás;;2:31:02
+K94;fn;Balázs Beáta;Bringabanda;2:57:22
+R246;m1f;Balázs Viktor;;1:40:01
+M9;u15n;Bali Emese;Salgótarjáni HKE;1:02:05
+R132;u19n;Bali Sára;Salgótarjáni HKE;1:44:35
+M2;u15n;Bálint Blanka;MiGreen Team Visegrád;1:22:24
+R223;m3f;Bálint István;Esztergomi Küllõszaggatók Kerékpár Egyesület;2:08:23
+R133;m1f;Bálint József;Salgótarjáni HKE;1:32:35
+M58;fn;Bálint Nóra;MiGreen Team Visegrád;1:20:13
+R337;fn;Bálint Tímea;;2:09:53
+R5;m3f;Bálint Zsolt;MiGreen Team Visegrád;2:19:44
+K81;m2f;Báló Krisztián;;4:40:20
+H41;m2f;Baluka Balázs;Trek SE;4:49:35
+M77;u13f;Baluka Bálint;;1:12:39
+K235;m2f;Bánhidi Péter;;3:45:36
+R239;m1f;Bányai Károly Róbert;;3:21:39
+K195;m1f;Baranczó Benedek;;3:17:33
+R161;u17n;Baranya Rebeka;Tatanka Racing Team;2:34:56
+K127;m2f;Baranyai Zoltán;;4:20:44
+R355;ff;Baranyi Gábor;;3:18:25
+K84;m1f;Baranyi László;Életerõ KSE;3:45:27
+R168;u19f;Baráth Simon;;1:46:47
+M100;ff;Bardóczki Valentin;Mátra Biker SC;1:21:37
+R306;m2f;Barkóczi Balázs;;2:23:06
+R429;m1f;Barta Gábor;;1:56:25
+R351;m1n;Bátki Mónika;Életerõ KSE;2:47:13
+R79;m3f;Belme Lajos;;1:49:04
+R237;m3f;Bencz Zoltán;Footstrong SE;1:42:37
+K65;m2f;Benedek Gábor;Bike Zone Gödöllõ;3:38:28
+K111;m3f;Benedek Zoltán;;4:12:10
+R50;m3f;Bényei Ferenc;MiGreen Team Visegrád;2:41:29
+R39;m2n;Berecz Enikõ;Superior MTB Team;3:01:58
+R24;m1f;Berecz Péter;;1:55:34
+R225;m2f;Bereczki István;;2:35:17
+R301;m3f;Bereczky Gáspár;;2:35:13
+R30;m1f;Berta Rajmund;HUNting Dogs Cycling Team Pétervására;1:49:04
+R226;m3f;Bezzeg László;;2:33:20
+K154;m2f;Binder László;Életerõ KSE;4:25:53
+R265;m2f;Biro Gergely;;2:30:23
+M48;u17n;Bittmann Panna;KTM Team Hungary;1:00:46
+K217;m2f;Blahut Szabolcs;Pedáldöngölõk HKE;4:14:52
+R308;m3n;Blastyákné Fekécs Szilvia;;2:35:36
+R356;fn;Bobula Dalma;;2:17:42
+R54;ff;Bócz Bendegúz;;1:51:30
+K189;fn;Bódán Zsófia;NAGY SE;5:04:10
+H87;m1f;Bodnár Márton;;5:40:06
+K171;m3f;Bodócs Mihály;Meditech Sport Club;3:05:17
+K229;m2f;Bodoki Róbert;;3:19:38
+M45;m4f;Bodonyi Péter;;1:22:35
+R163;m2f;Bognár Balázs;Superior MTB Team;1:40:08
+M37;m4f;Bondár László;NYÍR-MTB;0:58:49
+K30;ff;Borbély István;Jbike Team;3:38:28
+R104;m3f;Boros Gyula;;1:36:54
+H56;ff;Borsos Benedek;SVS Pro Team;4:05:04
+K149;m2f;Both Zoltán;Merida Maraton Team-CST;3:37:38
+R318;ff;Bottlik Gábor;;3:05:47
+K202;u19f;Bottlik József;;3:52:39
+R68;u19n;Bottlik Zsuzsanna;;2:25:38
+R338;m1f;Böjte Csongor;Buruczki Training System;1:36:52
+R164;m2f;Brachna Gábor;Péceli TE Cseuz Ördögei;1:50:13
+R412;m3f;Brandhuber Attila;PCCC;2:09:37
+R10;m2f;Brezina Albert;;2:33:15
+R305;m2f;Bucsi Zoltán;;1:45:40
+M94;m3f;Budai Gyula;;1:13:01
+R313;m2f;Bugyi Imre;;2:04:01
+K41;m2f;Bula Tamás;;3:18:57
+M5;u17n;Bula Zsófia;;1:08:12
+H85;m1f;Burgermeister Balázs;Cube-Csömör;4:14:41
+H59;ff;Buruczki Szilárd;Cube-Csömör;4:39:05
+M7;u13f;Bús László Teodor;C.E.S.;1:24:27
+R80;u17f;Bús Miklós;C.E.S.;1:46:23
+M87;fn;Búvár Anna;;1:22:10
+M109;u15n;Buvár Emese;;1:17:15
+K75;u19n;Buvár Eszter;Superior MTB Team;4:01:52
+M88;u17f;Búvár Márton;;1:02:52
+R343;u19f;Chomiak Dávid;;2:09:30
+R43;m2f;Czakó Péter;Jbike Team;2:02:41
+M26;ff;Czeba Bálint;;1:27:37
+R221;m2f;Czére Krisztián;ROAD-Sopron Bank Zrt. KSE Movár;1:45:57
+K57;m3f;Czibere Gábor;;5:30:46
+K95;m1f;Czinkoczki Zoltán;Bringabanda SC;3:27:19
+R257;m2f;Csaba Fáczán;;3:05:30
+K281;m3f;Csáki Zoltán;;3:43:52
+K197;m2f;Csámpa Tibor;Buruczki Training System;2:36:09
+R340;m2f;Csehely Tamás;HegyiBringa SE;2:01:30
+E12;1f;Csengery Zsolt;;2:42:28
+K191;m2f;Csépányi Péter;Ózdi KE;3:04:39
+R173;u17f;Cservák Zalán;team3K;1:45:26
+R96;m1f;Csikász Gergely;;1:59:25
+M17;fn;Csoma Anita;;1:27:41
+R330;m1f;Csomós Imre;;3:27:57
+R295;m1f;Csonka Dávid;Buruczki Training System;1:49:38
+R322;ff;Csontó Ádám;Buruczki Training System;1:32:27
+R25;m2f;Csorba János;;2:13:08
+R227;m2f;Csorogi Zoltán;Péceli TE Cseuz Ördögei;2:06:10
+K172;m3f;Dalos István;;3:59:24
+K133;ff;Darányi Bence;Péceli TE Cseuz Ördögei;2:53:02
+R165;u19f;Darányi Máté;Péceli TE Cseuz Ördögei;1:50:11
+R198;m1f;Deák Dániel;;1:49:44
+K153;m3f;Deák Ferenc;;3:45:48
+K166;m2f;Debre László;;3:21:47
+R70;u15f;Deme Erik;Buruczki Training System;1:41:10
+R69;m2f;Deme Roland;;2:28:22
+R4;m1f;Demeter Zoltán;Superior MTB Team;1:28:54
+R114;m2f;Dienes Barnabás;EGER MTB;2:03:16
+R407;m2f;Dobai László;;2:11:28
+R167;m1f;Domonkos Dániel;;2:08:48
+M70;u13f;Dorogi Alex Martin;Kõbánya Cycling Team;0:56:35
+R264;ff;Doszev Gábor;Bringabanda SC;2:16:02
+K38;m3f;Dózsa György;Superior MTB Team;3:42:03
+M51;ff;Dózsa Imre;;1:41:42
+R304;u17f;Dózsa Imre Márk;;2:31:20
+R46;u17f;Dózsa Zétény György;Superior MTB Team;1:45:14
+K175;m2f;Dr Ragó Péter;;3:20:44
+K61;m2f;Dr. Bús László;C.E.S.;3:06:04
+H10;m2f;Dr. Buvár István;;6:35:34
+R94;m2n;Dr. Buvárné Fári Andrea;;3:07:23
+R408;m4n;Dr. Czibók Csilla;;2:31:01
+R170;m1f;Dr. Halász Dávid;;2:17:35
+R341;m2f;Dr. Imre Szabolcs;Merkapt Maraton Team SE;1:41:05
+R172;m4f;Dr. Szakács Zoltán;;2:11:42
+R19;m2f;Dudás-Szabó Lajos;;2:13:03
+M91;u13f;Éberling Tamás;;1:42:22
+R414;m3f;Eisenkrammer Károly;;2:07:00
+H86;m2f;Elek Gábor;;6:20:40
+K242;m2f;Erdélyi Zsolt;BringaErdõ;2:59:22
+K158;ff;Erõs András;Merida Maraton Team-CST;3:09:43
+H14;m2f;Farkas Attila;Salgótarjáni HKE;5:31:19
+R15;m1f;Farkas Milán;;1:49:38
+R183;m2f;Farkas Péter;;2:44:58
+H18;ff;Farkas Péter;;6:04:05
+M114;fn;Farkas Viktória;;1:30:02
+M32;u13f;Fazakas Bálint;;1:27:46
+M31;ff;Fazakas László;;1:27:47
+K143;m2f;Fedor István;Merida Maraton Team-CST;2:45:26
+R88;m2f;Fehér Attila;;2:17:42
+R9;m2f;Fehér Viktor;;2:25:04
+H58;m1f;Fejes Gábor;;4:25:42
+R447;m2f;Fejes Miklós;HegyiBringa SE;3:01:02
+R266;m2f;Fekete István;;1:39:09
+M41;fn;Fekete Nóra;Brigetio KSE;1:05:18
+K238;m3f;Feldhoffer András;;3:04:11
+R106;u15f;Feldhoffer Bálint;Fillari Team Budaörs;1:37:51
+R123;m1n;Ferencz Anna;Bringabanda SC;1:59:27
+K26;m1f;Fésûs Gábor;;4:55:06
+R310;m3f;Fésüs László;Meditech Sport Club;1:28:14
+K59;m2f;Fetter Zsolt;PCCC;4:21:44
+K31;m2n;Figler Anita;Ózdi Kerékpáros Egyesület;5:04:34
+K244;m2f;Flamich Gábor;;3:53:08
+H37;ff;Fodor Dávid;Ózdi Kerékpáros Egyesület;5:32:57
+M14;ff;Fodor István;NAGY SE;1:58:46
+K104;m1f;Fodor József;Életerõ KSE;3:24:54
+K181;m2f;Fodor László;NAGY SE;3:33:04
+R285;m3n;Fodor-Fejes Adrian Adél;Egri Triatlon Klub;2:32:33
+K212;ff;Földi Bence;Bike Zone Gödöllõ;2:30:05
+K83;m3f;Freeman Karl;;3:01:15
+K192;m1f;Frölich Tamás;Ózdi Kerékpáros Egyesület;2:35:32
+R129;m1f;Gábor Farkas;;2:34:24
+K261;ff;Gál Balázs;;3:39:58
+R100;m3n;Gál Erika;;1:56:38
+M59;fn;Gál Julianna;;1:15:53
+M64;fn;Garabás Gizella;;1:03:33
+R61;m2f;Gáspár András;;2:08:51
+K47;m3f;Gelencsér Ferenc;Superior MTB Team;3:24:32
+R85;m3f;Giriti Sándor;ÁkosBike Team Aszód;1:56:32
+E10;1n;Giriti Sándorné ÁGI;ÁkosBike Team Aszód;2:47:50
+R267;m2f;Girus Miklós;;2:03:52
+R328;u17f;Godó János;;2:13:58
+R166;m2n;Goldoványi Krisztina;Péceli TE Cseuz Ördögei;2:02:15
+R348;m2f;Gombolai László;Vitalitás SE;2:03:46
+R271;m1f;Gór Szabolcs;;2:19:06
+M82;m3f;Gortva László;;0:49:15
+K219;m3f;Gönczi Attila;DVTK-Freeriderz;2:54:44
+R22;m2f;Gönczõ Attila;C.E.S.;1:48:57
+R124;m1f;Gréczi István;Bringabanda SC;1:41:30
+E15;1f;Grillmayer Gábor;;2:04:15
+K185;m3f;Grmela Gábor;;3:18:49
+K226;m2f;Gugó Gábor;Péceli TE Cseuz Ördögei;3:24:55
+K11;m1f;Gulyás Péter;Merida Maraton Team-CST;3:36:05
+R211;m2f;Gyarmathy Tamás;;2:30:19
+K302;m2f;Gyémánt Tamás;;4:46:33
+R326;m3f;Gyergyádes Zoltán;;2:04:03
+R127;u19n;Györe Evelin;C.E.S.;2:37:10
+K77;m2f;Györe Szabolcs;C.E.S.;3:56:18
+K206;m1f;Györfi Máté;;3:21:26
+R336;m2f;Gyügyei Károly;;2:05:15
+K128;m1f;Hacsi Ákos;team3K;2:44:17
+M98;ff;Hagymási Tamás;;1:05:24
+M67;ff;Hajnal Attila;;1:58:45
+R56;u19n;Halász Angéla;;2:10:14
+R405;m3f;Halász Ferenc;;2:13:57
+K48;m3f;Halász Jozsef;;3:34:52
+M78;m3f;Halász Károly;;0:55:10
+R16;m2f;Halász László;Jbike Team;1:51:19
+R273;m2n;Hámori Judit;;2:47:52
+R293;m2f;Hámori Kornél;Superior MTB Team;2:13:33
+M73;m4f;Harangvölgyi András;;1:24:54
+K134;ff;Harkai Máté;;3:29:06
+R90;m1f;Harsányi Zoltán;;1:46:41
+H4;m2f;Hasenfratz Péter;PCCC;4:23:24
+H27;m1f;Hattyár Dániel;Merida Maraton Team-CST;4:12:05
+M79;fn;Havasi Andrea;;1:04:50
+R458;u19n;Hebling Lili;;1:57:22
+R323;m1n;Hegedûs Beáta;Trek Team;1:53:10
+M62;ff;Hegedüs Zsolt;EGER MTB;1:07:38
+K257;m1n;Hegyi Tímea;;4:17:59
+K260;m1f;Héjja Attila;Superior MTB Team;2:36:12
+M93;ff;Herencsényi Kornél;;1:16:15
+M90;u17n;Herencsényi Róza;;1:13:49
+R379;m1f;Herk Imre;Meditech Sport Club;1:41:47
+R378;m1f;Herk Márton;;2:03:45
+R186;m3n;Hevesi Kata;;2:54:33
+K148;m2f;Hidvégi Ariel;Merida Maraton Team-CST;4:04:11
+R254;m2f;Homonnai Krisztián;;1:50:40
+M80;m4f;Honfi Gábor;;1:19:55
+R281;m1f;Hornyák László;Superior MTB Team;2:25:01
+R134;m1f;Horváth Ádám;Salgótarjáni HKE;1:58:30
+K250;fn;Horváth Adél;Superior MTB Team;3:06:50
+K256;m1f;Horváth Balázs;;3:18:48
+R89;m4f;Horváth Ferenc;;3:11:07
+K13;m1f;Horváth Gábor;Team Heavy Pedál - Szeged;2:47:11
+R280;ff;Horváth Kristóf;;2:18:37
+K228;m2f;Horváth Máté;;3:05:34
+R28;m2f;Horváth Miklós;Chili Sport;1:33:05
+R370;m2f;Horváth Zoltán;;1:42:20
+R107;m2f;Horváth Zsolt;;2:37:36
+R47;m1f;Hugyecz Attila;;1:56:30
+K125;m1f;Hugyi Zoltán;;4:03:32
+R26;u17f;Hunics Balázs;Superior MTB Team;1:53:24
+H32;m1f;Hûvösvölgyi Márton;Fillari Team Budaörs;5:21:31
+M38;fn;Hüvösvölgyi-Nagy Zsuzsanna Szandra;;1:14:51
+K231;m1f;Ibrányi Attila;Vitalitás SE;2:35:48
+R406;ff;ifj.Szûcs Miklós;;2:37:23
+R335;u17f;Illés Márton;Péceli TE Cseuz Ördögei;1:50:37
+K186;m2n;Imre Zsófia;PCCC;3:15:51
+K268;m1f;Istenes Ferenc;Tatanka Racing Team;3:27:35
+M25;u15f;Izsó Dániel;AKSE;1:04:05
+K117;u19f;Izsó Norbert;AKSE;2:38:07
+E13;1f;Jäger József;;2:28:36
+R135;m4f;Jakab József;Salgótarjáni HKE;2:31:01
+R188;m1f;Jakab Péter;;2:12:19
+R275;ff;Jamrik Egon;;2:08:34
+R108;m2f;Jánosi Zoltán;;2:36:59
+R71;m3f;Jaros Péter;Mátra Biker SC;2:05:40
+R72;m2f;JAROS Zsolt;Mátra Biker SC;1:58:11
+R216;m1f;Jenei Endre;;2:24:39
+R148;m2f;Jenei Zoltán;;2:04:06
+K278;m3f;Jobbágy András;;4:04:37
+R98;m3f;John Tuki;;2:08:30
+M50;fn;Jónás Éva;;1:27:38
+H33;ff;Józsa Dániel;Merida Maraton Team-CST;5:53:43
+R48;m1f;Juhász Ákos;ÁkosBike Team Aszód;1:36:55
+H55;m1f;Juhász Gergely;Team Heavy Pedál - Szeged;5:44:33
+R331;m2f;Juhász László;;2:41:21
+R282;ff;Juhász Róbert;Superior MTB Team;1:59:45
+R365;m1n;Juhászné Pázmándi Márta;;3:07:25
+K157;m1f;Jurácz Zoltán;;3:02:03
+R156;m2n;Kalla Brigitta;Jbike Team;2:52:23
+R57;m2f;Kámán Csaba Ernõ;Roprint Racing Team;1:41:04
+R44;ff;Kámán Krisztián;Roprint Racing Team;1:33:17
+M22;ff;Kapornai Gábor;;1:09:25
+K145;m2n;Karácsonyi Ildikó;Merida Maraton Team-CST;3:46:19
+K198;m1f;Karafa Balázs;Merida Maraton Team-CST;2:29:38
+K144;m2f;Karakai Viktor;Merida Maraton Team-CST;3:36:22
+R235;m4n;Karcsai Imréné Anna;MLINKÓSOK;2:50:54
+K33;m3f;Kardos Tibor;480 Fit Boys-PJKE;3:09:00
+R125;fn;Kargul Anett;Bringabanda SC;2:06:14
+R357;u15f;Kárpáti Bálint;Kõbánya Cycling Team;1:37:43
+M71;u13n;Kárpáti Mira;Kõbánya Cycling Team;1:13:12
+R268;m2f;Kaskó Tamás;;3:25:57
+M10;ff;Kató László;Salgótarjáni HKE;1:00:30
+K86;m1f;Katona Bálint;;3:02:58
+R302;m3f;Kazi György;;1:45:46
+H40;m2f;Kecskés Gyõzõ;;5:27:28
+K225;m2f;Kele János;;3:24:19
+K102;m2f;Kelemen Attila;Kisvárda és Környéke Bringások KSE;3:01:26
+R315;m2f;Kenyó Endre;;2:19:12
+R316;u19f;Kenyó Kristóf;;2:07:43
+M53;fn;Kenyóné Süli Melinda;;1:19:40
+H38;m1f;Keöd Ágoston;Bakony Racing Team KSE;5:15:52
+R411;m2f;Keppler Miklós Norbert;;2:22:00
+R115;m2f;Kerek Róbert;Sportstuff   Racing;1:50:12
+R212;m2f;Kimmel János;;1:51:02
+K51;fn;Király Katalin;Trek SE;3:04:45
+K67;m3f;Király László;;3:54:01
+H21;m2f;Kis András;Szegedi Kerékpáros SC;6:07:12
+H30;m2f;Kis József;Merida Maraton Team-CST;4:29:45
+R232;m2f;Kis Péter;;1:56:27
+R159;m1f;Kis Szabolcs;;1:59:38
+R363;m3f;Kisgergely György;FASTER HARDER SCOOTER;1:48:43
+K129;m2f;Kisjeszeni-Jeszenszky Zsolt;;3:52:37
+K58;m2f;Kispál Gábor;Jbike Team;3:10:55
+R286;m1f;Kiss Dániel;;2:33:11
+R297;m2f;Kiss Gábor;Ózdi KE;1:49:40
+K36;ff;Kiss László;;4:14:17
+R207;u15n;Kiss Luca;Vegan Energy Food Team;2:22:22
+K135;u19f;Kiss Milán Márk;Superior MTB Team;3:34:48
+R432;m1n;Kiss Nóra;RMTK SE;1:54:56
+R109;m1f;Kiss Viktor;Green Riders;2:02:55
+H20;m2f;Kiss Zoltán;;5:17:59
+M27;m3n;Klamancsek Katalin;;1:05:10
+K205;m2f;Kocziha Zoltán;Feta Cycling Team;3:53:14
+M57;u17n;Koczka Dóra;;1:11:29
+R324;m2f;Koczka László;;2:19:17
+R11;m4f;Kocsi Sándor   Nagykáta;;2:15:55
+R272;m1f;Kókai Béla;Jbike Team;2:58:06
+R63;m3f;Kókai Gábor;GIANT Gyömrõ ;1:58:14
+R205;m2f;Kókány Pál;;2:24:43
+R261;m2f;Kolozsváry Szilárd;Brigetio KSE;1:55:59
+K87;m3f;Kondacs Zoltán;Team Heavy Pedál - Szeged;3:50:11
+E14;1f;Konkoly András;;2:14:46
+R373;m4f;Koós Dezsõ;;2:59:20
+M68;u15f;Kormos Bence;;1:35:26
+R284;m2f;Kormos Csaba;Superior MTB Team;1:58:30
+M69;ff;Kormos Csaba;;1:35:30
+R18;fn;Kormos Judit Renáta;;3:47:41
+R215;m3f;Korsós Zoltán;Életerõ KSE;1:53:47
+R214;m2n;Korsósné Hõdör Katalin;Életerõ KSE;2:56:29
+R300;m2f;Korubszky Zoltán;;3:25:57
+R136;u19n;Kotroczó Dorka;Salgótarjáni HKE;1:57:21
+K267;m2f;Kotroczó Nándor;;2:56:39
+M75;u13f;Kovács Kolos Gábor;;1:21:44
+K146;m2f;Kovács András;Merida Maraton Team-CST;2:59:00
+R33;m1n;Kovács Anikó;Bringabanda SC;2:14:18
+K236;m2f;kovács gábor;;3:57:27
+R233;ff;Kovács Gergely;;1:56:25
+R242;ff;Kovács Imre;;2:55:02
+K194;m2f;Kovács István;Ózdi Kerékpáros Egyesület;2:44:48
+M84;m4f;Kovács József;;1:29:19
+R263;m2f;Kovács Miklós;;1:40:08
+R130;m1f;Kovács Tamás;;3:07:19
+H11;m1f;Kovács Tamás;Mesterbike 575 Team;4:34:30
+H43;m1f;Kovács Tamás Zomby;NAGY SE;5:57:41
+R2;m2f;Kovács Zoltán;;1:36:47
+M20;ff;Kovács Zsolt;Péceli TE Cseuz Ördögei;1:30:43
+R367;m2f;Kozák Attila;Bringabanda SC;2:39:33
+K88;m3f;Kozár László;;4:16:41
+R253;fn;Ködmön Dorottya;;2:14:08
+R171;m2f;Kömöz Róbert;Roprint Racing Team;1:53:26
+R209;m1n;Kõszegi Kornélia;Trek SE;1:52:02
+K68;m3f;Krajnyák Tibor;;3:26:12
+R383;m2n;KRISZTINA BARTALIS;;2:11:35
+K62;m1f;Kronberger Olivér;;3:02:54
+M56;fn;Kubik Csenge;Superior MTB Team;1:02:10
+M8;ff;Kubik Zsolt;Superior MTB Team;1:11:32
+K164;m1f;Kuin Nagy Lóránt Tibor;;5:06:24
+R149;m1f;Kukk László;;2:03:42
+K180;m2f;Kurinczi Engelbert;;3:33:21
+M28;ff;Kuzma Ádám;Team CoachKuzma Egyesület;1:04:46
+R374;m2f;Laczko András;Sportstuff   Racing;1:33:17
+R13;m3f;Lakatos Ede;Szilvásváradi Túrakerékpáros Klub;1:56:38
+R101;m2n;Lakatos Susann;;2:02:14
+K52;m1n;Láng Melinda;Meditech Sport Club;3:00:59
+R189;ff;Lassú Bence;Superior MTB Team;1:55:04
+R377;m3f;László Hidasi;Crosskovácsi SE;2:56:10
+R181;ff;Lázár Benedek;;2:09:35
+K130;m1f;Lebedy Máté;;2:49:18
+K293;ff;Lekeny Márk;;3:27:01
+R307;m2f;Lobermayer Istvan;;1:36:58
+K131;m2f;Losonczi Laszlo;;3:03:12
+K108;m1f;Lóth Gábor;;3:43:42
+R382;m2f;Lovasz Gabor;GIANT Gyömrõ ;1:53:35
+K53;m2f;Lõrincz Ádám;HUNting Dogs Cycling Team Pétervására;4:34:44
+K43;m3f;Lõrincz János;Bike Zone Gödöllõ;3:06:33
+R332;u17n;Lõrincz Vera;Bike Zone Gödöllõ;2:12:34
+R199;m2f;Ludmerczki Tibor;;1:52:12
+K63;m1f;Májer Balázs;Merida Maraton Team-CST;2:55:40
+K246;m3f;Majkó György;;3:52:16
+K259;m1f;Majoros Csaba;Superior MTB Team;3:17:42
+R358;u15f;Majoros Dávid;Kõbánya Cycling Team;1:37:43
+R361;m1n;Makara Alexandra;;2:41:25
+K275;m2f;Makk László;;4:09:40
+K288;m2f;Makra János;;4:17:59
+M19;u13f;Marczal Marcell;VKE-NELSON Pepperl+Fuchs Team;0:53:45
+R53;m1n;Márkus Melinda;Superior MTB Team;2:39:53
+K37;m3f;Marlok Róbert;;3:59:21
+M33;u17f;Marosvolgyi Bence;Superior MTB Team;1:03:56
+R231;m2f;Marosvölgyi Krisztián;Superior MTB Team;2:12:56
+R118;m1f;Maróti Bence;;3:06:50
+R146;u19f;Maroti Dávid;Tatanka Racing Team;1:36:30
+R147;u19f;Maróti János;Tatanka Racing Team;1:37:49
+K9;m2f;Márton András;;3:30:46
+R49;m1f;Mayer Gábor;BIKE ZONE Gödöllõ;1:45:17
+R278;m1f;Mayerhoffer Péter;;3:02:23
+R196;m2f;Méhész Tamás;Merida Maraton Team-CST;1:33:23
+R190;ff;Mészáros Gábor;;2:08:35
+M86;ff;Mészáros Milán;;1:07:35
+K101;m2f;Mészáros Zsolt;;4:10:40
+R380;m1f;Mezei Bálint;;1:48:20
+R84;m2f;Miczkó János;;1:56:00
+K15;m3f;Mihályi Zoltán;;3:17:42
+H57;m2f;Mikóczi Géza;Trek Team;5:08:35
+R119;m1f;Mikuska Tamás;Superior MTB Team;1:57:22
+R459;u17f;MIndszenti Ákos;DVTK-Freeriderz;1:45:39
+M81;u13f;Mindszenti Áron;;1:16:38
+M83;fn;Mindszenti Csilla;;1:24:31
+R460;m2f;Mindszenti Gábor;;2:28:28
+K245;m2f;Móczár Adorján;BIKE ZONE Gödöllõ;3:06:49
+K23;m2f;Móder Zoltán;Evolúció Kisbér;3:10:56
+R87;ff;Mogyorósi Balázs;;1:58:11
+K49;m2f;Mohácsi Géza;;3:19:20
+M34;m3f;Mohai Károly;;1:11:22
+K138;m2f;Molnár Csaba;;3:27:59
+R287;m1f;Molnár Dávid;;2:28:03
+K165;m2f;Molnár Gábor;;3:28:09
+K98;m1f;Molnár Gergely;Bringabanda SC;2:59:22
+R402;ff;Molnár Péter;;2:20:42
+K78;m2f;Mráz János;Team Heavy Pedál - Szeged;2:53:31
+H84;m1f;Mühl Tamás;;5:25:01
+R7;m2f;Müller Antal;MiGreen Team Visegrád;3:05:25
+M112;u13f;Nagy Bálint;;1:26:03
+R210;m1f;Nagy László;;2:03:50
+K19;m2n;Nagy Noémi;Fehérvár Cycling Team;3:53:20
+K200;m1f;Nagy Norbert;Kisvárda és Környéke Bringások KSE;2:59:03
+R208;m2f;Nagy Péter;Salgótarjáni HKE;1:54:11
+R360;fn;Nagy Renáta;;2:00:41
+M113;ff;Nagy Sándor Csaba;;1:26:01
+R314;m3f;Nagy Tamás;EGER MTB;2:07:57
+K196;m2f;Nagy Tibor;;4:08:45
+K69;m2f;Nagy Zoltán;Merida Maraton Team-CST;3:22:38
+K20;ff;Nagy Zsolt;Superior MTB Team;3:21:22
+M89;fn;Nagygyõr Csilla;;1:29:33
+R191;m3f;Németh Lajos;;2:11:08
+K249;m2f;Németh Róbert;;3:50:41
+R342;m1f;Nemoda Zsolt;;2:34:29
+R321;m1f;Neruda Nándor;Merida Maraton Team-CST;1:41:04
+R20;ff;Neufeld Dávid;Péceli TE Cseuz Ördögei;2:01:22
+M3;m3f;Neufeld Ernõ;Péceli TE Cseuz Ördögei;1:19:23
+M42;ff;Norbert Piller;;1:24:53
+K4;m2f;Novák Zoltán;VKE-NELSON Pepperl+Fuchs Team;4:03:33
+M4;m3n;Nyári Krisztina;;1:25:37
+K115;m2f;Nyircsák Roland;EGER MTB;3:52:22
+R14;m3f;Ódor János;Kiválók Kerékpáros Sportegyesület;1:46:40
+M23;fn;Oláh Dóra;Vegan Energy Food Team;1:21:57
+R415;m2f;Oláh Zoltán;;2:19:33
+K28;u19f;Osterling Ádám;MASH Racing Team;3:06:03
+K182;m2f;Osztermann László;Superior MTB Team;3:06:54
+K17;m1f;Ökrös Benedek;Mesterbike 575 Team;2:45:40
+R131;m2f;P. Varga Zoltán;;1:56:29
+R292;m2f;Paár Vilmos;ROAD-Sopron Bank Zrt. KSE Movár;1:36:36
+R359;u15f;Pakot András Gusztáv;Kõbánya Cycling Team;2:00:37
+R58;m2f;Palásti Zsolt;;2:05:41
+R35;ff;Paless Gergely;Péceli TE Cseuz Ördögei;1:58:08
+K76;m1f;Pallag Tamás;;3:31:19
+M24;m4f;Pallos Zoltán;DVTK-Freeriderz;1:08:39
+R329;m1f;Pap Péter;;1:56:34
+K234;m2f;Pap Zsolt;;3:26:27
+R296;m3f;Papp Mihály;;1:56:03
+R240;m1f;Papp Tibor György;;3:21:39
+K223;m2f;Papp Zoltán;;3:29:24
+R142;m2f;Pásztor László;Trek SE;1:33:07
+R289;u17f;Pataki Barnabás;PCCC;1:28:31
+K188;m3f;Pataki Ferenc;PCCC;3:14:03
+R126;ff;Pataki Roland;Bringabanda SC;1:38:42
+R288;u19n;Pataki Zsóka;PCCC;2:02:01
+K54;m1n;Pataky Kitti;Bringabanda SC;3:15:47
+R160;m3f;Patyi Péter;;2:12:38
+K161;m1f;Pázmándi Peti;HOTE SE;3:40:51
+K224;m1f;Pazsitka Péter;;3:48:29
+M36;m3f;Pelyhe László;NAGY SE;0:54:13
+R139;m2f;Pesthy Péter;;2:25:35
+M12;u13f;Péter Nándor;Salgótarjáni HKE;0:55:33
+M11;ff;Péter Nándor;Salgótarjáni HKE;0:55:35
+M108;m3f;Péter Zsolt;;1:12:19
+M43;u13f;Piller-Dávid Marcell;;1:31:41
+M49;u15n;Pincze Boglárka;;1:26:11
+K184;m2f;Pincze Gábor;PCCC;3:33:42
+K64;u19f;Pintér Patrik;Tatanka Racing Team;3:03:16
+K253;m2n;Pipicz- Bús Dorottya;;6:29:17
+R12;m1f;Plaszkó Roland;;2:11:44
+M21;m3f;Polonkai László;HOTE SE;1:04:35
+K142;m3f;Pósfalvi Tamás;Merida Maraton Team-CST;3:46:19
+R401;m1f;Pozsgai József;;2:02:09
+K151;m1f;Primász Péter;Merida Maraton Team-CST;3:52:28
+K90;m1n;Prohászka Judit;;6:00:10
+K178;m2f;Puskás Ferenc Lajos;;5:14:40
+R65;m2n;Rácz Ildikó;;2:41:26
+H17;m2f;Rácz Szabolcs;Salgótarjáni HKE;5:06:35
+K120;ff;Radványi Norbert;AKSE;2:35:53
+R184;m1f;Raffai Zsolt;;1:52:28
+R174;m2f;Raji Ferenc;team3K;1:47:06
+M52;u15f;Rakovics Marcell;;1:41:48
+R27;m4f;Rakovics Vilmos;Vuelta Sportegyesület;1:50:15
+R290;m1f;Répási Roland;;2:02:05
+K132;m1f;Reznik Sándor;PCCC;3:06:00
+K262;m1f;Richardus Tom;;2:58:43
+R121;m1f;Riegel Dániel;Superior MTB Team;1:38:35
+R51;u19f;Rittgasszer Tamás;Superior MTB Team;1:37:56
+R333;m2f;Rozgonyi Péter;Trek Team;2:02:12
+R41;m1f;Sándor Zoltán;ÁkosBike Team Aszód;2:06:48
+R83;m2f;Sári Tamás;;2:02:42
+K243;m2f;Sárosi Endre;;2:35:24
+R353;m1f;Sárvári János;;1:56:44
+M85;u15f;Sasvári Ádám;;1:21:03
+R369;m2f;Sátori Szabolcs;;2:10:27
+R368;u19f;Sátori Szabolcs Bence;TelkiBike Team;1:46:37
+R102;m2f;Savanyu Roland;;1:49:00
+R3;m1f;Sebõk Gábor;NAGY SE;2:39:55
+K45;m2f;Sike András;;3:42:07
+K73;m3f;Silinger István;Marcali KSE;3:37:20
+M29;fn;Simányi Katalin;Team CoachKuzma Egyesület;1:32:37
+M96;ff;Simon Máté;;1:13:13
+R255;m2n;Simon Natália;;2:58:25
+R404;ff;Simon Péter;Superior MTB Team;2:04:00
+R384;m3f;Simon Péter;Mátra Biker SC;2:23:08
+M72;u13f;Simon Viktor;Kõbánya Cycling Team;1:13:12
+R169;m2f;Simon Zsolt;Jbike Team;2:23:22
+H12;m1f;Sipos Attila;Bringabanda SC;5:53:33
+R93;m1f;Solymosi Gábor;;1:43:13
+R244;ff;Somogyi András;;2:00:39
+R230;m1f;Sónyák Szabolcs;Superior MTB Team;2:12:27
+R334;m2f;Stróbl Tamás;;2:27:15
+H36;m1f;Sulykos Gergely;;5:50:25
+K232;ff;Sylvester Balázs Tibor;ZKSE;2:29:13
+R258;m1f;Szabó Ádám Lajos;Team Heavy Pedál - Szeged;2:47:59
+K282;m2f;Szabó Ákos;;3:41:42
+K177;m3f;Szabó Attila;;3:50:39
+M35;u17f;Szabó Barnabás;;1:16:29
+M39;ff;Szabo Gabor;;0:53:14
+K32;m1f;Szabó Gábor;;4:14:03
+K183;m3f;Szabó György;;3:01:16
+R153;m3f;Szabó Imre;Vegan Energy Food Team;2:09:17
+R409;m2f;Szabó László;;3:14:02
+K162;m1f;Szabó Róbert;Életerõ KSE;2:36:14
+R262;ff;Szabó Roland;;1:50:47
+K105;m1f;Szabó Zsolt;Életerõ KSE;3:04:19
+R75;m2f;Szajlai Gáspár Péter;HUNting Dogs Cycling Team Pétervására;1:49:38
+K126;ff;Szakács Márk;;3:27:53
+R277;m4f;Szalontay András;Merida Maraton Team-CST;1:53:31
+K29;m2f;Szanto Csaba;Superior MTB Team;4:20:31
+M55;fn;Szántó Krisztina;;1:26:15
+K207;m3f;Száraz Zoltán;C.E.S.;3:54:31
+R339;u15f;Szarka Regõ;Ózdi KE;1:48:32
+R113;m1f;Szarvas Lajos;;2:17:33
+K3;m2f;Szaszkó Gergõ;EGER MTB;3:34:52
+H8;m2f;Száva Tamás;KKB SE;4:49:33
+R364;u19f;Szedeli Krisztián;Tamási BringaSport Egyesületre;1:32:02
+R175;m2f;Szedlacsek Ottó;team3K;1:37:35
+R299;m1f;Szegedi Gábor;Team Heavy Pedál - Szeged;1:28:54
+R23;m2f;Székely Bertalan;;1:56:33
+R371;u17f;Szemere Barnabás;ORBEA Forza Racing Team;1:37:50
+K6;m2f;Szemere Márton;;3:27:49
+R413;m2f;Szende Zoltán;;3:13:18
+M97;u13f;Szép Damján;ZKSE;1:07:41
+R259;m2f;Szép Zsolt;;2:07:45
+M40;fn;Szépné Csibi Mónika;;1:09:29
+K170;m1f;Szikora Zoltán;;3:19:05
+H3;m2f;Szilágyi Szabolcs;MASH Racing Team;4:41:44
+M61;u13f;Sziráki Marcell;Superior MTB Team;1:22:29
+K254;ff;Szlávik Nándor;C.E.S.;3:56:19
+R76;u19n;Szlovencsák Panka;Mátra Biker SC;2:06:04
+R345;m3n;Szolcs?nyi Enikõ;;2:06:28
+R362;m2f;Szoó István;;2:22:21
+M13;u15f;Szoó-Kovács Tódor István;Superior MTB Team;0:59:39
+K179;m1f;Szögi Csaba;;4:15:50
+M46;m3n;Szõke Judit;;1:11:30
+R350;m2f;Szõke Tamás;;2:17:18
+R247;m2f;Szrenkó Zoltán;;2:33:12
+R213;m2f;Szücs Miklos;;1:38:36
+K239;m2f;Szüki Gábor;Team Heavy Pedál - Szeged;4:04:55
+R21;u19f;Szvercsek Márk;Superior MTB Team;1:48:58
+M18;m3f;Szvercsek Zsolt;;1:04:59
+R366;ff;Takács Balázs;Kontent-DKSI;1:41:03
+K99;m3f;Takács Gábor;Salgótarjáni HKE;3:04:28
+K208;m1f;Takács Máté;Superior MTB Team;3:24:42
+R197;m1f;Takács Zoltán;Merida Maraton Team-CST;1:33:04
+R319;u15f;Tamás Bence;DVTK-Freeriderz;2:21:55
+K221;fn;Tamás Bianka;DVTK-Freeriderz;3:10:20
+K220;m3f;Tamás Tibor;DVTK-Freeriderz;3:02:53
+R344;m2f;Tanács Ferenc;;2:58:48
+K85;fn;Tanács Gabriella;Team Heavy Pedál Szeged;3:18:17
+R128;m2f;Tángli András;;2:34:20
+K247;m2f;Távoly Tamás;Speed-Way Team;3:41:53
+M65;ff;Tóth Antal;;1:38:14
+K160;m3f;Tóth Árpád;Bike4life;3:15:33
+E19;1f;Tóth Attila Zoltán;;1:52:11
+R141;u17f;Tóth Bálint;Superior MTB Team;1:50:33
+R112;m1f;Tóth Ferenc;Superior MTB Team;1:59:41
+R410;m2f;Tóth Gábor;;1:36:27
+R291;m2f;Tóth László;Bringabanda SC;2:25:25
+R372;fn;Tóth Lili;Bike4life;3:02:24
+M30;u13f;Tóth Márk Martin;Crosskovácsi;0:52:58
+R37;ff;Tóth Máté;Bringabanda SC;1:43:23
+R403;m1n;Tóth Nikoletta;;2:56:09
+R36;m2f;Tóth Tamás;Mátra Biker SC;1:46:03
+K216;m2f;Tóth Tibor;;4:08:48
+H34;m1f;Tóth Tibor;evosoft;5:32:39
+M63;fn;Tóthné Seres Zsanett;;1:38:17
+R29;m2f;Tóth-Pál János;;2:14:19
+R325;m2f;Tömördi Zsolt;Soproni Kerékpár Club;1:56:27
+K80;m1f;Törõcsik Péter Bálint;;3:34:26
+R294;m2f;Török Csaba;Ózdi KE;2:03:26
+R260;m2f;Turnáczki Róbert;;2:15:04
+M95;u13f;Tüdõdi Richárd;;1:17:04
+R62;m2f;Udvarias Attila;;2:42:55
+R145;m1f;Ujj Róbert;;2:39:44
+R352;u15f;Vaik Rudolf;;2:25:02
+R245;u19f;Váradi András;MLINKÓSOK;2:17:19
+K92;m1f;Varga Ádám;;3:50:40
+E20;1f;Varga Balázs;;2:14:51
+R137;u19f;Varga Dániel Bence;Salgótarjáni HKE;1:42:32
+R91;u17f;Varga Marcell;Tamási BringaSport Egyesületre;1:33:40
+M44;u13f;Varga Márk;Superior MTB Team;0:55:40
+K240;m3f;Varga Péter;;4:08:31
+R274;m2f;Varga Tamás;;2:29:17
+H9;ff;Varga Viktor;Tamási BringaSport;4:17:47
+R138;m3f;Varga Zsolt;Salgótarjáni HKE;1:50:42
+R241;m1n;Vargyuné Varga Orsolya;;3:21:39
+R195;m1f;Várhidi Zoltán;Merida Maraton Team-CST;1:28:55
+K163;m2f;Várkonyi Gábor;Életerõ KSE;3:15:03
+R178;u19f;Várnai Jenõ;Dr. Bátorfi-Agria KTK;1:40:09
+R179;m2f;Várnai Jenõ;;2:11:02
+R202;u15f;Vas Barnabás;Merida Maraton Team-CST;1:31:59
+K39;m1f;Vass István;;3:02:01
+R182;m2f;Veres Viktor;;2:39:30
+K248;m2f;Vermes Csaba;;3:02:59
+K252;m2f;Vikartovszky János;Tatanka Racing Team;3:34:25
+K168;m1f;Viktor Németh;;3:52:40
+K114;ff;Vingl Balázs;Trek SE;2:46:53
+R155;m2f;Virág Viktor;Jbike Team;1:40:10
+R193;m2f;Vitkai Zoltan;Crosskovácsi SE;2:03:44
+R203;m1f;Vödrös Gergely;Merida Maraton Team-CST;1:50:14
+K199;m1f;Vratarics Kornél;;2:52:51
+K10;m3f;Vukovics József;C.E.S.;3:44:02
+M99;u15f;Wachter András;;1:10:23
+R349;m4f;Wágner János;Vitalitás SE;2:05:45
+R99;m2n;Wagner Viktória;Merida Maraton Team-CST;2:19:37
+K258;ff;Wayer Benjamin;;2:33:31
+H61;m2f;Wilfing Zoltán;Focus Team Hungary;6:47:18
+R346;u15f;Wimmer Máté István;Superior MTB Team;1:49:41
+R347;m2f;Wimmer Norbert;;1:53:31
+M66;u15f;Wimmer Vince;;1:08:29
+R122;m1f;Wolsky Norbert;;2:04:16
+M76;u17f;Zajácz László;;1:18:22
+R234;m3f;Zakkar Sándor;;2:09:40
+R250;m1f;Zeke Norbert;Mátra Biker SC;2:11:34
+R249;m4f;Zelmer Erhard;Vegan Energy Food Team;1:52:25
+R194;m3f;Zentai László;;2:09:21
+K93;m1f;Zentai Zsolt;Superior MTB Team;4:00:18
+R327;m2n;Zgut Éva;;3:05:25
+K46;m3f;Zonkó Ferenc;Merida Maraton Team-CST;3:34:01
+R251;m2f;Zsemberi Zoltán;Bringabanda SC;1:39:18
+K251;m2f;Zsigmondi Zoltán;;3:20:56
+H25;m1f;Zsivity Zorán;Mesterbike 575 Team;4:16:08
+R381;m1f;Zsótér Gergely;;2:55:01
+K60;ff;Zsutai Máté;;3:33:11
