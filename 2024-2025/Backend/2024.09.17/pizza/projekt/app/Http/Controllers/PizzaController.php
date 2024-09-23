@@ -25,4 +25,10 @@ class PizzaController extends Controller
             'result' => PizzaModel::where('akcios', 1)->get()
         ]);
     }
+
+    public function adatlap($id) {
+        return view('adatlap', [
+            'result' => PizzaModel::find($id)
+        ]);
+    }
 }

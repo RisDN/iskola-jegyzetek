@@ -10,3 +10,4 @@ Route::get('/', function () {
 Route::get('/all', [PizzaController::class, 'welcome']);
 Route::get('/rnd', [PizzaController::class, 'random']);
 Route::get('/akciosok', [PizzaController::class, 'akcios']);
+Route::get('/adatlap/{id}', [PizzaController::class, 'adatlap']);

@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pizza Queen</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/mystyle.css">
+    <link rel="stylesheet" href="{{{ asset('css/app.css') }}}">
+    <link rel="stylesheet" href="{{{ asset('css/bootstrap.css') }}}">
 </head>
-<body class="bg-primary">
+<body class="bg-warning">
     <div class="container-fluid bg-dark">
         <nav class="container navbar navbar-expand-sm bg-dark navbar-dark">
             <a class="navbar-brand" href="/">Pizza Queen</a>
