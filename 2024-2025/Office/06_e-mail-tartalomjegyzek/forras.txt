@@ -1,0 +1,98 @@
+E-mail
+
+Az e-mail (ejtsd: ímél) az angol electronic  mail kifejezésből származik, ami „elektronikus posta”-ként vagy „villanyposta”-ként fordítható le, de egy időben használatban volt a drótposta és villámposta kifejezés is. A magyar helyesírás szabályai 12. kiadásának szótára  már tartalmazza az ímél írásmódot. Az elnevezés utal az írás és továbbítás módjára, amely teljes egészében elektronikus úton megy végbe. A hagyományos levéltovábbítást úgynevezett csigaposta (angolul: snail mail) néven emlegetik internetes  körökben. A mai e-mail-rendszerek szinte kivétel nélkül az internetet használják közvetítőnek, és ezáltal az e-mail az internet használatának egyik legkedveltebb formája lett.
+
+A magyar nyelvben (és még sok másban) kétféle jelentéssel is bír az e-mail kifejezés:
+
+az eredeti jelentése a postához hasonló elektronikus  üzenetkézbesítési szolgáltatás, valamint ezen túl a gyakorlatban
+
+az általa (e-mailen mint postán) továbbított (elektronikus) üzenetet, levelet (angolul message) is értjük alatta.
+
+E-mail az internet előtt
+
+Az e-mail előbb keletkezett, mint az internet maga. Valójában a már létező e-mail-rendszerek adták az internet megteremtéséhez szükséges eszközöket.
+
+Az e-mail története 1965-ben kezdődött, amikor egy  időosztásos nagyszámítógép (mainframe) több felhasználója közötti kommunikációt biztosította. Feltételezhető, hogy az első ilyen rendszerek az SDC, a Q32 és a MIT CTSS-ek voltak.
+
+Az e-mail nagyon hamar hálózati e-maillé fejlődött, lehetővé téve a felhasználóknak, hogy több gépen keresztül küldhessenek üzeneteket. Talán az AUTODIN rendszer volt az első,  amely 1966-tól lehetővé tette szöveges üzenetek küldését különböző számítógépek felhasználói között az os évben, de az is lehetséges, hogy a SAGE rendszer is rendelkezett valami hasonlóval korábban.
+
+Az ARPANET számítógépes hálózat jelentősen megnövelte  az e-mail népszerűségét. Egy angol nyelvű híradás (Mail history; A levél történelme) ír a rendszeren belüli e-mail továbbításának első próbálkozásairól, röviddel annak létrejövetele után 1969-ben.
+
+A @ jel (kukac) használatát a felhasználó nevének, illetve számítógépe azonosítójának elválasztására, Ray Tomlinson 1972-ben vetette fel. Korai e-mail-programjai, az SNDMSG és a READMAIL nagyon fontos lépések voltak a mai e-mail-forma kialakulásában.
+
+Mivel nem minden számítógép és hálózat volt egymással közvetlen összeköttetésben, az e-mail a számítógépek között egységesített protokoll, például a UUCP segítségével került továbbításra, az e-mailnek tehát tartalmazni kellett az üzenet útját, ami nem más, mint a küldő számítógépe és fogadó számítógépe közötti útleírás. Így az e-mail átküldhető lett többféle hálózaton is, mint például az ARPANET, a BITNET és az NSFNET, valamint nagygépes (mainframe vagy host) hálózatokon, melyek az UUCP segítségével kapcsolódtak.
+
+Az út az úgynevezett „bang path” címek segítségével  volt leírható, melyek megadták az ugrások (angolul: hop) neveit a ! jel (felkiáltójel) segítségével választva el egymástól.  Az egyes ugrásokat „bang sign”-nak nevezték. Egy példa a címzésre: …!bigsite!foovax!barbox!me ez alapján az e-mail útja,  a bigsite (általában egy nagy és mindenki által elérhető) helyen keresztül a foovax, majd a barbox nevű számítógépen  a me felhasználó, mint végcél. 8-10 lépésből álló utak száma nem volt ritka még 1981 körül. A késő éjszakai telefonos  UUCP-kapcsolatok miatt nem volt ritka az sem, hogy egy-egy e-mail akár egy héttel később érkezett csak meg, de az is előfordult, hogy az üzenetek elvesztek az ugrások útvesztőjében.
+
+Modern internetes e-mail
+
+Manapság szinte minden e-mail közvetlenül az internethez kapcsolódó gépekre érkezik, DNS, MX record és SMTP segítségével. Nagyon kevés mailkiszolgáló engedélyezi az útdefiniálást (routing), sem automatikusat, sem pedig kézit, az ezzel való visszaélések miatt. (Lásd: spam.)
+
+A modern internetes e-mail-cím egy karaktersorozat  a következő formában: jkovacs@cegneve.hu. Az első rész a személy felhasználóneve, a második annak a számítógépnek  a neve, amelyiken az adott személynek e-mail postafiókja van.
+
+Az e-mail üzenetek formátumát az RFC 2822  definiálja.
+
+Az internetes e-mail üzenetek tipikusan két fő részből állnak:
+
+Fejléc (header) – az üzenet rövid tartalma, a küldő címe, a fogadó címe, egyéb információk az e-mailről;
+Törzs (body) – maga az üzenet, általában a végén egy aláírással.
+
+A fejlécek általában tartalmazzák  az alábbi négy mezőt:
+
+Feladó (from) – a feladó  e-mail-címe;
+Címzett (to) – a fogadó e-mail-címe;
+Tárgy (subject) – a levél rövid leírása;
+Dátum (date) – a helyi idő és dátum,  amikor az üzenetet elküldték.
+A címzett (to) mező nem feltétlenül tartalmazza a címzett e-mail-címét. Az információ, amely a fejlécben megjelenik, érdemben hasonlít a postai levél címzéséhez. Az aktuális információt, hogy kinek volt címezve az e-mail, a postát kezelő számítógép (levélkiszolgáló; mail-server) eltávolítja, miután az e-mailt „behelyezi” a megfelelő postafiókba.
+
+A fejléc ezenkívül az alábbi mezőket tartalmazhatja még:
+
+Másolat (Cc) – angolul carbon copy. A név  az írógépek korszakából származik, amikor is indigóval készítették a másolatokat;
+Rejtett másolat (Bcc) – angolul blind carbon  copy – a Bcc-ben szereplő címzettek nem látszanak, tehát ha a rejtett másolatot küldünk A-nak és B-nek, akkor A nem fogja tudni, hogy B is megkapta ugyanazt a levelet;
+Válaszcím (Reply-To) – általában a feladó e-mail-címe található meg itt, de egyes levelezőprogramok megengedik eltérő e-mail-cím megadását is;
+Megérkezés (Received) – a postát kezelő számítógépek (levélkiszolgálók) jegyzik be magukat ebbe a listába, ez alapján tehát visszakövethető, milyen úton jutott el az e-mail a feladótól a címzettig;
+Content-Type – az üzenet típusát tartalmazza, az úgynevezett MIME definíció alapján.
+Üzenetek és postafiókok
+
+Az üzenetek, számítógépek között, az SMTP  (angolul: Simple Mail Transfer Protocol) típusú kapcsolat és a Sendmailhez hasonló programok segítségével kerülnek továbbításra. A felhasználók üzeneteiket POP, illetve IMAP típusú kapcsolatok segítségével töltik le a kiszolgálókról. Nagyobb vállalati rendszereknél előfordulnak ettől eltérő típusú megoldások is, mint például a Lotus Notes vagy a Microsoft Exchange.
+
+Az üzenetek vagy a kiszolgálón, vagy az ügyfélen (általában a felhasználói oldalt értjük ez alatt) tárolódnak. A szabványos postafiók-formátumok a Maildir és az mbox.  Természetesen vannak ettől eltérő postafiók formátumok, melyek közötti üzenetátvitel csak „átalakító” programok  segítségével oldható meg. (Példa: A rendszer postafiókrendszere PA, míg B rendszer postafiókrendszere „PB”; ahhoz, hogy PA és  PB között közvetlenül kicserélhető lehessen a postafiókok tartalma, ezeket olyan formátumúvá kell konvertálni egy harmadik programmal, melyet mindkettő megért.)
+
+Az e-mail-tartalom kódolása
+
+Az e-mail alapvetően csak 7  bites ASCII szöveg (128-féle betű, szám, illetve jel) átvitelére alkalmas. Vannak ugyan e-mail-rendszerek, melyek 8 bites kódolást  (256-féle betű, szám, illetve jel) is megengednek, azonban ez nem garantált. Ezért az e-mailt továbbfejlesztették  a MIME szabvánnyal, amely segítségével lehetőség nyílik bináris adatok (képek, hangok stb.) és HTML továbbítására mellékletekként.
+
+Csatolmányok
+
+Az e-mailhez különböző mellékletek csatolhatók, így könnyen  küldhető szövegfájl, kép vagy videó is.
+
+Egy videó-e-mail nagyon hasonlít a szöveges üzenetküldéshez,  kivéve, hogy az videót (is) tartalmaz. A videóüzenet-küldő rendszer bizonyos ideig vagy bizonyos számú letöltésig  hozzáférést biztosít a rögzített üzenetekhez a kijelölt szolgáltatónál. A felhasználó  (címzett) ugyanazon a szolgáltatón keresztül elérheti az üzenetet, az e-mailben kapott link segítségével, a világ bármely  pontjáról. A feladó rögzíti az üzenetet webkamera felhasználásával vagy más eszközzel, és feltölti a videóközvetítő rendszerbe. A címzettnél ezután eredményesebben elérheti, hogy válaszoljon az üzenetre. Az üzenet lehet személyes vagy üzleti,  elküldheti egy vagy több személynek attól függően, hogy a videóüzenet-szolgáltatói csomag hány üzenet küldésére ad lehetőséget.  A videó-e-mail küldése két alapvető lépésből áll: készíteni kell egy videót, a rendszeren belül, vagy feltölthetünk már előre elkészített videó(ka)t is, majd egy előre elkészített háttér kiválasztása után elküldjük. Annak érdekében,  hogy a rendszeren belül videóüzenetet tudjon létrehozni, rendelkeznie kell kamerával és mikrofonnal.
+
+Levélszemét
+
+Az e-mail használhatóságát  jelentősen csökkentik a nagy számban érkező kéretlen, rosszindulatú, ill. téves levelek. A több száz aktív „szemetelő” miatt az átlagfelhasználó  napi tíz vagy akár száz ilyen levelet is kaphat az elektronikus postaládájába. Mivel az e-mail-küldés költségei  igen alacsonyak, a „szemetelők” napi több százmillió e-mailt küldenek szét, ami jelentősen csökkenti e kommunikációs  forma hatékonyságát. Kapcsolódó fogalom a lényegtelen, sokszor örökre olvasatlan levelekre a bacn.
+
+A levélszemét ellen különböző levélszemét szűrő programokkal lehet védekezni. A gyakrabban használtak:
+
+SpamAssassin: Perlben írt nyílt forráskódú program;
+ASSP: közösségi spam szűrő szerver;
+dspam: nagy teljesítményű szűrő.
+A legtöbb vírusirtó  cég kínál kereskedelmi  megoldást a problémára.[1]
+
+A levélszemét tipikus tartalmakkal rendelkezik, amelyek gyakran keveredve jelennek meg:
+
+Legnagyobb számú a kéretlen kereskedelmi  hirdetés, a szoros értelemben vett spam
+Az e-mail-férgek (worm) e-maileket használnak saját maguk sokszorosítására és bejuttatására sérülékeny rendszerekbe. Bár a legelső e-mail-féreg, a Morris-féreg UNIX-rendszereket támadott meg, ez a probléma mára szinte kizárólag a Microsoft Windows rendszerek velejárója.
+Az e-mailek csatolmányában álcázott  számítógépes vírusok lapulhatnak.
+Levélszemétnek minősülnek azok a – kéretlen – levelek, amelyek levelező listáról származnak, és tartalmukra nem számít a feliratkozott felhasználó.
+Előfordul, hogy valakinek a címe hasonlít egy népszerű címre, vagy csak nagyon egyszerű, így tévedésből neki küldenek leveleket.
+A kifejezetten banki, pénzügyi vagy egyéb visszaélésre ún. adathalászatra küldött e-mailek feladói - megtévesztésül – valós, megbízható címekhez  hasonló címről küldik kártékony leveleiket. Csalók, sokszor a gyanútlan emberek jóindulatát vagy nyereségvágyát kihasználva, küldözgetnek e-maileket, főként a harmadik világból, megható vagy nagy örökséggel kecsegtető, előzetesen pénzt igénylő történetek előadásával.
+Az Amerikai Egyesült Államok és az Európai Unió egyaránt megpróbálnak e problémák ellen törvényekkel védekezni.
+
+Szolgáltatók
+
+E-mail szolgáltatásokat nyújthat bármely webszerver; nyilvános, országos- vagy világhálózat, pl. Yahoo!, Gmail, Freemail, Hotmail, Citromail, Mailbox stb.
+
+Forrás
+
+E-mail wikipédia szócikk: https://hu.wikipedia.org/wiki/E-mail
