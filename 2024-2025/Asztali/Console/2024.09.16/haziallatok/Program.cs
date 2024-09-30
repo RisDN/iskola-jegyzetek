@@ -80,6 +80,10 @@ namespace Program
 
             Pet nevsorbanAzElso = pets.MinBy(p => p.Name);
             Console.WriteLine(nevsorbanAzElso.Name);
+
+
+            var isThereAnyKitten = pets.Any(p => p.Species == "Cat");
+
         }
 
     }
