@@ -19,7 +19,7 @@ namespace _240930_vizsgateszt
             string line;
             while ((line = streamReader.ReadLine()) != null)
             {
-                Recipe recipe = new Recipe(line);
+                new Recipe(line);
             }
 
 
