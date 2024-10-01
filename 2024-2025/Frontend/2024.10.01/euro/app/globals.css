@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-img {
+  background-image: url('/imgs/cover.jpg');
+
+}
+
+img {
+  background-repeat: no-repeat !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
