@@ -16,14 +16,16 @@
             </tr>
         </thead>
         <tbody>
+            @php $i = 1; @endphp
             @foreach ($result as $oto)
             <tr>
-                <td>{{ $oto->id }}</td>
+                <td>{{ $i}}</td>
                 <td>{{ $oto->ev }}</td>
                 <td>{{ $oto->het }}. hét</td>
                 <td>{{ $oto->talalat5_db }} darab</td>
                 <td>{{ str_replace(',', ' ', number_format($oto->talalat5_huf)) }} Ft</td>
             </tr>
+            @php $i++; @endphp
             @endforeach
         </tbody>
     </table>
