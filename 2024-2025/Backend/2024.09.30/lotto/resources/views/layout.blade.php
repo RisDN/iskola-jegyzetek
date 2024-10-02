@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lottó húzások</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/mystyle.css">
+    <link rel="stylesheet" href="{{{asset("css/bootstrap.css")}}}">
+    <link rel="stylesheet" href="{{{asset("css/mystyle.css")}}}">
 </head>
 <body>
     <div class="container-fluid bg-dark">
         <nav class="container navbar navbar-expand-sm bg-dark navbar-dark">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Húzások</a>
+                    <a class="nav-link" href="/">Húzások</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Mikor volt ötös?</a>
+                    <a class="nav-link" href="/otos">Mikor volt ötös?</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Számtippelő</a>
+                    <a class="nav-link" href="/tipp">Számtippelő</a>
                 </li>
             </ul>
         </nav>
