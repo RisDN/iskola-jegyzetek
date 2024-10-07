@@ -14,4 +14,10 @@ class CatsController extends Controller
         return view('cats', ['result' => $images]);
     }
 
+    public function catpage($id)
+    {
+        $cat = CatsModel::find($id);
+        return view('catpage', ['result' => $cat]);
+    }
+
 }

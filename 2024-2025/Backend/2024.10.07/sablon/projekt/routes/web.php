@@ -9,3 +9,4 @@ Route::get('/', function () {
 
 
 Route::get('/pics', [CatsController::class, 'pics']);
+Route::get('/cat/{id}', [CatsController::class, 'catpage']);
