@@ -1,0 +1,37 @@
+2014-es Keszthely Triatlon verseny sprint távjának eredményeit kell
+feldolgoznod. Az forras.txt állomány sorai a versenyt befejező versenyzők adatait és az általuk elért időeredményeket tartalmazzák pontosvesszőkkel elválasztva.
+
+pl:
+Nagy Máté;1996;4;f;18-19;00:12:47;00:00:34;00:31:40;00:00:26;00:17:42
+
+Az első adat a versenyző neve
+A második adat a versenyző születésének éve.
+A harmadik szám a versenyző rajtszáma.
+A negyedik adat a neme (n = nő, f = férfi).
+Az ötödik adat a versenyző életkor szerinti kategóriáját határozza meg.
+(A kategóriák: 16-17, 18-19, 20-24, 25-29, 30-34, 35-39, 40-44,
+45-49, 50-54, elit, elit junior).
+Majd a következő öt időadat a versenyen mért időeredmények, melyek sorban a következők (óra:perc:másodperc formátumban):
+	úszás ideje,
+	első depóban töltött idő,
+	kerékpározás ideje,
+	második depóban töltött idő,
+	futás ideje.
+
+A versenyt az a versenyző nyeri, akinek a legkisebb az öt idő összege
+
+- hozz létre egy osztályt egy persenyző adatainak reprezentálására
+- to-string override, ami tartalmazza a versenyző adatait
+- olvasd be a file tartalmát egy objektumokat tartalmazó kollekcióba
+- írd ki a konzolra, hogy hány versenyző fejezte be a versenyt
+
+LINQ függvények alkalmazásával határozza határozza meg ís írja ki a konzolképernyére az alábbiakat:
+
+- versenyzők száma 'elit junior' kategóriában
+- férfi versenyzők átlagéletkora
+- a versenyzők futással töltött összideje órában. 2tj-ig kerekítve
+- átlagos úszási idő 20-24 kategóriában
+- női győztes (legrövidebb összidő)
+- nemenként a versenyt befejezők száma
+
++ korkategóriánként az átlag depóban töltött idő
