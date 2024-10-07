@@ -1,0 +1,13 @@
+INSERT INTO `image` (`ID`, `title`, `site`, `direct_link`, `author`, `author_link`) VALUES
+(1, 'Black cat portrait', 'pixabay.com', 'pixabay.com/hu/photos/maine-coon-macska-macska-szeme-694730', 'ClaudiaWollesen', 'pixabay.com/hu/users/claudiawollesen-887962'),
+(2, 'Adorable puppy cat', 'pixabay.com', 'pixabay.com/hu/photos/macska-cica-háziállatok-állatok-2934720', 'Kirgiz03', 'pixabay.com/hu/users/kirgiz03-6995361'),
+(3, 'Domestic cat portrait', 'pixabay.com', 'pixabay.com/hu/photos/cica-macska-házi-kedvenc-macskaféle-4611189', 'guvo59', 'pixabay.com/hu/users/guvo59-9285194'),
+(4, 'Cute little sad brown cat', 'pixabay.com', 'pixabay.com/hu/photos/macska-szomorú-aranyos-kicsi-édes-3266673', 'Quangpraha', 'pixabay.com/hu/users/quangpraha-7201644'),
+(5, 'Playful small domestic cat portrait', 'pixabay.com', 'pixabay.com/hu/photos/macska-macskaféle-állat-649164', 'pikabum', 'pixabay.com/hu/users/pikabum-273706'),
+(6, 'Three cute little Burmese kittens', 'pixabay.com', 'pixabay.com/hu/photos/aranyos-macskák-cicák-állatok-3273789', 'Dyadya_Lyosha', 'pixabay.com/hu/users/dyadya_lyosha-8518079'),
+(7, 'White kitten with blue eyes portrait', 'pixabay.com', 'pixabay.com/hu/photos/cica-kék-szemek-macska-szeme-macska-1866475', 'Pexels', 'pixabay.com/hu/users/pexels-2286921'),
+(8, 'Adorable kitten in a basket', 'pixabay.com', 'pixabay.com/hu/photos/cica-kosár-házi-kedvenc-imádni-való-1845789', 'Pexels', 'https://pixabay.com/hu/users/pexels-2286921'),
+(9, 'Christmas white cat in hat', 'pixabay.com', 'pixabay.com/hu/photos/macska-kalap-karácsony-télapó-5836297', 'miezekieze', 'pixabay.com/hu/users/miezekieze-607096'),
+(10, 'Curious white cat sitting on the table', 'pixabay.com', 'pixabay.com/hu/photos/macska-állat-fehér-madártoll-5328304', 'Engin_Akyurt', 'pixabay.com/hu/users/engin_akyurt-3656355'),
+(11, 'Cute domestic cat outdoors', 'pixabay.com', 'pixabay.com/hu/photos/állat-cica-macska-házi-kedvenc-3669244', 'imazite', 'pixabay.com/hu/users/imazite-8915859'),
+(12, 'Cute domestic cat outdoors', 'pixabay.com', 'pixabay.com/hu/photos/cica-nyár-állat-macska-3669243', 'imazite', 'pixabay.com/hu/users/imazite-8915859');
