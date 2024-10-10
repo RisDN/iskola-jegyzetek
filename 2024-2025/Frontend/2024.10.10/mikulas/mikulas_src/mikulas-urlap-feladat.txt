@@ -1,0 +1,32 @@
+	Feladat: A minták és az eredeti nyomtatott űrlap alapján webes űrlap elkészítése.
+	
+	Űrlap típusok a minta és a beviteli adatok meghatározása szerint.
+	
+	Alapértelmezett min-max értékek:
+		"Jó voltál" csúszka min: 1 max: 10 (alapértelmezett érték: 8)
+		"Hozzáférési adatok" tető lejtésszöge min: 0 max: 90
+			légjárat átmérő min: 16 max: 200
+			sepertetés max: 2024.október 31.
+				elrejtve csúszak min:1 max: 24 (alapértelmezett érték: 20)
+		"Ajándék elhelyezés részletei" lábbeli min: 25 max: 50
+	Alapértelmezetten kitöltött jelölőmezők:
+		"Hozzáférési adatok" 1 tonna tömeg elviselése "Igen"
+			kémény "Van"
+		"Ajándék elhelyezés részletei" meglepetés "Lábbeliben"
+		"Frissítőkről szóló rész" ki lesz készítve "Igen"
+			ital típus "Whisky", "Sör"
+			kikészítés "Konyhaasztal"
+	Kötelező kitöltés megjelölése:
+		"Jelentkező adatai" összes mezője
+		"Hozzáférési adatok" tető lejtésszögének mezője
+		"Frissítőkről szóló rész" Whisky és Sör
+	
+	Stílus
+		* Szabadon választott fejléckép
+		* Elrendezés a minta szerint (hasábolásra vonatkozóan)
+		* Külső (ajánlott) és/vagy belső és/vagy inline stílus
+		* Színek összehangolva a fejléchez (az űrlapmezőkre vonatkozóan is)
+		* Töréspontok elhelyezése a változó elrendezésekhez
+		* Egyéb szabadon választott ötletek
+		
+		// aminek érdemel utánanézni a szerkezetet illetően: flexbox, grid
