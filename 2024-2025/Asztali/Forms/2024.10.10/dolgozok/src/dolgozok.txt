@@ -1,0 +1,9 @@
+Cserép Virág;28;Fót;nő
+Gipsz Jakab;61;Budapest;férfi
+Könyök Ödön;32;Paks;férfi
+Élő Flóra;40;Dunaharaszti;nő
+Nagy Lajos;41;Budapest;férfi
+Luc Gizi;24;Pilis;nő
+Kiss Lili;34;Ózd;nő
+Erős Pista;45;Vác;férfi
+Gyenge Valéria;48;Hatvan;nő
