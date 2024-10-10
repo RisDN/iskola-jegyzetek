@@ -1,0 +1,15 @@
+Morzsi;keverék;kan;4
+Sharon;boxer;szuka;2
+Fickó;keverék;kan;6
+Vili;francia bulldog;kan;14
+Lexi;magyar agár;szuka;8
+Csoki;német juhász;kan;7
+Pihe;uszkár;szuka;9
+Csipesz;mopsz;kan;1
+Rex;német juhász;kan;6
+Mici;csivava;szuka;4
+Milli;spániel;szuka;1
+Güli;keverék;szuka;1
+Frakk;magyar vizsla;kan;13
+Néró;husky;kan;5
+Liza;spitz;szuka;3
