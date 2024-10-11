@@ -25,6 +25,9 @@ const config: Config = {
         input: {
           "@apply border-[1.5px] border-gray-400": {},
         },
+        textarea: {
+          "@apply border-[1.5px] border-gray-400": {},
+        },
       });
     },
   ],
