@@ -1,0 +1,8 @@
+Alfa Romeo Spider;70;benzin
+Audi A2;34;benzin
+Fiat Panda III;37;gázolaj
+Citroen Berlingo I;55;gázolaj
+Ford Escort VII;55;benzin
+Renault Logan;50;gázolaj
+Suzuki Vitara IV;47;benzin
+merci;47;benzin
