@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+
+
+    <h1 class="text-center text-4xl p-5 font-bold text-white">Kapcsolódj ki!</h1>
+
+    <div class="flex justify-center align-middle items-center w-full h-[50%] gap-4">
+
+        <div class="w-[80%] h-[600px] rounded-lg shadow-2xl shadow-gray-600  bg-black border-zinc-500 border-[5px]">
+            <iframe width="560" id="tv" class="w-full hidden h-full" height="315" src="" title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <img src="./imgs/nochannel.jpg" class="w-full hidden h-full" id="no-channel" alt="">
+        </div>
+
+        <div class="w-40 bg-slate-600 h-60 rounded-3xl">
+            <div class="flex justify-center gap-2 py-5 align-middle items-center">
+                <button id="button-on" class="cursor-pointer text-green-500 rounded-xl bg-slate-50 w-1/3">ON</button>
+                <button id="button-off" class="cursor-pointer text-red-500 rounded-xl bg-slate-50 w-1/3">OFF</button>
+            </div>
+            <div class="grid-cols-2 grid place-items-center px-5 gap-1 text-center">
+                <button id="button-1" class="text-lg rounded-2xl h-12 cursor-pointer w-10 bg-slate-50">1</button>
+                <button id="button-2" class="text-lg rounded-2xl h-12 cursor-pointer w-10 bg-slate-50">2</button>
+                <button id="button-3" class="text-lg rounded-2xl h-12 cursor-pointer w-10 bg-slate-50">3</button>
+                <button id="button-4" class="text-lg rounded-2xl h-12 cursor-pointer w-10 bg-slate-50">4</button>
+                <button id="button-5" class="text-lg rounded-2xl h-12 cursor-pointer w-10 bg-slate-50">5</button>
+                <button id="button-6" class="text-lg rounded-2xl h-12 cursor-pointer w-10 bg-slate-50">6</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
