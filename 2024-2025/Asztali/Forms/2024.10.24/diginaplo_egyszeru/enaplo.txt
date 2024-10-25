@@ -1,0 +1,11 @@
+﻿Kis Ramóna;43;34;14;19;6
+Nagy Kálmán;23;19;20;18;22
+Horváth Tamás;17;29;29;14;30
+Szabó János;101;21;3;0;0
+Magyar Béla;12;34;27;33;35
+Németh Jenő;25;31;22;14;11
+Takács Márton;86;19;5;2;1
+Kovács Kázmér;43;33;18;8;7
+Nagy Kitti;51;32;15;4;1
+Török Beáta;95;30;6;0;0
+Kiss Ferenc;80;24;6;2;0

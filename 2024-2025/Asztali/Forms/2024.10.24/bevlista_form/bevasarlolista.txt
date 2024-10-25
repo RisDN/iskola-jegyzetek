@@ -1,0 +1,9 @@
+kenyér;325;2
+tej;189;5
+fagyasztott kukorica;725;1
+majonéz;584;1
+kifli;60;5
+paradicsom;499;1
+banán;487;1
+kávé;1299;1
+kesztyű;2200;1

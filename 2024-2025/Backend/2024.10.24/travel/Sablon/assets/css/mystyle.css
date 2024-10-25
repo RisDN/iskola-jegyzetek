@@ -1,0 +1,14 @@
+.navbar-dark {
+    --bs-navbar-color: rgb(255, 255, 255);
+    --bs-navbar-hover-color: rgb(170, 170, 170);
+    --bs-navbar-brand-color: rgba(255, 255, 255);
+    --bs-navbar-brand-hover-color: rgba(170, 170, 170);
+  }
+
+  .fa-solid{
+    color: rgb(255, 255, 255);
+  }
+
+  nav{
+    font-size: 130%;
+  }
