@@ -1,4 +1,3 @@
-```blade
 @extends('layout')
 
 @section('content')
@@ -27,6 +26,7 @@
 
         </div>
     </div>
+    <hr>
     @endforeach
 </div>
 @endsection
