@@ -1,0 +1,7 @@
+FELADAT:
+
+ - Készítsd el a szovegterkep.docx-t a szovegterkep.pdf mintájára.
+ - A szövegdobozok színvilága legyen hasonló, szövegezését másold be a PDF-ről. 
+ - Használhatsz más színeket is, de a logikailag egybetartozó egységek egy színnel legyenek jelölve.
+
+
