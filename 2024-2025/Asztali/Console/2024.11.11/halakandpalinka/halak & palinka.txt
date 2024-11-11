@@ -1,0 +1,37 @@
+Ragadozó és növényevő halak
+
+Egy halat (fish) jellemez, hogy a vízben milyen mélységben szeret úszni. Megadjuk ezen mélység-intervallum (tól-ig) felső határát (top) és mélységét (depth). Pl. ha top=30, depth=80, akkor a hal nem úszik 30 centinél közelebb a vízfelszínhez, és 1.1m (30cm+80cm=110cm) mélység alá sem úszik. Minden halnak van súlya, és tároljuk hogy ragadozó-e vagy növényevő.
+
+    weight: súlya, tört érték, 0.5 kilótól 40.0 kilóig valid, a hal súlya növekedhet és csökkenhet is, de egyszerre maximum az aktuális halsúly 10% -val
+    predator: ragadozó-e (vagy növényevő), bool, true/false, ha egyszer beállítottuk, nem módosítható
+    top: hány cm mélység fölé nem merészkedik, egész, 0cm-től 400cm-ig valid,
+    depth: hány cm a mozgási sávjának mélysége, egész, 10cm-től 400cm-ig valid
+    a halfaj (busa, keszeg, stb) string formában kerül tárolásra (most), a hal fajának neve nem lehet null, legalább 3 betű, maximum 30 betű hosszú lehet.
+
+Készítsünk egy listába
+
+    100 db halat,
+    90% eséllyel növényevőt,
+    különböző random súllyal és úszási mélységekkel, halfajjal,
+    írassuk ki a 100 halból hány darab lett végül is a ragadozó, mennyi a növényevő,
+    mennyi a legnagyobb súlyú hal súlya,
+    illetve számoljuk meg hány hal képes 1.1m mélységben úszni.
+    válasszunk random 2 halat, ha az egyik növényevő, a másik ragadozó, és az ragadozó be tud úszni a növényevő sávjába, akkor 30% eséllyel megeszi azt. Ekkor a ragadozó hal súlya nőjön meg, és töröljük a listából a növényevőt (100 ismétlés).
+    a végén írassuk ki a 100 halból hány darab és hány kilónyi növényevő halat ettek meg a ragadozók.
+
+HF: Pálinka kezelése
+
+Egy pálinkáz jellemez:
+
+    alkoholfoka: egész szám (30-87)
+    gyümölcs: szilva, barack, dió, körte, stb, nem lehet null, minimum 3 betű, maximum 20 betű
+    mennyiség: egész szám, 0-50, deciliterben
+    készítés éve: egész szám, 2000 .. aktuális év (DateTime.Now.Year adja meg az aktuális évet))
+    ára: 50-1000 ft/deciliter
+
+Készítsünk főprogramot:
+
+    pálinkák listáját készíti el, 20 db pálinka, random adatokkal,
+    meghatározza az össz pálinka mennyiséget (átszámolja literbe),
+    random választ egy pálinkt a listáról, és megisszuk a felét, a bevételt számoljuk, 50 ismétlés,
+    kiírjuk mennyi bevétel jött össze.
