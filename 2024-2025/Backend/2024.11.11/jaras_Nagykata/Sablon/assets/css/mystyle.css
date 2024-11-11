@@ -1,0 +1,26 @@
+:root {
+    --bs-dark-rgb: 112, 12, 188;
+}
+
+body{
+  background-color: #D4D4F7;
+  color: #340926;
+}
+
+.navbar-dark {
+    --bs-navbar-color:rgb(223, 223, 253);
+    --bs-navbar-hover-color: rgb(116, 116, 255);
+    --bs-navbar-brand-color:  rgba(223, 223, 253);
+    --bs-navbar-brand-hover-color: rgba(116, 116, 255);
+    font-variant: small-caps;
+    font-size: 120%;
+  }
+
+  .fa-solid{
+    color: rgb(223, 223, 253);
+    padding-right: 5px;
+  }
+
+footer{
+  font-variant: small-caps;
+}
