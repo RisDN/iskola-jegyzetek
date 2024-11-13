@@ -1,0 +1,14 @@
+Ausztrália;7617931;20300000
+Fidzsi-szigetek;18270;900000
+Kiribati Kiribati;717;110000
+Marshall-szigetek;181;60000
+Mikronéziai Szövetségi Államok;717;108000
+Nauru;21;13000
+Palau;458;21000
+Pápua Új-Guinea;451709;5700000
+Salamon-szigetek;27539;550000
+Szamoa;2849;177000
+Tonga;717;110000
+Tuvalu;26;12000
+Új-Zéland;268671;4100000
+Vanuatu;14760;210000

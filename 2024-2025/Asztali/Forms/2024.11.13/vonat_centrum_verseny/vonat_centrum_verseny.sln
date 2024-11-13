@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vonat_centrum_verseny", "vonat_centrum_verseny.csproj", "{B6A9914C-C26F-49B0-BEB6-42C0F0320029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A9914C-C26F-49B0-BEB6-42C0F0320029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A9914C-C26F-49B0-BEB6-42C0F0320029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A9914C-C26F-49B0-BEB6-42C0F0320029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A9914C-C26F-49B0-BEB6-42C0F0320029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F217D2CD-7B5F-4FDC-B4BF-0ABE8EA26A80}
+	EndGlobalSection
+EndGlobal
