@@ -1,0 +1,35 @@
+
+Bérek 2020
+
+Ebben a feladatban egy cég dolgozóinak 2020-as adatai1 állnak rendelkezésünkre, melyekkel programozási feladatokat kell megoldania.
+
+A feladat megoldása során vegye figyelembe a következőket:
+- A képernyőre írást igényló' részfeladatok eredményének megjelenítése előtt írja a képernyőre a feladat sorszámát (például:3. feladat:)!
+- Az egyes feladatokban a kiírásokat a minta szerint készítse el!
+- Az ékezetmentes azonosítók és kiírások is elfogadottak.
+- Az azonosítókat kis- és nagybetűkkel is kezdheti.
+- A program megírásakor az állományban lévő adatok helyes szerkezetét nem kell ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak megfelelnek.
+- Megoldását úgy készítse el, hogy az azonos szerkezetú, de tetszőleges bemeneti adatok mellett is helyes eredményt adjon! 
+A berek2020.txt UTF-8 kódolású forrásállomány soraiban egy-egy dolgozó adatait tároltuk a következő
+
+sorrendben: •neve, például: Beri Dániel •neme: nő vagy férfi •
+a részleg, ahol dolgozik, például: beszerzés •
+a belépés éve, például: 1979 •
+a dolgozó bére (fizetése), például: 222 943 Az állomány első sora a mezőneveket tartalmazza, az adatokat pontosvesszővel választottuk el:
+Név;Neme;Részleg;Belépés;Bér
+Beri Dániel;férfi;beszerzés;1979;222943
+Csavar Pista;férfi;pénzügy;1995;234074
+
+1. Készítsen grafikus vagy konzolalkalmazást (projektet) a következő feladatok megoldásához, amelynek projektjét berek2020 néven mentse el!
+
+2. Olvassa be a berek2020.txt állomány sorait és tárolja az adatokat egy olyan összetett adatszerkezetben, amely használatával a további feladatok megoldhatók! Ügyeljen arra, hogy az állomány első sora az adatok fejlécét tartalmazza!
+
+3. Határozza meg és írja ki a képernyőre, hogy hány dolgozó adatai találhatók a forrásállományban!
+
+4. Határozza meg és írja ki a képernyőre a 2020-as átlagbéreket! Az eredményt ezer forintban, egy tizedesjegyre kerekítve jelenítse meg!
+
+5. Kérje be egy részleg nevét a felhasználótól a minta szerint!
+
+6. Az előző feladatban megadott részlegen keresse meg és írja ki a legnagyobb bérrel (fizetéssel) rendelkező dolgozó adatait! Ha a megadott részleg nem létezik a cégnél, akkor a „A megadott részleg nem létezik a cégnél!” feliratot jelenítse meg! Feltételezheti, hogy nem alakult ki „holtverseny” egy-egy részlegen dolgozók fizetése között!
+
+7. Készítsen statisztikát az egyes részlegeken dolgozók számáról! A részlegek kiírásának sorrendje tetszőleges!
