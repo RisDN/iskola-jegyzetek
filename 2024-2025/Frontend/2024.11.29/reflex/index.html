@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=s, initial-scale=1.0">
+    <title>Reflex</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="script.js"></script>
+</head>
+
+<body class="bg-gradient-to-t from-slate-200 to-gray-400">
+
+    <div class="flex h-[100vh] justify-center items-center align-middle">
+        <div class="w-1/2 min-h-fit p-20 bg-slate-300 flex flex-col items-center rounded-lg border-b-4 border-gray-700">
+
+            <h1 class="m-5 text-4xl">Melyik színes?</h1>
+            <h1 class="m-5 text-2xl">Reflex játék</h1>
+
+
+            <div class="m-5 w-1/2 h-24 border-2 border-black flex justify-evenly items-center text-xl rounded-lg">
+                <span>⌛ <span id="timer">10</span></span>
+                <span>⭐ <span id="points">0 / 0</span></span>
+            </div>
+
+
+            <div class="m-5 flex flex-col gap-5 items-center justify-center">
+                <div id="arrow"
+                    class="bg-slate-500 w-24 h-24 border-1 text-center text-8xl font-bold px-4 border-b-4 border-gray-700 rounded">
+                    &uarr;
+                </div>
+                <div class="flex gap-5 justify-center items-center align-middle">
+                    <div id="arrow"
+                        class="bg-slate-500 w-24 h-24 border-1 text-center text-8xl font-bold px-4 border-b-4 border-gray-700 rounded">
+                        &larr;
+                    </div>
+                    <div id="arrow"
+                        class="bg-slate-500 w-24 h-24 border-1 text-center text-8xl font-bold px-4 border-b-4 border-gray-700 rounded">
+                        &darr;
+                    </div>
+                    <div id="arrow"
+                        class="bg-slate-500 w-24 h-24 border-1 text-center text-8xl font-bold px-4 border-b-4 border-gray-700 rounded">
+                        &rarr;
+                    </div>
+                </div>
+            </div>
+
+            <button
+                class="bg-green-500 hover:bg-green-400 disabled:bg-green-200 text-white font-bold py-2 px-4 border-b-4 border-green-700 hover:border-green-500rounded">
+                Új játék
+            </button>
+
+
+        </div>
+    </div>
+
+</body>
+
+</html>
