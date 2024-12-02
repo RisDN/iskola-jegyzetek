@@ -1,0 +1,40 @@
+Book:class
+egy könyvet jellemez:
+- ISBN azonosító (egyedi azonosító, long típusú, 10 számjegyû számsor)
+- szerzõk listája ([1-3] elemû Author osztály példányait tartalmazó lista)
+- cím (minimum 3, maximum 64 karakter hosszú karakterlánc)
+- kiadás éve (2007 és a jelen év közti egész szám)
+- nyelv (csak az angol, német és magyar az elfogadott érték)
+- készlet (egész szám, minimum 0)
+- ár (1000 és 10000 közötti, kerek 100as szám)
+
+A készleten kívül minden mezõ csak a konstruktorban állítható be (private set-es)
+
+két konstruktor:
+egyikben minden tulajdonságot meg kell adni, a szerzõk esetében params-al, csak a neveiket tartalmazó stringeket, rendre utolsó paraméterként
+A másikban csak a címet, és egyetlen szerzõ nevét. Ebben az esetben a készlet 0, a nyelv magyar, az ár 4500,  az ISBN random, a kiadás éve 2024 - a szerzõk listája pedig egy elemû.
+
+A ToString override-ban valósítsd meg, hogyha a "szerzõk listája" egyetlen tagok tartalmaz, a property kiírása elõtt ne "szerzõk:", hanem "szerzõ:" legyen, valamint ha a készlet értéke nulla, akkor az "xy db" helyett a "beszerzés alatt" szöveg jelenjen meg.
+
+-----
+
+Author:class
+Kereszt- és vezeték névvel, valamint GUID-al rendelkezik,
+a név részei egyenként minimum 3, maximum 32 karakter hosszúak. Egyetlen konstruktor van, ahol a vezeték és keresztnevét egyetlen szóközzel tagolt strinkbem kapja. A konstruktor generál neki létrehozáskor egy GUIDet és szétbontja a nevét a megfelelõ adattagokra.
+
+adatmodell:
+A könyv nyelve 80%al magyar, 20% angol.
+hozz létre egy listát, benne 15 "random" könyvvel:
+A szerzõk nevei és a címek megadásához használhatsz random generáló weboldalakat, AI-t vagy tetszõleges faker módszereket. Próbálj meg ügyelni rá, hogy a cím nyelve reflektáljon a könyv nyelvére.
+az ISBN kód legyen teljesen véletlenszerû, ügyelj rá, hogy a listában semmiképp ne legyen két azonos. (.Any()-vel a legegyszerûbb ellenõrizni hozzáadás elõtt)
+A készlet 30% eséllyel 0, egyébként egy 5 és 10 közötti egész szám.
+A könyvnek 70% eséllyel egyetlen szerzõje van, egyébként azonos eséllyel 2 vagy 3
+
+emuláció:
+100 ismétlést hajtás végre az alábbi folyamatból:
+egy vásárló keres egy bizonyos könyvet (kiválasztunk egyet véletlenszerûen a listaról)
+ha van készleten, akkor csökkentjük a készlet számát és elszámoljuk a bevételt (a könyv árát)
+ha nincs készleten, akkor megpróbáljuk beszerezni:
+50% eséllyel növeljük a készlet mennyiséget random [1-10] darabbal, 50% eséllyel elfogyott a nagykerben is: eltávolítjuk a könyvet a listáról.
+
+az emulácio után írjuk ki az eladásokbó származó (bruttó) bevételt, hogy hány könyv fogyott ki a nagykerben, illetve hogy mennyit változott a raktárkeszletünk számossaga a kiindulási állapothoz képest (hány db könyv volt kezdetben készleten, mennyi van most, és mennyi ennek az elõjeles különbsége)
