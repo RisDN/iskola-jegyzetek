@@ -34,7 +34,27 @@ namespace sakkfeladvany
 
         public bool EzJoMezo(int sor, int oszlop)
         {
-            
+
+            if (Tabla[sor, oszlop] == 1)
+            {
+                return false;
+            }
+
+            try
+            {
+                int fuggolegesenBalra = Tabla[oszlop -1, sor - 1];
+                Console.WriteLine("asd" + fuggolegesenBalra);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Nem jó poz: " + sor  + " " + oszlop);
+                return false;
+            }
+
+
+
+
+            return false;
         }
 
 
@@ -63,10 +83,10 @@ namespace sakkfeladvany
         public void TablaKiir()
         {
 
-            for (int i = 0; i < Tabla.GetLength(0); i++)
+            for (int i = 0; i < SorokSzama; i++)
             {
 
-                for (int j = 0; j < Tabla.GetLength(1); j++)
+                for (int j = 0; j < OszlopokSzama; j++)
                 {
                     Console.Write(Tabla[i, j]);
 
