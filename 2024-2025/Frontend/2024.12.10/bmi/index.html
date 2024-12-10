@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testömegindex kalkulátor</title>
+    <script defer src="szkript.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+
+    <div class="flex flex-col gap-5 justify-center items-center align-middle w-full h-dvh">
+        <table class="border-2 border-gray-400 bg-blue-800">
+            <tr class="bg-gray-200 border-2 border-white">
+                <td>Testsúlyod: </td>
+                <td class="px-5">
+                    <input name="weight" value="0" class="w-1/3" min="0" type="number">kg
+                </td>
+            </tr>
+            <tr class="bg-gray-200 border border-1 border-white">
+                <td>Magasságod: </td>
+                <td class="px-5">
+                    <input name="height" value="0" class="w-1/3" min="0" type="number">cm
+                </td>
+            </tr>
+            <tr class="bg-gray-300 border border-1 border-white">
+                <td>Testömegindexed: </td>
+                <td class="px-5">
+                    <input name="output" value="0" class="w-1/3" disabled type="number">kg / m²
+                </td>
+            </tr>
+        </table>
+        <div>
+            <img src="normal.gif">
+        </div>
+    </div>
+
+</body>
+
+</html>
