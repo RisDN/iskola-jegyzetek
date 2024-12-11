@@ -1,0 +1,11 @@
+Hófehérke;2;3;fp
+Herceg;4;2;p
+Gonosz mostoha;6;4;fp
+Vadász;3;8;no
+Tudor;1;15;p
+Vidor;4;7;fp
+Morgó;3;4;p
+Szende;7;2;fp
+Szundi;6;4;no
+Hapci;4;7;p
+Kuka;7;3;no
