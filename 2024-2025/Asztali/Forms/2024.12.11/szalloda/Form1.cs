@@ -57,6 +57,7 @@ namespace szalloda
 
             if(nev.Length == 0)
             {
+                nev_input.Focus();
                 DisplayHiba("Adja meg a vendég nevét!");
                 return;
             }
@@ -68,6 +69,7 @@ namespace szalloda
             }
             catch (Exception)
             {
+                ejszakak_input.Focus();
                 DisplayHiba("Adja meg az éjszakák számát!");
                 return;
             }
@@ -79,9 +81,30 @@ namespace szalloda
             }
             catch (Exception)
             {
+                vendegek_input.Focus();
                 DisplayHiba("Adja meg a vendégek számát!");
                 return;
             }
+
+            string ellatasTipusa = "";
+            if(tip_teljes.Checked) {
+                ellatasTipusa = "p";
+            }
+
+            if(tip_fel.Checked)
+            {
+                ellatasTipusa = "fp";
+            }
+
+            if(tip_nincs.Checked)
+            {
+                ellatasTipusa = "no";
+            }
+
+            Vendeg vendeg = new Vendeg(nev, ejszakak, vendegekSzama, ellatasTipusa); 
+            vendegejszakakszama.Text = "Vendég éjszakák száma: " + vendeg.VendegEjszakakSzamitas().ToString();
+            Vendeg.Save();
+            DisplayData();
 
         }
 
