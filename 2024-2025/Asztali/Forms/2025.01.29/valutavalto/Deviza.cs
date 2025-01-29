@@ -36,6 +36,7 @@ namespace valutavalto
             {
                 MessageBox.Show("A deviza már létezik!" + " (" + dev_input.Text + ")");
                 dev_input.Text = "";
+                dev_input.Focus();
             }
 
         }
@@ -61,6 +62,15 @@ namespace valutavalto
         private bool isFileExists()
         {
             return File.Exists(filename);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DialogResult message = MessageBox.Show("Biztos elveti?", "Válasszon", MessageBoxButtons.YesNo);
+            if(message == DialogResult.Yes)
+            {
+                Close();
+            }
         }
     }
 }
