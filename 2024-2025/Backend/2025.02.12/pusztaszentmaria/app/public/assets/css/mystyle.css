@@ -1,0 +1,45 @@
+:root{
+  --bs-primary-rgb: 250, 240, 235;
+  --bs-dark-rgb: 0, 83, 151;
+}
+
+.navbar-dark {
+    --bs-navbar-color: rgb(255, 255, 255);
+    --bs-navbar-hover-color: rgb(170, 170, 170);
+    --bs-navbar-brand-color: rgba(255, 255, 255);
+    --bs-navbar-brand-hover-color: rgba(170, 170, 170);
+  }
+
+header{
+  min-height: 300px;
+  background-image: url("../../img/header.jpg");
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header h1{
+  color: white;
+  text-shadow: 1px 1px black;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+p{
+  text-align: justify;
+}
+
+span{
+  color: rgb(0, 83, 151);
+  font-weight: bold;
+}
+
+.red{
+  color: red;
+  font-weight: bold;
+}
