@@ -1,0 +1,25 @@
+header h1{
+  color: white;
+  text-shadow: 1px 1px black;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+    background-image: url('../img/header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.solarsystem {
+    width: 50%;
+}
+
+@media only screen and (max-width: 576px) {
+    .solarsystem {
+        width: 100%;
+    }
+}

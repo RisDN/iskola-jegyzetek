@@ -1,0 +1,230 @@
+azon;nev;hossz;melyseg;telepules;vedettseg
+1;Abaligeti-barlang;1893;10;Abaliget;fokozottan védett
+2;Acheron-kútbarlang;215;0;Cserszegtomaj;fokozottan védett
+3;Achilles-víznyelőbarlang;140;28;Orfű;megkülönböztetetten védett
+4;Ajándék-barlang;3140;184;Esztergom;fokozottan védett
+5;Alba Regia-barlang;3600;200;Isztimér;fokozottan védett
+6;Almási-zsomboly;358;100;Bódvaszilas;fokozottan védett
+7;Amazonok-barlangja;141;12;Pomáz;megkülönböztetetten védett
+8;Amfiteátrum-barlang;294;76;Üröm;fokozottan védett
+9;Anna-barlang;445;4;Miskolc III.Kerület;fokozottan védett
+10;Avaros-barlang;390;53;Kesztölc;védett
+11;B-3-as víznyelőbarlang;388;53;Ajka;védett
+12;Babál-barlang;238;9;Sárisáp;megkülönböztetetten védett
+13;Bába-völgyi 3.sz. víznyelőbarlang;107;11;Bódvaszilas;megkülönböztetetten védett
+14;Baglyas 1. sz. víznyelőbarlang;153;23;Nagyvázsony;megkülönböztetetten védett
+15;Balekina-barlang;600;90;Miskolc III.Kerület;fokozottan védett
+16;Balla-barlang;128;1;Répáshuta;fokozottan védett
+17;Banán-zsomboly;108;45;Bódvaszilas;megkülönböztetetten védett
+18;Bányász-barlang;959;303;Miskolc III.Kerület;fokozottan védett
+19;Baradla Hosszú-Alsó-barlang;235;12;Jósvafő;megkülönböztetetten védett
+20;Baradla Rövid-Alsó-barlang;1000;20;Jósvafő;megkülönböztetetten védett
+21;Baradla-barlang;22000;86;Jósvafő;fokozottan védett
+22;Baradla-tetői-zsomboly;387;87;Aggtelek;fokozottan védett
+23;Barit-barlang;215;9;Budapest III. Ker.;megkülönböztetetten védett
+24;Bátori-barlang;360;50;Budapest II. Ker.;fokozottan védett
+25;Béke-barlang;5884;71;Aggtelek;fokozottan védett
+26;Bekey-barlang;173;39;Budapest II. Ker.;megkülönböztetetten védett
+27;Beremendi-kristálybarlang;850;38;Beremend;fokozottan védett
+28;Bodzás-oldali 2. sz. zsomboly;400;56;Miskolc III.Kerület;megkülönböztetetten védett
+29;Bongó-zsomboly;136;35;Bakonynána;fokozottan védett
+30;Borókás-tebri 1. sz. víznyelőbarlang;105;42;Miskolc III.Kerület;megkülönböztetetten védett
+31;Borókás-tebri 2. sz. víznyelőbarlang;503;95;Miskolc III.Kerület;fokozottan védett
+32;Borókás-tebri 4. sz. víznyelőbarlang;546;121;Miskolc III.Kerület;fokozottan védett
+33;Bronz-barlang;116;27;Nagykovácsi;megkülönböztetetten védett
+34;Bronzika-barlang;350;24;Miskolc III.Kerület;fokozottan védett
+35;Buda-barlang;217;69;Budapest II. Ker.;megkülönböztetetten védett
+36;Budai Vár-barlang;3300;15;Budapest I. Ker.;fokozottan védett
+37;Budakalászi 2. sz. barlang;109;7;Budakalász;védett
+38;Bújó-lik;208;39;Ajka;megkülönböztetetten védett
+39;Bükkös-víznyelőbarlang;239;46;Miskolc III.Kerület;megkülönböztetetten védett
+40;Cubákos-víznyelőbarlang;380;39;Miskolc III.Kerület;megkülönböztetetten védett
+41;Csák-kői nagy-barlang;133;0;Gyöngyössolymos;védett
+42;Csemetekerti-víznyelőbarlang;204;21;Miskolc III.Kerület;megkülönböztetetten védett
+43;Csengő-zsomboly;283;26;Szendrő;megkülönböztetetten védett
+44;Csengő-zsomboly;210;133;Olaszfalu;fokozottan védett
+45;Cserszegtomaji-kútbarlang;3299;10;Cserszegtomaj;fokozottan védett
+46;Csévi-barlang;104;0;Piliscsév;megkülönböztetetten védett
+47;Csipkés-zsomboly;180;71;Tés;megkülönböztetetten védett
+48;Csodabogyós-barlang;6300;142;Balatonederics;fokozottan védett
+49;Csókási Sajt-barlang;294;26;Parasznya;megkülönböztetetten védett
+50;Csókási-barlang;148;13;Parasznya;megkülönböztetetten védett
+51;Csókás-réti-víznyelőbarlang;207;16;Parasznya;megkülönböztetetten védett
+52;Csókavári-barlang;285;65;Üröm;megkülönböztetetten védett
+53;Csörgő-forrásbarlang;120;0;Szögliget;megkülönböztetetten védett
+54;Csörgő-lyuk;428;29;Mátraszentimre;fokozottan védett
+55;Csúnya-völgyi Baka-barlang;210;16;Répáshuta;megkülönböztetetten védett
+56;Danca-barlang;1390;0;Égerszög;fokozottan védett
+57;Diabáz-barlang;802;159;Miskolc III. Kerület;fokozottan védett
+58;Dinó-rejtek;843;115;Csobánka;védett
+59;Diós-pataki 2. sz. víznyelő;362;26;Bükkszentkereszt;védett
+60;Döbbenet-barlang;102;50;Baj;megkülönböztetetten védett
+61;Döme-barlang;353;107;Balatonederics;fokozottan védett
+62;Egér-lyuk;103;0;Szögliget;védett
+63;Eötvös Loránd-cseppkőbarlang;256;30;Szinpetri;megkülönböztetetten védett
+64;Esztáz-kői-barlang;160;18;Felsőtárkány;megkülönböztetetten védett
+65;Esztramosi 6. szint 1. sz. barlangja;100;0;Tornaszentandrás;védett
+66;Esztramosi Felső-táró 1. sz. barlangja;152;9;Tornaszentandrás;védett
+67;Esztramosi Földvári Aladár-barlang;410;7;Bódvarákó;fokozottan védett
+68;Esztramosi Pantó-barlang;470;0;Tornaszentandrás;védett
+69;Fecske-lyuk;350;8;Miskolc II.Kerület;fokozottan védett
+70;Fekete-barlang;3450;169;Miskolc III.Kerület;fokozottan védett
+71;Felső-barlang;253;25;Miskolc II.Kerület;megkülönböztetetten védett
+72;Fenyves-réti 1. sz. víznyelőbarlang;122;19;Miskolc III.Kerület;megkülönböztetetten védett
+73;Ferenc 5-6. sz. barlang;103;30;Budapest II. Ker.;megkülönböztetetten védett
+74;Ferenc-hegyi-barlang;6641;45;Budapest II. Ker.;fokozottan védett
+75;Frank-barlang;203;46;Bódvaszilas;fokozottan védett
+76;Gánti-barlang;149;14;Gánt;megkülönböztetetten védett
+77;Gilisztás-víznyelőbarlang;134;51;Orfű;védett
+78;Gyurkó-lápai-barlang;181;39;Varbó;fokozottan védett
+79;Hajnóczy-barlang;4250;81;Cserépfalu;fokozottan védett
+80;Hajszabarnai Pénz-lik;120;13;Bakonyjákó;fokozottan védett
+81;Háromkürtő-zsomboly;214;89;Tés;fokozottan védett
+82;Hárskúti-cseppkőbarlang;1171;76;Hárskút;védett
+83;Herman Ottó-barlang;131;2;Miskolc III.Kerület;fokozottan védett
+84;Hillebrand Jenő-barlang;240;16;Parasznya;fokozottan védett
+85;Ikertebri-víznyelőbarlang;396;69;Miskolc III.Kerület;megkülönböztetetten védett
+86;Ilus-kúti-zsomboly;170;14;Bükkzsérc;védett
+87;István-lápai-barlang;7500;247;Miskolc III.Kerület;fokozottan védett
+88;Jakucs László-barlang;154;24;Balatonederics;fokozottan védett
+89;Jáspis-barlang;1051;189;Miskolc III.Kerület;fokozottan védett
+90;József-hegyi-barlang;5446;100;Budapest II. Ker.;fokozottan védett
+91;Jubileumi-zsomboly;222;121;Tés;fokozottan védett
+92;Jura-zsomboly;147;41;Süttő;megkülönböztetetten védett
+93;Kajla-zsomboly;128;28;Bükkszentkereszt;megkülönböztetetten védett
+94;Kalapács-kői-barlang;260;38;Parasznya;megkülönböztetetten védett
+95;Kálvária-hegyi 1. sz. barlang;144;11;Tatabánya;védett
+96;Károlyházi-nyelő barlangja;100;65;Csesznek;megkülönböztetetten védett
+97;Kecske-lyuk;480;0;Miskolc III.Kerület;fokozottan védett
+98;Kecskés-kúti-forrásbarlang;108;0;Szögliget;védett
+99;Keselő-hegyi 11. sz. barlang;175;66;Tatabánya;megkülönböztetetten védett
+100;Keselő-hegyi-barlang;604;115;Tatabánya;fokozottan védett
+101;Kessler Hubert-barlang;2416;195;Balatonederics;fokozottan védett
+102;Kesztölci-barlang;100;0;Kesztölc;megkülönböztetetten védett
+103;Kevély-nyergi-rókalyuk;100;6;Pilisborosjenő;megkülönböztetetten védett
+104;Kincses-gödör;407;17;Tapolca;védett
+105;Király Lajos-zsomboly;365;38;Miskolc III.Kerület;megkülönböztetetten védett
+106;Király-kúti-zsomboly;138;39;Miskolc III.Kerület;fokozottan védett
+107;Királylaki-barlang;380;34;Budapest III. Ker.;megkülönböztetetten védett
+108;Kis-kőháti-zsomboly;480;117;Nagyvisnyó;fokozottan védett
+109;Kis-mogyorós-víznyelőbarlang;150;53;Miskolc III.Kerület;megkülönböztetetten védett
+110;Klotild-barlang;142;12;Pilisvörösvár;megkülönböztetetten védett
+111;Kopaszgally-oldali 2. sz. víznyelőbarlang;431;116;Bódvaszilas;fokozottan védett
+112;Kopasz-vigasz-barlang;220;37;Bódvaszilas;fokozottan védett
+113;Kopolya-forrásbarlang;110;11;Szinpetri;megkülönböztetetten védett
+114;Kopolya-zsomboly;206;42;Szin;megkülönböztetetten védett
+115;Kossuth-barlang;1467;30;Jósvafő;fokozottan védett
+116;Kőháti-barlang;142;20;Bükkzsérc;megkülönböztetetten védett
+117;Kő-lyuk;623;19;Parasznya;fokozottan védett
+118;Kőlyuk-galyai-barlang;142;12;Kisgyőr;megkülönböztetetten védett
+119;Kullancsos-barlang;132;41;Baj;megkülönböztetetten védett
+120;László bányamester barlangja;180;54;Szilvásvárad;megkülönböztetetten védett
+121;Lengyel-barlang;520;69;Tatabánya;fokozottan védett
+122;Létrási-vizesbarlang;3757;59;Miskolc III.Kerület;fokozottan védett
+123;Lilla-barlang;225;19;Parasznya;fokozottan védett
+124;Lóczy-barlang;154;15;Balatonfüred;fokozottan védett
+125;Lök-völgyi-barlang;104;0;Felsőtárkány;megkülönböztetetten védett
+126;Lyukas-gerinci-zsomboly;100;34;Miskolc III.Kerület;megkülönböztetetten védett
+127;Macska-barlang;139;24;Csobánka;megkülönböztetetten védett
+128;Magas-tetői-barlang;293;33;Szögliget;fokozottan védett
+129;Maja-barlang;220;55;Parasznya;védett
+130;Mánfai-kőlyuk;360;4;Mánfa;fokozottan védett
+131;Medvehagymás-barlang;117;31;Balatonederics;védett
+132;Medvetükrös-barlang;107;28;Szilvásvárad;megkülönböztetetten védett
+133;Megalodus-barlang;261;20;Tata;fokozottan védett
+134;Mészégető-források-barlangja;279;1;Orfű;fokozottan védett
+135;Meteor-barlang;1672;126;Bódvaszilas;fokozottan védett
+136;Mexikó-völgyi-víznyelőbarlang;414;79;Miskolc III.Kerület;fokozottan védett
+137;Miskolctapolcai-tavasbarlang;561;20;Miskolc II.Kerület;fokozottan védett
+138;Molnár János-barlang;5331;71;Budapest II. Ker.;fokozottan védett
+139;Nagyharsányi-kristálybarlang;1475;63;Nagyharsány;fokozottan védett
+140;Nagykőmázsa-völgyi-víznyelőbarlang;344;98;Miskolc III.Kerület;fokozottan védett
+141;Nagy-Somlyóhegyi-barlang;107;52;Pilisjászfalu;megkülönböztetetten védett
+142;Násznép-barlang;223;7;Kosd;megkülönböztetetten védett
+143;Nézsai-víznyelőbarlang;394;55;Nézsa;fokozottan védett
+144;Nincskegyelem-aknabarlang;224;71;Vác;fokozottan védett
+145;November 7. barlang;514;89;Balatonederics;megkülönböztetetten védett
+146;Nyárjú-hegyi-barlang;157;19;Mályinka;megkülönböztetetten védett
+147;Nyárjú-hegyi-zsomboly;245;35;Mályinka;védett
+148;Odorvári K-i hasadék;188;52;Cserépfalu;védett
+149;Odorvári-barlang;296;26;Cserépfalu;megkülönböztetetten védett
+150;Orfűi Vízfő-barlang;391;21;Orfű;fokozottan védett
+151;Ördög-kút;182;37;Parasznya;megkülönböztetetten védett
+152;Öreg-Kovács-hegyi 15. sz. víznyelő barlangja;128;19;Baj;védett
+153;Öreg-kői 1. sz. zsomboly;115;34;Bajót;fokozottan védett
+154;Öreg-köves-víznyelőbarlang;378;59;Nagyvázsony;megkülönböztetetten védett
+155;Ősi-barlang;112;26;Esztergom;megkülönböztetetten védett
+156;Őz-tebri-barlang;120;25;Parasznya;megkülönböztetetten védett
+157;Paksi mogyoró-barlang;114;24;Baj;megkülönböztetetten védett
+158;Palota 2. sz. barlang;275;16;Répáshuta;megkülönböztetetten védett
+159;Papp Ferenc-barlang;356;65;Pilisborosjenő;fokozottan védett
+160;Pénz-pataki-víznyelőbarlang;1989;150;Bükkszentkereszt;fokozottan védett
+161;Peskő-katlani-víznyelőbarlang;249;40;Bélapátfalva;megkülönböztetetten védett
+162;Pietró-barlang;133;29;Orfű;megkülönböztetetten védett
+163;Pilis-barlang;564;5;Pilisszentkereszt;fokozottan védett
+164;Pipa-zsomboly;125;48;Zirc;megkülönböztetetten védett
+165;Pisznice-barlang;714;6;Lábatlan;fokozottan védett
+166;Pócsakői-víznyelő;237;69;Bódvaszilas;megkülönböztetetten védett
+167;Pomázi kőfejtő Felső-barlangja;300;45;Pomáz;megkülönböztetetten védett
+168;Pulai-bazaltbarlang;150;21;Pula;megkülönböztetetten védett
+169;Rácskai-barlang;176;25;Remeteszőlős;fokozottan védett
+170;Rákóczi 1. sz. barlang;750;61;Tornaszentandrás;fokozottan védett
+171;Rákóczi 2. sz. barlang;534;53;Tornaszentandrás;fokozottan védett
+172;Rákóczi 3. sz. barlang;150;27;Tornaszentandrás;fokozottan védett
+173;Rákóczi 4. sz. barlang;150;0;Tornaszentandrás;megkülönböztetetten védett
+174;Rákóczi-oldaltáró-barlangja;170;10;Tornaszentandrás;fokozottan védett
+175;Rejtek-zsomboly;450;66;Szögliget;fokozottan védett
+176;Sátorkőpusztai-barlang;354;49;Esztergom;fokozottan védett
+177;Soltész-kerti-mésztufabarlang;216;15;Miskolc III.Kerület;megkülönböztetetten védett
+178;Solymári-ördöglyuk;5897;78;Solymár;fokozottan védett
+179;Soproni Zsivány-barlang;265;12;Fertőrákos;megkülönböztetetten védett
+180;Speizi-barlang;718;96;Miskolc III.Kerület;fokozottan védett
+181;Spirál-víznyelő;1090;83;Pécs III. Ker.;fokozottan védett
+182;Strázsa-hegyi-barlang;161;20;Esztergom;fokozottan védett
+183;Sűrű-hegyi Ördög-lik;150;11;Dudar;megkülönböztetetten védett
+184;Szabadság-barlang;2757;30;Égerszög;fokozottan védett
+185;Szabó József-barlang;152;15;Budakalász;megkülönböztetetten védett
+186;Szabó-pallagi-zsomboly;960;150;Bódvaszilas;fokozottan védett
+187;Szaftos-barlang;103;14;Tés;védett
+188;Szajha-felső-víznyelőbarlang;150;43;Abaliget;védett
+189;Szalajka-forrásbarlang;100;65;Szilvásvárad;megkülönböztetetten védett
+190;Szamentu-barlang;945;36;Varbó;fokozottan védett
+191;Széki-zsomboly;120;51;Bódvaszilas;fokozottan védett
+192;Szelelő-lyuk;268;25;Tés;megkülönböztetetten védett
+193;Szeleta-barlang;115;3;Miskolc III.Kerület;fokozottan védett
+194;Szeleta-zsomboly;645;101;Miskolc III.Kerület;fokozottan védett
+195;Szél-lik;530;53;Balatonederics;megkülönböztetetten védett
+196;Szemlő-hegyi-barlang;2230;11;Budapest II. Ker.;fokozottan védett
+197;Szent István-barlang;1470;24;Miskolc III.Kerület;fokozottan védett
+198;Szent Özséb-barlang;889;80;Pilisszentkereszt;fokozottan védett
+199;Szentgáli-kőlik;420;39;Szentgál;fokozottan védett
+200;Sziklafal-alatti-barlang;141;36;Miskolc III.Kerület;megkülönböztetetten védett
+201;Szikla-forrási Felső-barlang;105;20;Szilvásvárad;megkülönböztetetten védett
+202;Szirén-barlang;1004;68;Miskolc III.Kerület;fokozottan védett
+203;Szopláki-ördöglyuk;419;107;Pilisszentkereszt;fokozottan védett
+204;Szuadó-völgyi-víznyelőbarlang;346;52;Orfű;megkülönböztetetten védett
+205;Szurdok-völgyi 2. sz. víznyelő;206;76;Pilisszentkereszt;megkülönböztetetten védett
+206;Tábla-völgyi-barlang;350;78;Tés;megkülönböztetetten védett
+207;Tábor-hegyi-barlang;162;16;Budapest III. Ker.;megkülönböztetetten védett
+208;Tatár-árki-barlang;156;35;Miskolc III.Kerület;fokozottan védett
+209;Tektonik-zsomboly;350;80;Bódvaszilas;megkülönböztetetten védett
+210;Tettyei-mésztufabarlang;258;6;Pécs II. Ker.;megkülönböztetetten védett
+211;Trió-barlang;298;58;Orfű;megkülönböztetetten védett
+212;Tűzköves-hegyi-barlang;156;5;Szentgál;fokozottan védett
+213;Udvar-kő;218;14;Parasznya;fokozottan védett
+214;Útmenti-víznyelőbarlang;161;59;Miskolc III.Kerület;megkülönböztetetten védett
+215;Útmenti-zsomboly;139;24;Miskolc III.Kerület;megkülönböztetetten védett
+216;Ürömi-víznyelőbarlang;214;26;Üröm;fokozottan védett
+217;Vaddisznós-barlang;232;45;Balatongyörök;megkülönböztetetten védett
+218;Vadetetős-víznyelőbarlang;180;35;Kővágótöttös;védett
+219;Vár-tetői-barlang;550;99;Miskolc III.Kerület;fokozottan védett
+220;Vass Imre-barlang;2233;12;Jósvafő;fokozottan védett
+221;Vecsembükki-zsomboly;896;234;Bódvaszilas;fokozottan védett
+222;Vénusz-barlang;637;18;Parasznya;fokozottan védett
+223;Veres-hegyi-barlang;158;44;Tatabánya;megkülönböztetetten védett
+224;Vértes László-barlang;164;58;Vértesszőlős;megkülönböztetetten védett
+225;Vértessomlói-barlang;180;36;Vértessomló;fokozottan védett
+226;Vesszős-gerinci-barlang;222;6;Miskolc III.Kerület;megkülönböztetetten védett
+227;Viktória-barlang;724;41;Miskolc II.Kerület;fokozottan védett
+228;Zsendice-barlang;111;12;Kács;megkülönböztetetten védett
+229;Zsófiapusztai-víznyelőbarlang;177;33;Úrkút;védett
