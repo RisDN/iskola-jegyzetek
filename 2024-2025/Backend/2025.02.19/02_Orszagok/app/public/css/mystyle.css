@@ -1,0 +1,24 @@
+header {
+    color: white;
+    text-shadow: 1px 1px black;
+    height: 200px;
+    background-image: url('/img/header.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-image {
+    width: 50%;
+    float: left;
+}
+
+@media only screen and (max-width: 576px) {
+    .main-image {
+        width: 100%;
+        float: none;
+    }
+}
