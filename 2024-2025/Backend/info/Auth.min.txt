@@ -1,0 +1,89 @@
+Autentikáció minimal
+
+1.) CONTROLLER
+
+Controllerhez szükséges:
+use Illuminate\Validation\Rules\Password;		//Jelszókezeléshez
+use Illuminate\Support\Facades\Hash;			//Hash készítéshez
+use Illuminate\Support\Facades\Auth;			//Autentikációhoz
+
+
+Erős jelszó validálása:
+$request->validate([
+ 'password' => ['required', Password::min(8)
+                ->letters()
+                ->mixedCase()
+                ->numbers()
+                ->symbols()
+                ->uncompromised()]              //Opcionális
+]);
+
+
+Jelszó egyezés:
+$request->validate($request, [
+  'name' => 'required',
+  'email' => 'required|email',
+  'password' => ['required','confirmed', Password::min(8)
+                 ->letters()
+		 ->mixedCase()
+                 ->numbers()
+                  >symbols()],
+   'password_confirmation' => 'required'
+]);
+
+A _confirmation hozzáfűzésével bármely mezőnél lehet egyezést végezni, pl.: email_confirmation, name_confirmation, stb.
+
+
+Jelszó titkosítás:
+Hash::make($request->password);
+
+
+Beléptetés:
+if(Auth::attempt(['email' => $request->email, 'password' => $request->password])){
+   return redirect('/profil');
+} else {
+   return redirect('/login')->withErrors([
+     'sv' => 'Nem sikerült belépnek'					//@error('sv') {{ $message }} @enderror
+   ]);
+}
+
+
+Kiléptetés:
+Auth::logout();
+
+
+Védett nézet:
+if(Auth::check()){
+	return view('for_users');
+} else {
+	return view('reg')
+}
+
+
+User adatainak lekérdezése:
+$id	= Auth::user()->id;
+$name   = Auth::user()->name;
+$email  = Auth::user()->email;
+...
+...
+
+
+2.) VIEW
+
+Belépéshez kötözz nézetek:
+a)
+@guest
+   <p>Nincs belépve a felhasználó</p>
+@else
+   <p>Be van lépve a felhasználó</p>
+@endguest
+
+b)
+@auth
+   <p>Be van lépve a felhasználó</p>
+@else
+   <p>Nincs belépve a felhasználó</p>
+@endauth
+
+
+
