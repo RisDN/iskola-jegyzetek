@@ -11,12 +11,12 @@
 
     <div class="container">
         <div class="row">
-            <div class="col">
 
+            <div class="col-md">
                 <img src="{{ asset('/img/' . $result->kontinens_id . '.jpg') }}" class="img-fluid" alt="gec">
-
             </div>
-            <div class="col">
+
+            <div class="col-md mt-3">
 
                 <table class="table table-striped table-bordered">
                     <tr>
