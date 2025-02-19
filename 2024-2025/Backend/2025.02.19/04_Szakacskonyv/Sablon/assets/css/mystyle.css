@@ -1,0 +1,27 @@
+:root{
+  
+  --bs-dark-rgb: 34, 51, 59;
+}
+
+body{
+  background-color: #EAE0D5;
+  color: #0A0908;
+}
+
+nav{
+  font-size: 120%;
+}
+
+.navbar-brand,
+.fa-solid{
+    color: #EAE0D5;
+}
+
+.navbar-brand:hover,
+.fa-solid:hover{
+  color: #C6AC8F;
+}
+
+main{
+    min-height: 90vh;
+}
