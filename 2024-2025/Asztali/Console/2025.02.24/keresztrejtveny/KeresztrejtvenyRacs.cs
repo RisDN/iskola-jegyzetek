@@ -22,6 +22,52 @@ namespace keresztrejtveny
             BeolvasAdatsorok(forras);
         }
 
+        public Dictionary<int, int> Statisztika()
+        {
+            int kezdoszo = -1;
+            Dictionary<int, int> talalatok = new Dictionary<int, int>();
+            for (int sor = 0; sor < SorokDb; sor++)
+            {
+
+                for (int oszlop = 0; oszlop < OszlopokDb; oszlop++)
+                {
+                    char character = Racs[oszlop, sor];
+
+                    if (character.Equals('#') && kezdoszo != -1)
+                    {
+                        int lepesek = oszlop - kezdoszo;
+
+                        if (!talalatok.ContainsKey(lepesek))
+                        {
+                            talalatok.Add(lepesek, 0);
+                        }
+
+                        talalatok[lepesek]++;
+                        kezdoszo = -1;
+                        continue;
+                    }
+                    if (kezdoszo == -1 && !character.Equals('#'))
+                    {
+                        kezdoszo = oszlop;
+                    }
+                }
+                if (kezdoszo != -1)
+                {
+                    int lepesek = OszlopokDb - kezdoszo;
+
+                    if (!talalatok.ContainsKey(lepesek))
+                    {
+                        talalatok.Add(lepesek, 0);
+                    }
+
+                    talalatok[lepesek]++;
+                }
+                kezdoszo = -1;
+            }
+
+            return talalatok;
+        }
+
         public int LeghosszabbFuggolegesSzo()
         {
             int max = -1;
