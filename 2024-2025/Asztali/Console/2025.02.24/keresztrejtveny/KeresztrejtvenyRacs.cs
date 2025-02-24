@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace keresztrejtveny
 {
@@ -16,7 +14,7 @@ namespace keresztrejtveny
         private int[,] Sorszamok;
 
         public int OszlopokDb { get; set; }
-        public int SorokDb { get; set; } 
+        public int SorokDb { get; set; }
 
 
         public KeresztrejtvenyRacs(string forras)
@@ -27,20 +25,18 @@ namespace keresztrejtveny
         public int LeghosszabbFuggolegesSzo()
         {
             int max = -1;
-            for(int oszlop = 0; oszlop < OszlopokDb -1; oszlop++) { 
-  
-                for(int sor = 0; sor < SorokDb -1; sor++)
+            for (int sor = 0; sor < SorokDb; sor++)
+            {
+
+                for (int oszlop = 0; oszlop < OszlopokDb; oszlop++)
                 {
-                    Console.WriteLine($"[{oszlop}:{sor}]"); // ezen a ponton menjünk el lefele ameddig az oszlop tart
+
                     int lementdarab = 0;
-                    for(int x = oszlop; x < OszlopokDb -1; x++)
+                    for (int sorlefele = sor; sorlefele < SorokDb; sorlefele++)
                     {
-              
-                        Console.WriteLine($"Lefelé: [{oszlop}:{x}]");
-                        if (Racs[oszlop, x].Equals('#'))
+                        if (Racs[oszlop, sorlefele].Equals('#'))
                         {
-                            Console.WriteLine("Lement " + lementdarab + "x alkalommal");
-                            continue;
+                            break;
                         }
                         lementdarab++;
 
@@ -59,17 +55,15 @@ namespace keresztrejtveny
 
         public void Show()
         {
-            for (int i = 0; i < OszlopokDb; i++)
-            {
-                for (int y = 0; y < SorokDb; y++)
-                {
-                    string character = "";
 
-                    if (Racs[i, y].Equals('-')) {
-                        character = "[]";
-                    } else if (Racs[i, y].Equals('#'))
+            for (int sor = 0; sor < SorokDb; sor++)
+            {
+                for (int oszlop = 0; oszlop < OszlopokDb; oszlop++)
+                {
+                    string character = "##";
+                    if (Racs[oszlop, sor].Equals('-'))
                     {
-                        character = "##";
+                        character = "[]";
                     }
 
                     Console.Write(character);
@@ -83,11 +77,17 @@ namespace keresztrejtveny
 
             StreamReader reader = new StreamReader(@forras);
             int lines = 0;
-            while(!reader.EndOfStream)
+            while (!reader.EndOfStream)
             {
-                lines++;
-                Adatsorok.Add(reader.ReadLine());
+                string line = reader.ReadLine();
+                if (!line.Equals(""))
+                {
+                    lines++;
+                    Adatsorok.Add(line);
+                }
+
             }
+            reader.Close();
             int lineLength = Adatsorok[0].Length;
 
             OszlopokDb = lineLength;
@@ -96,31 +96,27 @@ namespace keresztrejtveny
             Racs = new char[OszlopokDb, SorokDb];
             Sorszamok = new int[OszlopokDb, SorokDb];
 
-            Console.WriteLine($"{OszlopokDb}x{SorokDb}");
-
             FeltoltRacs();
         }
 
         public void FeltoltRacs()
         {
-            Console.WriteLine("oszlopok: " + OszlopokDb);
-            Console.WriteLine("sorok: " + SorokDb);
-            for(int i = 0; i < OszlopokDb; i++)
+            int sor = 0;
+            foreach (string line in Adatsorok)
             {
+                List<char> charlist = line.ToCharArray().ToList();
 
-                string line = Adatsorok[i];
-                for (int y = 0; y < SorokDb; y++)
+                int oszlop = 0;
+                foreach (char character in charlist)
                 {
-  
-                    char[] chars = line.ToCharArray();
-
-                    foreach(char character in chars)
-                    {
-                        Racs[i, y] = character;
-                    }
-
+                    Racs[oszlop, sor] = character;
+                    oszlop++;
                 }
+
+                Console.Write("\n");
+                sor++;
             }
+
 
         }
 
