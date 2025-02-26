@@ -30,5 +30,59 @@ namespace homerseklet
             }
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Ellenorzes();
+
+        }
+
+        private void Ellenorzes()
+        {
+            try
+            {
+                int.Parse(input_azonosito.Text);
+            }
+            catch (Exception)
+            {
+                HibaUzenet("Az azonosítónak egész számnak kell lennie!");
+                return;
+            }
+
+            try
+            {
+                double.Parse(input_homerseklet.Text);
+            }
+            catch (Exception)
+            {
+                HibaUzenet("A hőmérsékletnek tört számnak kell lennie!");
+                return;
+            }
+
+            try
+            {
+                int.Parse(input_csapadek.Text);
+            }
+            catch (Exception)
+            {
+                HibaUzenet("A csapadéknak egész számnak kell lennie!");
+                return;
+            }
+        }
+
+        private void HibaUzenet(string hiba)
+        {
+            MessageBox.Show(hiba, "Hiba!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            dataGridView1.Enabled = false;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            dataGridView1.Enabled = true;
+        }
     }
 }
