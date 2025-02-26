@@ -50,7 +50,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.input_napszak = new System.Windows.Forms.ComboBox();
             this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -58,6 +58,9 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToResizeColumns = false;
+            this.dataGridView1.AllowUserToResizeRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.azonosito,
@@ -74,6 +77,8 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.Size = new System.Drawing.Size(643, 414);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+          
             // 
             // groupBox1
             // 
@@ -248,20 +253,20 @@
             this.label5.TabIndex = 13;
             this.label5.Text = "Mért csapadék:";
             // 
-            // comboBox1
+            // input_napszak
             // 
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.input_napszak.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.input_napszak.FormattingEnabled = true;
+            this.input_napszak.Items.AddRange(new object[] {
             "reggel",
             "délelőtt",
             "délután",
             "este",
             "éjszaka"});
-            this.comboBox1.Location = new System.Drawing.Point(801, 236);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(137, 21);
-            this.comboBox1.TabIndex = 14;
+            this.input_napszak.Location = new System.Drawing.Point(801, 236);
+            this.input_napszak.Name = "input_napszak";
+            this.input_napszak.Size = new System.Drawing.Size(137, 21);
+            this.input_napszak.TabIndex = 14;
             // 
             // label6
             // 
@@ -278,7 +283,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(952, 450);
             this.Controls.Add(this.label6);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.input_napszak);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label4);
@@ -331,7 +336,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox input_napszak;
         private System.Windows.Forms.Label label6;
     }
 }
