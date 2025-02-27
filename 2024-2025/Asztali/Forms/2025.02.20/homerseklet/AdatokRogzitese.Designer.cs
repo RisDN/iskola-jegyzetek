@@ -29,15 +29,15 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.azonosito = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.varos = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.napszak = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.datum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.homerseklet = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.csapadek = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.input_modositas = new System.Windows.Forms.RadioButton();
+            this.input_ujfelvetele = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.input_azonosito = new System.Windows.Forms.TextBox();
@@ -78,42 +78,6 @@
             this.dataGridView1.Size = new System.Drawing.Size(643, 414);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
-          
-            // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.radioButton2);
-            this.groupBox1.Controls.Add(this.radioButton1);
-            this.groupBox1.Location = new System.Drawing.Point(745, 24);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(152, 101);
-            this.groupBox1.TabIndex = 1;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Művelet";
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(16, 62);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(84, 17);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.Text = "Módosítás";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Checked = true;
-            this.radioButton1.Location = new System.Drawing.Point(16, 29);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(90, 17);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Új felvétele";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // azonosito
             // 
@@ -150,6 +114,41 @@
             this.csapadek.HeaderText = "Mért csapadék";
             this.csapadek.Name = "csapadek";
             this.csapadek.ReadOnly = true;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.input_modositas);
+            this.groupBox1.Controls.Add(this.input_ujfelvetele);
+            this.groupBox1.Location = new System.Drawing.Point(745, 24);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(152, 101);
+            this.groupBox1.TabIndex = 1;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Művelet";
+            // 
+            // input_modositas
+            // 
+            this.input_modositas.AutoSize = true;
+            this.input_modositas.Location = new System.Drawing.Point(16, 62);
+            this.input_modositas.Name = "input_modositas";
+            this.input_modositas.Size = new System.Drawing.Size(84, 17);
+            this.input_modositas.TabIndex = 1;
+            this.input_modositas.Text = "Módosítás";
+            this.input_modositas.UseVisualStyleBackColor = true;
+            this.input_modositas.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            // 
+            // input_ujfelvetele
+            // 
+            this.input_ujfelvetele.AutoSize = true;
+            this.input_ujfelvetele.Checked = true;
+            this.input_ujfelvetele.Location = new System.Drawing.Point(16, 29);
+            this.input_ujfelvetele.Name = "input_ujfelvetele";
+            this.input_ujfelvetele.Size = new System.Drawing.Size(90, 17);
+            this.input_ujfelvetele.TabIndex = 0;
+            this.input_ujfelvetele.TabStop = true;
+            this.input_ujfelvetele.Text = "Új felvétele";
+            this.input_ujfelvetele.UseVisualStyleBackColor = true;
+            this.input_ujfelvetele.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // button1
             // 
@@ -316,8 +315,8 @@
 
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.RadioButton input_modositas;
+        private System.Windows.Forms.RadioButton input_ujfelvetele;
         private System.Windows.Forms.DataGridViewTextBoxColumn azonosito;
         private System.Windows.Forms.DataGridViewTextBoxColumn varos;
         private System.Windows.Forms.DataGridViewTextBoxColumn napszak;

@@ -29,6 +29,48 @@ namespace homerseklet
 
         private void AdatokRogzitese_Load(object sender, EventArgs e)
         {
+            AdatBetoltes();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(!Ellenorzes())
+            {
+                return;
+            }
+
+            if(input_ujfelvetele.Checked)
+            {
+                UjFelvetele();
+                return;
+            }
+
+            if(input_modositas.Checked)
+            {
+                Szerkesztes();
+                return;
+            }
+
+        }
+
+        private void Szerkesztes()
+        {
+            string varos = input_varos.Text;
+            string napszak = input_napszak.Text;
+            DateTime datum = input_datum.Value;
+            double homerseklet = double.Parse(input_homerseklet.Text);
+            int csapadek = int.Parse(input_csapadek.Text);
+
+            kivalasztva.Frissites(varos, napszak, datum, homerseklet, csapadek);
+
+            AdatBetoltes();
+
+        }
+
+        private void AdatBetoltes()
+        {
+            dataGridView1.Rows.Clear();
+
             DatabaseConnection connection = new DatabaseConnection("SELECT * FROM homerseklet;");
             MySqlDataReader reader = connection.reader;
 
@@ -38,15 +80,30 @@ namespace homerseklet
                 dataGridView1.Rows.Add(reader["azon"], reader["varos"], reader["napszak"], datum, reader["ertek"], reader["csapadek"]);
                 new Meres(reader.GetInt32("azon"), reader.GetString("varos"), reader.GetString("napszak"), reader.GetDateTime("datum"), reader.GetDouble("ertek"), reader.GetInt32("csapadek"));
             }
-
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void UjFelvetele()
         {
-            Ellenorzes();
+            int azonosito = int.Parse(input_azonosito.Text);
+            string varos = input_varos.Text;
+            string napszak = input_napszak.Text;
+            DateTime datum = input_datum.Value;
+            double homerseklet = double.Parse(input_homerseklet.Text);
+            int csapadek = int.Parse(input_csapadek.Text);
+
+            if(Meres.LetezoAzonositoE(azonosito))
+            {
+                HibaUzenet("A megadott azonosítóval már rendelkezik egy feljegyzés!");
+                return;
+            }
+
+            Meres.Hozzadas(azonosito, varos, napszak, datum, homerseklet, csapadek);
+
+            AdatBetoltes();
+
         }
 
-        private void Ellenorzes()
+        private bool Ellenorzes()
         {
             try
             {
@@ -55,7 +112,7 @@ namespace homerseklet
             catch (Exception)
             {
                 HibaUzenet("Az azonosítónak egész számnak kell lennie!");
-                return;
+                return false;
             }
 
             try
@@ -65,7 +122,7 @@ namespace homerseklet
             catch (Exception)
             {
                 HibaUzenet("A hőmérsékletnek tört számnak kell lennie!");
-                return;
+                return false;
             }
 
             try
@@ -75,8 +132,10 @@ namespace homerseklet
             catch (Exception)
             {
                 HibaUzenet("A csapadéknak egész számnak kell lennie!");
-                return;
+                return false;
             }
+
+            return true;
         }
 
         private void HibaUzenet(string hiba)
@@ -88,6 +147,7 @@ namespace homerseklet
         {
             dataGridView1.Enabled = false;
 
+            input_azonosito.Enabled = true;
             input_azonosito.Clear();
             input_varos.Clear();
             input_napszak.Text = null;
@@ -99,6 +159,8 @@ namespace homerseklet
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             dataGridView1.Enabled = true;
+
+            input_azonosito.Enabled = false;
 
         }
 
