@@ -135,4 +135,23 @@
   <metadata name="csapadek.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACIAAAAfCAIAAAANwYjmAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        cwAAEnMBjCK5BwAAAJNJREFUSEvt0lEKgCAQRdHW0nrabCu0S0oE2qgzo1B06aM+egepJUzpZxQNYdZ9
+        40oPZ/5MbpAzUzTIk3kyyI0RDPJhZIPew8hAzMpUzxEzMY0GWZl0V0vPtB+FCkx8X57oMqh8mkkMCUO9
+        BknfpjinMKjyC+SjQxi67+oMqjN0resMamIoSsMZmsRY+hlFX2JCOAAGv+eaRm8m2gAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="button2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACIAAAAfCAIAAAANwYjmAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
+        cwAAEnMBjCK5BwAAAJ9JREFUSEvtkksKwCAMBXuQLnv/m/UMNlAJEk3yjCIuHFw0H94U9EpLOJoAe2je
+        +/lPrqNM0CD/gWq0IHvK+HfDQXWWMRJAT6AZ12xqQBpChIrSBdUQZTSfPPMY0uQBQIeGiDmIuKbLtNnd
+        iOjyGwHScCjn1h0bX6Mlav0mjsbOsqcllgZJQXaIUQ2B7ECaXCsga/4TmMLRBDiaAEs0KX24KnTMtS6P
+        2AAAAABJRU5ErkJggg==
+</value>
+  </data>
 </root>

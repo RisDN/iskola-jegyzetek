@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AdatokRogzitese));
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.azonosito = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.varos = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -152,6 +153,9 @@
             // 
             // button1
             // 
+            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Location = new System.Drawing.Point(672, 391);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(129, 47);
@@ -162,6 +166,9 @@
             // 
             // button2
             // 
+            this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
+            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Location = new System.Drawing.Point(811, 391);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(129, 47);

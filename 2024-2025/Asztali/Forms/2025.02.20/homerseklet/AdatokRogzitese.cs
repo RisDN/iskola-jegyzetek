@@ -100,6 +100,7 @@ namespace homerseklet
             Meres.Hozzadas(azonosito, varos, napszak, datum, homerseklet, csapadek);
 
             AdatBetoltes();
+            MezokTorlese();
 
         }
 
@@ -147,13 +148,9 @@ namespace homerseklet
         {
             dataGridView1.Enabled = false;
 
+            MezokTorlese();
+
             input_azonosito.Enabled = true;
-            input_azonosito.Clear();
-            input_varos.Clear();
-            input_napszak.Text = null;
-            input_datum.ResetText();
-            input_homerseklet.Clear();
-            input_csapadek.Clear();
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -162,6 +159,16 @@ namespace homerseklet
 
             input_azonosito.Enabled = false;
 
+        }
+
+        private void MezokTorlese()
+        {
+            input_azonosito.Clear();
+            input_varos.Clear();
+            input_napszak.Text = null;
+            input_datum.ResetText();
+            input_homerseklet.Clear();
+            input_csapadek.Clear();
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
