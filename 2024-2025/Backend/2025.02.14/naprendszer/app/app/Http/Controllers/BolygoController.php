@@ -11,7 +11,7 @@ class BolygoController extends Controller
 
         return view('bolygo', [
             "bolgyok" => BolygoModel::all("nev", "bolygok_id"),
-            "result" => BolygoModel::all()->where("bolygok_id", "=", $id)
+            "result" => BolygoModel::all()->where("bolygok_id", "=", $id)->first()
         ]);
     }
 }
