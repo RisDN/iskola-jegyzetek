@@ -1,0 +1,15 @@
+body{
+  color: #003C1C;
+}
+
+nav{
+  font-size: 120%;
+}
+
+.fa-solid{
+    color: white
+}
+
+main{
+    min-height: 90vh;
+}

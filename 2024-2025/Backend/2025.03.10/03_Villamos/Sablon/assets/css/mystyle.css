@@ -1,0 +1,93 @@
+:root{
+  --bs-dark-rgb: 0, 42, 52;
+}
+
+body{
+  color: #002a34;
+}
+
+nav{
+  font-size: 120%;
+}
+
+.navbar-dark {
+    --bs-navbar-color: rgb(255, 255, 255);
+    --bs-navbar-hover-color: rgb(235, 0, 0);
+    --bs-navbar-brand-color: rgba(255, 255, 255);
+    --bs-navbar-brand-hover-color: rgba(236, 0, 0);
+}
+
+.fa-solid{
+    color: rgb(255, 255, 255);
+}
+
+main{
+    min-height: 90vh;
+}
+
+.line-p{
+  line-height: 80px;
+}
+
+.line-number{
+  padding: 15px 25px;
+  font-size: 30px;
+  border-radius: 5px;
+} 
+
+.line-number:link,
+.line-number:hover{
+  text-decoration: none;
+}
+
+
+.table-dark {
+  --bs-table-bg: #002a34;
+}
+
+.search{
+  position: relative;
+}
+
+.search input{
+  height: 60px;
+  text-indent: 25px;
+  border: 2px solid #d6d4d4;
+}
+
+.search input:focus{
+  box-shadow: none;
+  border: 2px solid #002a34;
+}
+
+.search .fa-search{
+  position: absolute;
+  top: 23px;
+  left: 16px;
+}
+
+.search button{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  height: 50px;
+  width: 110px;
+  background: #002a34;
+}
+
+.btn-dark {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #002a34;
+  --bs-btn-border-color: #002a34;
+  --bs-btn-hover-color: #fe3c3c;
+  --bs-btn-hover-bg: #002a34;
+  --bs-btn-hover-border-color: #002a34;
+  --bs-btn-focus-shadow-rgb: 66, 70, 73;
+  --bs-btn-active-color: #fe3c3c;
+  --bs-btn-active-bg: #002a34;
+  --bs-btn-active-border-color: #002a34;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #212529;
+  --bs-btn-disabled-border-color: #212529;
+}
